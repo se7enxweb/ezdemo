@@ -1,5 +1,5 @@
 {
-    "name": "ezsystems/ezdemo-ls-extension",
+    "name": "se7enxweb/ezdemo-ls-extension",
     "description": "eZ Publish Legacy Demo Website extension",
     "type": "ezpublish-legacy-extension",
     "license": "GPL-2.0",
