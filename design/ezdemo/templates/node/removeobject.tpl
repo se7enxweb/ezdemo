@@ -36,7 +36,7 @@
   <p><strong>{"Note"|i18n("design/ezdemo/node/removeobject")}:</strong> {"If %trashname is checked, removed items can be found in the trash."
                                                     |i18n( 'design/ezdemo/node/removeobject',,
                                                            hash( '%trashname', concat( '<i>', 'Move to trash' | i18n( 'design/ezdemo/node/removeobject' ), '</i>' ) ) )}</p>
-  <br />
+  <br>
 {/if}
 
 

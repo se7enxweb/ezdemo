@@ -207,7 +207,7 @@
 
 <div class="break"></div>
 
-<br />
+<br>
 {if and( is_set( $object ), is_set( $diff ), is_set( $oldVersion ), is_set( $newVersion ) )|not}
 
 <div class="attribute-header">
@@ -235,7 +235,7 @@
     {* Translations *}
     <td>
         {foreach $published_item.language_list as $lang}
-            {delimiter}<br />{/delimiter}
+            {delimiter}<br>{/delimiter}
             <img src="{$lang.language_code|flag_icon}" alt="{$lang.language_code|wash}" />&nbsp;
             <a href={concat("/content/versionview/",$object.id,"/",$published_item.version,"/",$lang.language_code,"/")|ezurl}>{$lang.locale.intl_language_name|wash}</a>
         {/foreach}

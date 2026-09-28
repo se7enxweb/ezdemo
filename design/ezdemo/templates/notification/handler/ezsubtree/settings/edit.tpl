@@ -1,7 +1,7 @@
 {def $number_of_items=10
      $subscribed_nodes_count=fetch( 'notification', 'subscribed_nodes_count' )}
 
-<br />
+<br>
 
 <h2>{'My item notifications [%notification_count]'|i18n( 'design/ezdemo/notification/handler/ezsubtree/settings/edit', , hash( '%notification_count', $subscribed_nodes_count ) )}</h2>
 
