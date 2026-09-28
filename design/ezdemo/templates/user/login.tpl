@@ -37,7 +37,7 @@
 </div>
 {if ezini( 'SiteSettings', 'AdditionalLoginFormActionURL' )}
     <div class="button-right">
-    <a href="{ezini( 'SiteSettings', 'AdditionalLoginFormActionURL' )}">{"Log in to the eZ Publish Administration Interface"|i18n("design/ezdemo/user/login")}</a>
+    <a href="{ezini( 'SiteSettings', 'AdditionalLoginFormActionURL' )}">{"Log in to the Exponential Administration Interface"|i18n("design/ezdemo/user/login")}</a>
     </div>
 {/if}
 {if ezini( 'Session', 'RememberMeTimeout' )}

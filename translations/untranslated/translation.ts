@@ -988,11 +988,11 @@
 <context>
     <name>design/ezdemo/ezinfo/about</name>
     <message>
-        <source>eZ Publish information: %version</source>
+        <source>Exponential information: %version</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>What is eZ Publish?</source>
+        <source>What is Exponential?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1042,7 +1042,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Export eZ publish content to OpenOffice.org</source>
+        <source>Export Exponential content to OpenOffice.org</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1050,7 +1050,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Here you can export any eZ publish content object to an OpenOffice.org Writer document format.</source>
+        <source>Here you can export any Exponential content object to an OpenOffice.org Writer document format.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1782,7 +1782,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Use this field to enter the base URL of your site. It is used to produce the URLs in the export, composed by the Site URL (e.g. &quot;http://www.example.com/index.php&quot;) and the path to the object (e.g. &quot;/articles/my_article&quot;). The Site URL depends on your web server and eZ Publish configuration.</source>
+        <source>Use this field to enter the base URL of your site. It is used to produce the URLs in the export, composed by the Site URL (e.g. &quot;http://www.example.com/index.php&quot;) and the path to the object (e.g. &quot;/articles/my_article&quot;). The Site URL depends on your web server and Exponential configuration.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2773,7 +2773,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Log in to the eZ Publish Administration Interface</source>
+        <source>Log in to the Exponential Administration Interface</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

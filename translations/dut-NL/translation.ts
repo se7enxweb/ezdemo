@@ -1034,12 +1034,12 @@
 <context>
     <name>design/ezdemo/ezinfo/about</name>
     <message>
-        <source>eZ Publish information: %version</source>
-        <translation>eZ Publish informatie: %version</translation>
+        <source>Exponential information: %version</source>
+        <translation>Exponential informatie: %version</translation>
     </message>
     <message>
-        <source>What is eZ Publish?</source>
-        <translation>Wat is eZ Publish?</translation>
+        <source>What is Exponential?</source>
+        <translation>Wat is Exponential?</translation>
     </message>
     <message>
         <source>Licence</source>
@@ -1092,16 +1092,16 @@
         <translation>OpenOffice.org-export</translation>
     </message>
     <message>
-        <source>Export eZ publish content to OpenOffice.org</source>
-        <translation>Exporteer eZ publish inhoud naar OpenOffice.org</translation>
+        <source>Export Exponential content to OpenOffice.org</source>
+        <translation>Exporteer Exponential inhoud naar OpenOffice.org</translation>
     </message>
     <message>
         <source>Error</source>
         <translation>Fout</translation>
     </message>
     <message>
-        <source>Here you can export any eZ publish content object to an OpenOffice.org Writer document format.</source>
-        <translation>Hier kunt u elk eZ publish inhoudsobject exporteren naar een OpenOffice.org schrijfdocumentformaat.</translation>
+        <source>Here you can export any Exponential content object to an OpenOffice.org Writer document format.</source>
+        <translation>Hier kunt u elk Exponential inhoudsobject exporteren naar een OpenOffice.org schrijfdocumentformaat.</translation>
     </message>
     <message>
         <source>Export Object</source>
@@ -1833,8 +1833,8 @@
         <translation>Site URL</translation>
     </message>
     <message>
-        <source>Use this field to enter the base URL of your site. It is used to produce the URLs in the export, composed by the Site URL (e.g. &quot;http://www.example.com/index.php&quot;) and the path to the object (e.g. &quot;/articles/my_article&quot;). The Site URL depends on your web server and eZ Publish configuration.</source>
-        <translation>Gebruik dit veld om de basis-URL van uw site in te voeren. Dit wordt gebruikt om de URLs in de export te vormen, samengesteld uit de site URL (bijv. &quot;http://www.example.com/index.php&quot;) en het pad naar het object (bijv. &quot;/articles/my_article&quot;). De site URL hangt af van uw web server en de eZ Publish configuratie.</translation>
+        <source>Use this field to enter the base URL of your site. It is used to produce the URLs in the export, composed by the Site URL (e.g. &quot;http://www.example.com/index.php&quot;) and the path to the object (e.g. &quot;/articles/my_article&quot;). The Site URL depends on your web server and Exponential configuration.</source>
+        <translation>Gebruik dit veld om de basis-URL van uw site in te voeren. Dit wordt gebruikt om de URLs in de export te vormen, samengesteld uit de site URL (bijv. &quot;http://www.example.com/index.php&quot;) en het pad naar het object (bijv. &quot;/articles/my_article&quot;). De site URL hangt af van uw web server en de Exponential configuratie.</translation>
     </message>
     <message>
         <source>Leave this field emty if you want system automaticaly detect the URL of your site from the URL you access feed with</source>
@@ -2824,8 +2824,8 @@
         <translation>Wachtwoord</translation>
     </message>
     <message>
-        <source>Log in to the eZ Publish Administration Interface</source>
-        <translation>Meld u aan bij de eZ Publish Beheerinterface</translation>
+        <source>Log in to the Exponential Administration Interface</source>
+        <translation>Meld u aan bij de Exponential Beheerinterface</translation>
     </message>
     <message>
         <source>Remember me</source>
