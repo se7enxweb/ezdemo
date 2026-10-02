@@ -20,14 +20,8 @@
 {run-once}
 <script type="text/javascript">
 {literal}
-YUI(YUI3_config).use('event', 'ezsimplegallery', function (Y) {
-    Y.on('domready', function () {
-        Y.all('.block-type-campaign').each(function () {
-            var gal = new Y.eZ.SimpleGallery({
-                gallery: this
-            });
-        });
-    });
+jQuery(function ($) {
+    $('.block-type-campaign').ezSimpleGallery();
 });
 {/literal}
 </script>

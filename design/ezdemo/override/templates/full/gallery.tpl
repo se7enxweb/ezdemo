@@ -50,57 +50,55 @@
         <script type="text/javascript">
         {literal}
 
-        YUI(YUI3_config).use('ezgallery', 'event', function (Y) {
-            Y.on('domready', function () {
-                var g = new Y.eZ.Gallery({
-                    title: 'h3 a',
-                    caption: 'figcaption div',
-                    autoFixSizes: false,
-                    navigator: {
-                        gallery: '.full-gallery'
-                    },
-                    initFunc: function () {
-                        var imgs = this.navigator.getImages();
+        jQuery(function ($) {
+            var g = new $.eZ.Gallery({
+                title: 'h3 a',
+                caption: 'figcaption div',
+                autoFixSizes: false,
+                navigator: {
+                    gallery: '.full-gallery'
+                },
+                initFunc: function () {
+                    var imgs = this.navigator.getImages();
 
-                        // make the browser caches images
-                        setTimeout(function () {
-                            imgs.each(function(elem) {
-                                (new Image).src = elem.getAttribute('data-gallery-src');
-                            });
-                        }, 0);
-                    },
-                    updateFunc: function (item) {
-                        var node = item.imageNode,
-                            img = this.container.one('.gallery-viewer-image').one('> img');
+                    // make the browser caches images
+                    setTimeout(function () {
+                        imgs.each(function (i, elem) {
+                            (new Image).src = elem.getAttribute('data-gallery-src');
+                        });
+                    }, 0);
+                },
+                updateFunc: function (item) {
+                    var node = item.imageNode,
+                        viewerImage = this.container.find('.gallery-viewer-image').first(),
+                        img = viewerImage.children('img').first();
 
-                        if ( node.getAttribute('data-gallery-item') == 'image' ) {
-                            this.container.one('.visible').replaceClass('visible', 'hidden');
-                            this.container.one('.gallery-viewer-image').replaceClass('hidden', 'visible');
-                        } else if ( node.getAttribute('data-gallery-item') == 'video' ) {
-                            this.container.one('.gallery-viewer-image').replaceClass('visible', 'hidden');
-                            this.container.one('#gallery-viewer-video-' + node.getAttribute('data-gallery-node-id')).replaceClass('hidden', 'visible');
-                        }
-
-                        if ( img ) {
-                            img.setAttribute('src', node.getAttribute('data-gallery-src'));
-                            img.setAttribute('height', node.getAttribute('data-gallery-height'));
-                            img.setAttribute('width', node.getAttribute('data-gallery-width'));
-                            img.setAttribute('alt', node.get('title'));
-                        }
-
-                        var t = this.container.one('.visible ' + this.conf.title),
-                            cap = this.container.one('.visible ' + this.conf.caption),
-                            c = this.container.one('.visible ' + this.conf.counter);
-
-                        t.setContent(node.get('title'));
-                        t.setAttribute('href', node.getAttribute('data-gallery-node-url'));
-                        c.setContent(item.index + 1);
-                        cap.setContent(node.one('figcaption').getContent());
+                    if ( node.attr('data-gallery-item') == 'image' ) {
+                        this.container.find('.visible').first().removeClass('visible').addClass('hidden');
+                        viewerImage.removeClass('hidden').addClass('visible');
+                    } else if ( node.attr('data-gallery-item') == 'video' ) {
+                        viewerImage.removeClass('visible').addClass('hidden');
+                        this.container.find('#gallery-viewer-video-' + node.attr('data-gallery-node-id')).first().removeClass('hidden').addClass('visible');
                     }
-                });
+
+                    if ( img.length ) {
+                        img.attr('src', node.attr('data-gallery-src'));
+                        img.attr('height', node.attr('data-gallery-height'));
+                        img.attr('width', node.attr('data-gallery-width'));
+                        img.attr('alt', node.prop('title'));
+                    }
+
+                    var t = this.container.find('.visible ' + this.conf.title).first(),
+                        cap = this.container.find('.visible ' + this.conf.caption).first(),
+                        c = this.container.find('.visible ' + this.conf.counter).first();
+
+                    t.text(node.prop('title'));
+                    t.attr('href', node.attr('data-gallery-node-url'));
+                    c.text(item.index + 1);
+                    cap.html(node.find('figcaption').html());
+                }
             });
         });
-        
         {/literal}
         </script>
         {/if}
