@@ -5,23 +5,23 @@
     <name>design/admin/content/datatype</name>
     <message>
         <source>Year</source>
-        <translation type="obsolete">Anno</translation>
+        <translation>Anno</translation>
     </message>
     <message>
         <source>Month</source>
-        <translation type="obsolete">Mese</translation>
+        <translation>Mese</translation>
     </message>
     <message>
         <source>Day</source>
-        <translation type="obsolete">Giorno</translation>
+        <translation>Giorno</translation>
     </message>
     <message>
         <source>Hour</source>
-        <translation type="obsolete">Ora</translation>
+        <translation>Ora</translation>
     </message>
     <message>
         <source>Minute</source>
-        <translation type="obsolete">Minuto</translation>
+        <translation>Minuto</translation>
     </message>
 </context>
 <context>
@@ -43,15 +43,15 @@
     <name>design/admin/preview/article</name>
     <message>
         <source>Comments allowed</source>
-        <translation type="unfinished"></translation>
+        <translation>Commenti abilitati</translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation type="unfinished"></translation>
+        <translation>Sì</translation>
     </message>
     <message>
         <source>No</source>
-        <translation type="unfinished"></translation>
+        <translation>No</translation>
     </message>
 </context>
 <context>
@@ -73,36 +73,36 @@
     </message>
     <message>
         <source>%login_link_startLog in%login_link_end or %create_link_startcreate a user account%create_link_end to comment.</source>
-        <translation>%login_link_startLog in%login_link_end o %create_link_startcrea un account utente%create_link_end per inviare un commento.</translation>
+        <translation>%login_link_startAccedi%login_link_end o %create_link_startcrea un account utente%create_link_end per inviare un commento.</translation>
     </message>
     <message>
         <source>%login_link_startLog in%login_link_end to comment.</source>
-        <translation>%login_link_startLog in%login_link_end per inviare un commento.</translation>
+        <translation>%login_link_startAccedi%login_link_end per inviare un commento.</translation>
     </message>
 </context>
 <context>
     <name>design/ezdemo/block/feedback_form</name>
     <message>
         <source>Send form</source>
-        <translation type="unfinished">Invia modulo</translation>
+        <translation>Invia modulo</translation>
     </message>
 </context>
 <context>
     <name>design/ezdemo/block_item/call_to_action</name>
     <message>
         <source>Download!</source>
-        <translation type="unfinished"></translation>
+        <translation>Scarica!</translation>
     </message>
 </context>
 <context>
     <name>design/ezdemo/block_item/product</name>
     <message>
         <source>Amount</source>
-        <translation type="unfinished">Importo</translation>
+        <translation>Importo</translation>
     </message>
     <message>
         <source>Buy</source>
-        <translation type="unfinished"></translation>
+        <translation>Acquista</translation>
     </message>
 </context>
 <context>
@@ -160,11 +160,11 @@
     </message>
     <message>
         <source>Tag cloud</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuvola di tag</translation>
     </message>
     <message>
         <source>Description</source>
-        <translation type="unfinished">Descrizione</translation>
+        <translation>Descrizione</translation>
     </message>
 </context>
 <context>
@@ -243,26 +243,26 @@
     <name>design/ezdemo/colledtedinfomail</name>
     <message>
         <source>Collected information from %1</source>
-        <translation type="unfinished">Informazioni raccolte da %1</translation>
+        <translation>Informazioni raccolte da %1</translation>
     </message>
     <message>
         <source>The following information was collected</source>
-        <translation type="unfinished">Sono arrivate le seguenti informazioni</translation>
+        <translation>Sono arrivate le seguenti informazioni</translation>
     </message>
 </context>
 <context>
     <name>design/ezdemo/comment/view</name>
     <message>
         <source>Avatar</source>
-        <translation type="unfinished"></translation>
+        <translation>Avatar</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished">Modifica</translation>
+        <translation>Modifica</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancella</translation>
     </message>
 </context>
 <context>
@@ -394,15 +394,15 @@
     <name>design/ezdemo/content/datatype</name>
     <message>
         <source>Year</source>
-        <translation type="obsolete">Anno</translation>
+        <translation>Anno</translation>
     </message>
     <message>
         <source>Month</source>
-        <translation type="obsolete">Mese</translation>
+        <translation>Mese</translation>
     </message>
     <message>
         <source>Day</source>
-        <translation type="obsolete">Giorno</translation>
+        <translation>Giorno</translation>
     </message>
     <message>
         <source>Show calendar to select a date.</source>
@@ -478,7 +478,7 @@
     </message>
     <message>
         <source>Store draft</source>
-        <translation>Registra bozza</translation>
+        <translation>Salva bozza</translation>
     </message>
     <message>
         <source>Discard draft</source>
@@ -502,15 +502,15 @@
     </message>
     <message>
         <source>Store the contents of the draft that is being edited and continue editing. Use this button to periodically save your work while editing.</source>
-        <translation>Registra i contenuti della bozza in fase di modifica e continua a modificarla. Usa questo pulsante per salvare periodicamente il tuo lavoro mentre stai modificando.</translation>
+        <translation>Salva i contenuti della bozza in fase di modifica e continua a modificarla. Usa questo pulsante per salvare periodicamente il tuo lavoro mentre stai modificando.</translation>
     </message>
     <message>
         <source>Store draft and exit</source>
-        <translation>Registra la bozza ed esci</translation>
+        <translation>Salva bozza ed esci</translation>
     </message>
     <message>
         <source>Store the draft that is being edited and exit from edit mode. Use when you need to exit your work and return later to continue.</source>
-        <translation>Registra la bozza in fase di modifica ed esci dalla modalità di modifica. Usa questo pulsante per uscire dal tuo lavoro e tornare più tardi per continuare.</translation>
+        <translation>Salva la bozza in fase di modifica ed esci dalla modalità di modifica. Usa questo pulsante per uscire dal tuo lavoro e tornare più tardi per continuare.</translation>
     </message>
     <message>
         <source>Discard the draft that is being edited. This will also remove the translations that belong to the draft (if any).</source>
@@ -926,7 +926,7 @@
     </message>
     <message>
         <source>The message was not sent due to an unknown error. Please notify the site administrator about this error.</source>
-        <translation>Messaggio non spedito a causa di un errore sconosciuto. Contattare l&apos;amministratore di sistema per notificare l&apos;errore.</translation>
+        <translation>Il messaggio non è stato inviato a causa di un errore sconosciuto. Segnala questo errore all&apos;amministratore del sito.</translation>
     </message>
     <message>
         <source>Please correct the following errors:</source>
@@ -938,11 +938,11 @@
     </message>
     <message>
         <source>Your email address</source>
-        <translation>Il tuo indirizzo email</translation>
+        <translation>Il tuo indirizzo e-mail</translation>
     </message>
     <message>
         <source>Recipient&apos;s email address</source>
-        <translation>Contenitore dell&apos;indirizzo email</translation>
+        <translation>Contenitore dell&apos;indirizzo e-mail</translation>
     </message>
     <message>
         <source>Comment</source>
@@ -1081,7 +1081,7 @@
         <translation>Scegli la collocazione per l&apos;oggetto OpenOffice.org.
 
     Seleziona la collocazione e premi il pulsante %buttonname.
-    E&apos; possibile usare anche gli elementi recenti e i preferiti per una collocazione veloce.
+    È possibile usare anche gli elementi recenti e i preferiti per una collocazione veloce.
     Clicca sui nomi delle collocazioni per cambiare l&apos;elenco da sfogliare.</translation>
     </message>
 </context>
@@ -1112,21 +1112,21 @@
     <name>design/ezdemo/footer/address</name>
     <message>
         <source>Get in touch</source>
-        <translation type="unfinished"></translation>
+        <translation>Contattaci</translation>
     </message>
 </context>
 <context>
     <name>design/ezdemo/footer/latest_news</name>
     <message>
         <source>Latest News</source>
-        <translation type="unfinished"></translation>
+        <translation>Ultime notizie</translation>
     </message>
 </context>
 <context>
     <name>design/ezdemo/footer/links</name>
     <message>
         <source>eZ Links</source>
-        <translation type="unfinished"></translation>
+        <translation>Link eZ</translation>
     </message>
 </context>
 <context>
@@ -1141,7 +1141,7 @@
     </message>
     <message>
         <source>%login_link_startLog in%login_link_end or %create_link_startcreate a user account%create_link_end to comment.</source>
-        <translation>%login_link_startLog in%login_link_end o %create_link_startcrea un account utente%create_link_end per inviare un commento.</translation>
+        <translation>%login_link_startAccedi%login_link_end o %create_link_startcrea un account utente%create_link_end per inviare un commento.</translation>
     </message>
     <message>
         <source>Tip a friend</source>
@@ -1153,7 +1153,7 @@
     </message>
     <message>
         <source>Location</source>
-        <translation type="unfinished">Collocazione</translation>
+        <translation>Collocazione</translation>
     </message>
 </context>
 <context>
@@ -1174,7 +1174,7 @@
     <name>design/ezdemo/full/call_to_action</name>
     <message>
         <source>Submit</source>
-        <translation type="unfinished"></translation>
+        <translation>Invia</translation>
     </message>
 </context>
 <context>
@@ -1434,14 +1434,14 @@
     </message>
     <message>
         <source>Amount</source>
-        <translation type="unfinished">Importo</translation>
+        <translation>Importo</translation>
     </message>
 </context>
 <context>
     <name>design/ezdemo/full/video</name>
     <message>
         <source>Download</source>
-        <translation type="unfinished"></translation>
+        <translation>Scarica</translation>
     </message>
 </context>
 <context>
@@ -1484,15 +1484,15 @@
     <name>design/ezdemo/line/file</name>
     <message>
         <source>File size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Dimensione del file:</translation>
     </message>
     <message>
         <source>Modified:</source>
-        <translation type="unfinished">Modificato il:</translation>
+        <translation>Modificato il:</translation>
     </message>
     <message>
         <source>Download file</source>
-        <translation type="unfinished"></translation>
+        <translation>Scarica il file</translation>
     </message>
 </context>
 <context>
@@ -1543,11 +1543,11 @@
     <name>design/ezdemo/line/product</name>
     <message>
         <source>Amount</source>
-        <translation type="unfinished">Importo</translation>
+        <translation>Importo</translation>
     </message>
     <message>
         <source>Buy</source>
-        <translation type="unfinished"></translation>
+        <translation>Acquista</translation>
     </message>
 </context>
 <context>
@@ -1597,7 +1597,7 @@
     <name>design/ezdemo/menu</name>
     <message>
         <source>Navigation</source>
-        <translation type="unfinished"></translation>
+        <translation>Navigazione</translation>
     </message>
 </context>
 <context>
@@ -1636,7 +1636,7 @@
     </message>
     <message>
         <source>The items contain more than the maximum possible nodes for subtree removal and will not be deleted. You can remove this subtree using the ezsubtreeremove.php script.</source>
-        <translation>Gli elementi contengono più nodi del numero massimo possibile per l&apos;eliminazione del sotto-albero e non verranno eliminati. Puoi eliminare questo sotto-albero usando lo script ezsubtreeremove.php.</translation>
+        <translation>Gli elementi contengono più nodi del numero massimo possibile per l&apos;eliminazione del sottoalbero e non verranno eliminati. Puoi eliminare questo sottoalbero usando lo script ezsubtreeremove.php.</translation>
     </message>
 </context>
 <context>
@@ -1674,7 +1674,7 @@
     </message>
     <message>
         <source>Once per week, on </source>
-        <translation>Settimanalmente, il</translation>
+        <translation>Una volta alla settimana, il </translation>
     </message>
     <message>
         <source>Once per month, on day number</source>
@@ -1743,47 +1743,47 @@
     </message>
     <message>
         <source>Tag cloud</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuvola di tag</translation>
     </message>
     <message>
         <source>Site map</source>
-        <translation type="unfinished">Mappa sito</translation>
+        <translation>Mappa sito</translation>
     </message>
     <message>
         <source>Shopping basket</source>
-        <translation type="unfinished">Carrello acquisti</translation>
+        <translation>Carrello acquisti</translation>
     </message>
     <message>
         <source>My profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Il mio profilo</translation>
     </message>
     <message>
         <source>Logout</source>
-        <translation type="unfinished"></translation>
+        <translation>Esci</translation>
     </message>
     <message>
         <source>Register</source>
-        <translation type="unfinished">Iscriviti</translation>
+        <translation>Iscriviti</translation>
     </message>
     <message>
         <source>Login</source>
-        <translation type="unfinished">Login</translation>
+        <translation>Accedi</translation>
     </message>
     <message>
         <source>Username</source>
-        <translation type="unfinished">Nome utente</translation>
+        <translation>Nome utente</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation type="unfinished">Password</translation>
+        <translation>Password</translation>
     </message>
     <message>
         <source>Forgot your password?</source>
-        <translation type="unfinished">Hai dimenticato la password?</translation>
+        <translation>Hai dimenticato la password?</translation>
     </message>
     <message>
         <source>Search text</source>
-        <translation type="unfinished"></translation>
+        <translation>Testo da cercare</translation>
     </message>
 </context>
 <context>
@@ -2222,7 +2222,7 @@
     </message>
     <message>
         <source>Account information</source>
-        <translation>Informazioni sull&apos;account </translation>
+        <translation>Informazioni sull&apos;account</translation>
     </message>
     <message>
         <source>Confirm order</source>
@@ -2333,7 +2333,7 @@
     </message>
     <message>
         <source>Account information</source>
-        <translation>Informazioni sull&apos;account </translation>
+        <translation>Informazioni sull&apos;account</translation>
     </message>
     <message>
         <source>Confirm order</source>
@@ -2589,7 +2589,7 @@
     </message>
     <message>
         <source>Account information</source>
-        <translation>Informazioni sull&apos;account </translation>
+        <translation>Informazioni sull&apos;account</translation>
     </message>
     <message>
         <source>Confirm order</source>
@@ -2613,7 +2613,7 @@
     </message>
     <message>
         <source>Email</source>
-        <translation>Email</translation>
+        <translation>E-mail</translation>
     </message>
     <message>
         <source>Company</source>
@@ -2676,7 +2676,7 @@
     </message>
     <message>
         <source>Store</source>
-        <translation>Registra</translation>
+        <translation>Salva</translation>
     </message>
     <message>
         <source>Remove items</source>
@@ -2721,7 +2721,7 @@
     </message>
     <message>
         <source>Email</source>
-        <translation>Email</translation>
+        <translation>E-mail</translation>
     </message>
     <message>
         <source>Name</source>
@@ -2760,7 +2760,7 @@
     <name>design/ezdemo/user/forgotpassword</name>
     <message>
         <source>An email has been sent to the following address: %1. It contains a link you need to click so that we can confirm that the correct user has received the new password.</source>
-        <translation>Un&apos; email è stata inviata al seguente indirizzo: %1. Contiene un link che devi cliccare per darci conferma che l&apos;utente giusto ha ricevuto la nuova password.</translation>
+        <translation>Un&apos; e-mail è stata inviata al seguente indirizzo: %1. Contiene un link che devi cliccare per darci conferma che l&apos;utente giusto ha ricevuto la nuova password.</translation>
     </message>
     <message>
         <source>There is no registered user with that email address.</source>
@@ -2772,7 +2772,7 @@
     </message>
     <message>
         <source>The key is invalid or has been used. </source>
-        <translation>Chiave non valida o in uso.</translation>
+        <translation>La chiave non è valida o è già stata usata. </translation>
     </message>
     <message>
         <source>Have you forgotten your password?</source>
@@ -2780,11 +2780,11 @@
     </message>
     <message>
         <source>If you have forgotten your password, enter your email address and we will create a new password and send it to you.</source>
-        <translation>Se hai dimenticato la tua password, inserisci il tuo indirizzo email e noi creeremo una nuova password e te la invieremo.</translation>
+        <translation>Se hai dimenticato la tua password, inserisci il tuo indirizzo e-mail e noi creeremo una nuova password e te la invieremo.</translation>
     </message>
     <message>
         <source>Email</source>
-        <translation>Email</translation>
+        <translation>E-mail</translation>
     </message>
     <message>
         <source>Generate new password</source>
@@ -2795,7 +2795,7 @@
     <name>design/ezdemo/user/login</name>
     <message>
         <source>Login</source>
-        <translation>Login</translation>
+        <translation>Accedi</translation>
     </message>
     <message>
         <source>Could not login</source>
@@ -2837,7 +2837,7 @@
     <message>
         <source>Login</source>
         <comment>Button</comment>
-        <translation>Login</translation>
+        <translation>Accedi</translation>
     </message>
     <message>
         <source>Sign up</source>
@@ -2900,7 +2900,7 @@
     </message>
     <message>
         <source>Input was stored successfully</source>
-        <translation>Inserimento registrato con successo</translation>
+        <translation>Dati inseriti salvati correttamente</translation>
     </message>
     <message>
         <source>Register</source>
@@ -2927,7 +2927,7 @@
     </message>
     <message>
         <source>Your account was successfully created. An email will be sent to the specified address. Follow the instructions in that email to activate your account.</source>
-        <translation>Il tuo account è stato creato con successo. Un&apos;email verrà spedita all&apos;indirizzo specificato. Segui le istruzioni nell&apos;email per attivare il tuo account.</translation>
+        <translation>Il tuo account è stato creato con successo. Un&apos;e-mail verrà spedita all&apos;indirizzo specificato. Segui le istruzioni nell&apos;e-mail per attivare il tuo account.</translation>
     </message>
     <message>
         <source>Your account was successfully created.</source>
@@ -3017,54 +3017,54 @@
     <name>design/ezflow/edit/frontpage</name>
     <message>
         <source>Search phrase</source>
-        <translation type="unfinished"></translation>
+        <translation>Cerca frase</translation>
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished">Cerca</translation>
+        <translation>Cerca</translation>
     </message>
     <message>
         <source>Results</source>
-        <translation type="unfinished">Risultati</translation>
+        <translation>Risultati</translation>
     </message>
     <message>
         <source>Select:</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleziona:</translation>
     </message>
     <message>
         <source>Add to block</source>
-        <translation type="unfinished"></translation>
+        <translation>Aggiungi al blocco</translation>
     </message>
     <message>
         <source>Edit &lt;%object_name&gt; (%class_name)</source>
-        <translation type="unfinished">Modifica &lt;%object_name&gt; (%class_name)</translation>
+        <translation>Modifica &lt;%object_name&gt; (%class_name)</translation>
     </message>
     <message>
         <source>Translating content from %from_lang to %to_lang</source>
-        <translation type="unfinished">Traduzione del contenuto da %from_lang a %to_lang</translation>
+        <translation>Traduzione del contenuto da %from_lang a %to_lang</translation>
     </message>
     <message>
         <source>Content in %language</source>
-        <translation type="unfinished">Contenuto in %language</translation>
+        <translation>Contenuto in %language</translation>
     </message>
     <message>
         <source>Send for publishing</source>
-        <translation type="unfinished">Pubblica</translation>
+        <translation>Pubblica</translation>
     </message>
     <message>
         <source>Store draft</source>
-        <translation type="unfinished">Registra bozza</translation>
+        <translation>Salva bozza</translation>
     </message>
     <message>
         <source>Discard draft</source>
-        <translation type="unfinished">Annulla bozza</translation>
+        <translation>Annulla bozza</translation>
     </message>
 </context>
 <context>
     <name>design/ezflow/embed/poll</name>
     <message>
         <source>Vote</source>
-        <translation type="unfinished">Vota</translation>
+        <translation>Vota</translation>
     </message>
 </context>
 <context>
@@ -3078,7 +3078,7 @@
     <name>design/standard/user</name>
     <message>
         <source>Your email address has been confirmed. An administrator needs to approve your sign up request, before your login becomes valid.</source>
-        <translation>Il tuo indirizzo email è stato confermato. Un amministratore deve approvare la tua richiesta di registrazione, prima che il tuo login diventi valido.</translation>
+        <translation>Il tuo indirizzo e-mail è stato confermato. Un amministratore deve approvare la tua richiesta di registrazione, prima che il tuo login diventi valido.</translation>
     </message>
     <message>
         <source>Your account is now activated.</source>
@@ -3097,85 +3097,92 @@
     <name>extension/ezstarrating/datatype</name>
     <message>
         <source>Rating: %current_rating/5</source>
-        <translation type="unfinished"></translation>
+        <translation>Votazione: %current_rating/5</translation>
     </message>
     <message>
         <source>%rating_count votes cast</source>
-        <translation type="unfinished"></translation>
+        <translation>%rating_count somma dei voti</translation>
     </message>
 </context>
 <context>
     <name>ezcomments/comment/add</name>
     <message>
         <source>reCAPTCHA API key missing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Chiave API di reCAPTCHA mancante.</translation>
     </message>
 </context>
 <context>
     <name>ezcomments/comment/add/form</name>
     <message>
         <source>Post a comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Scrivi un commento</translation>
     </message>
     <message>
         <source>Title:</source>
-        <translation type="unfinished"></translation>
+        <translation>Titolo:</translation>
     </message>
     <message>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome:</translation>
     </message>
     <message>
         <source>Website:</source>
-        <translation type="unfinished"></translation>
+        <translation>Sito web:</translation>
     </message>
     <message>
         <source>Email:</source>
-        <translation type="unfinished"></translation>
+        <translation>E-mail:</translation>
     </message>
     <message>
         <source>(The email address will not be shown)</source>
-        <translation type="unfinished"></translation>
+        <translation>(L&apos;indirizzo e-mail non verrà mostrato)</translation>
     </message>
     <message>
         <source>Content:</source>
-        <translation type="unfinished"></translation>
+        <translation>Contenuto:</translation>
     </message>
     <message>
         <source>Notify me of new comments</source>
-        <translation type="unfinished"></translation>
+        <translation>Avvisami dei nuovi commenti</translation>
     </message>
     <message>
         <source>Security text:</source>
-        <translation type="unfinished"></translation>
+        <translation>Testo di sicurezza:</translation>
     </message>
     <message>
         <source>Enter both words below, with or without a space.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserisci entrambe le parole qui sotto, con o senza spazio.</translation>
     </message>
     <message>
         <source>The letters are not case-sensitive.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le lettere non distinguono tra maiuscole e minuscole.</translation>
     </message>
     <message>
         <source>Can&apos;t read this?</source>
-        <translation type="unfinished"></translation>
+        <translation>Non riesci a leggerlo?</translation>
     </message>
     <message>
         <source>Try another</source>
-        <translation type="unfinished"></translation>
+        <translation>Provane un altro</translation>
     </message>
     <message>
         <source>Remember me</source>
-        <translation type="unfinished">Ricordami</translation>
+        <translation>Ricordami</translation>
     </message>
     <message>
         <source>Add comment</source>
-        <translation type="unfinished">Aggiungi un commento</translation>
+        <translation>Aggiungi un commento</translation>
     </message>
     <message>
         <source>Reset form</source>
-        <translation type="unfinished"></translation>
+        <translation>Reimposta il modulo</translation>
+    </message>
+</context>
+<context>
+    <name>design/admin/ezinfo/about</name>
+    <message>
+        <source>Could not load LICENSE file! You should have a LICENSE file in your eZ Publish root directory.</source>
+        <translation>Impossibile caricare il file LICENSE. Dovresti avere un file LICENSE nella directory principale di eZ Publish.</translation>
     </message>
 </context>
 </TS>
