@@ -2,56 +2,33 @@
 <!DOCTYPE TS>
 <TS version="2.0">
 <context>
-    <name>design/admin/content/datatype</name>
-    <message>
-        <source>Year</source>
-        <translation type="obsolete">År</translation>
-    </message>
-    <message>
-        <source>Month</source>
-        <translation type="obsolete">Månad</translation>
-    </message>
-    <message>
-        <source>Day</source>
-        <translation type="obsolete">Dag</translation>
-    </message>
-    <message>
-        <source>Hour</source>
-        <translation type="obsolete">Timme</translation>
-    </message>
-    <message>
-        <source>Minute</source>
-        <translation type="obsolete">Minut</translation>
-    </message>
-</context>
-<context>
     <name>design/admin/content/edit_attribute</name>
     <message>
         <source>not translatable</source>
-        <translation type="unfinished"></translation>
+        <translation>inte översättningsbar</translation>
     </message>
     <message>
         <source>required</source>
-        <translation type="unfinished"></translation>
+        <translation>krävs</translation>
     </message>
     <message>
         <source>information collector</source>
-        <translation type="unfinished"></translation>
+        <translation>informationsinsamlare</translation>
     </message>
 </context>
 <context>
     <name>design/admin/preview/article</name>
     <message>
         <source>Comments allowed</source>
-        <translation type="unfinished"></translation>
+        <translation>Kommentarer tillåtna</translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation type="unfinished"></translation>
+        <translation>Ja</translation>
     </message>
     <message>
         <source>No</source>
-        <translation type="unfinished"></translation>
+        <translation>Nej</translation>
     </message>
 </context>
 <context>
@@ -64,10 +41,6 @@
 <context>
     <name>design/ezdemo/article/comments</name>
     <message>
-        <source>%login_link_startLog in%login_link_end to comment.</source>
-        <translation>%login_link_startLogga in%login_link_end för att kommentera.</translation>
-    </message>
-    <message>
         <source>Comments</source>
         <translation>Kommentarer</translation>
     </message>
@@ -79,30 +52,34 @@
         <source>%login_link_startLog in%login_link_end or %create_link_startcreate a user account%create_link_end to comment.</source>
         <translation>%login_link_startLogga in%login_link_end eller %create_link_startskapa ett användarkonto%create_link_end för att kommentera.</translation>
     </message>
+    <message>
+        <source>%login_link_startLog in%login_link_end to comment.</source>
+        <translation>%login_link_startLogga in%login_link_end för att kommentera.</translation>
+    </message>
 </context>
 <context>
     <name>design/ezdemo/block/feedback_form</name>
     <message>
         <source>Send form</source>
-        <translation type="unfinished">Skicka formulär</translation>
+        <translation>Skicka formulär</translation>
     </message>
 </context>
 <context>
     <name>design/ezdemo/block_item/call_to_action</name>
     <message>
         <source>Download!</source>
-        <translation type="unfinished"></translation>
+        <translation>Ladda ner!</translation>
     </message>
 </context>
 <context>
     <name>design/ezdemo/block_item/product</name>
     <message>
         <source>Amount</source>
-        <translation type="unfinished">Belopp</translation>
+        <translation>Antal</translation>
     </message>
     <message>
         <source>Buy</source>
-        <translation type="unfinished"></translation>
+        <translation>Köp</translation>
     </message>
 </context>
 <context>
@@ -160,11 +137,11 @@
     </message>
     <message>
         <source>Tag cloud</source>
-        <translation type="unfinished"></translation>
+        <translation>Taggmoln</translation>
     </message>
     <message>
         <source>Description</source>
-        <translation type="unfinished">Beskrivning</translation>
+        <translation>Beskrivning</translation>
     </message>
 </context>
 <context>
@@ -243,26 +220,26 @@
     <name>design/ezdemo/colledtedinfomail</name>
     <message>
         <source>Collected information from %1</source>
-        <translation type="unfinished">Insamlad information från %1</translation>
+        <translation>Insamlad information från %1</translation>
     </message>
     <message>
         <source>The following information was collected</source>
-        <translation type="unfinished">Följande information insamlades</translation>
+        <translation>Följande information samlades in</translation>
     </message>
 </context>
 <context>
     <name>design/ezdemo/comment/view</name>
     <message>
         <source>Avatar</source>
-        <translation type="unfinished"></translation>
+        <translation>Avatar</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished">Redigera</translation>
+        <translation>Redigera</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort</translation>
     </message>
 </context>
 <context>
@@ -294,10 +271,6 @@
     <message>
         <source>Last week</source>
         <translation>Senaste veckan</translation>
-    </message>
-    <message>
-        <source>Last month</source>
-        <translation>Senaste månaden</translation>
     </message>
     <message>
         <source>Last three months</source>
@@ -342,6 +315,10 @@
     <message>
         <source>Search for &quot;%1&quot; returned %2 matches</source>
         <translation>Sökningen efter &quot;%1&quot; hittade %2 resultat</translation>
+    </message>
+    <message>
+        <source>Last month</source>
+        <translation>Senaste månaden</translation>
     </message>
 </context>
 <context>
@@ -388,21 +365,6 @@
     <message>
         <source>Type</source>
         <translation>Typ</translation>
-    </message>
-</context>
-<context>
-    <name>design/ezdemo/content/datatype</name>
-    <message>
-        <source>Year</source>
-        <translation type="obsolete">År</translation>
-    </message>
-    <message>
-        <source>Month</source>
-        <translation type="obsolete">Månad</translation>
-    </message>
-    <message>
-        <source>Day</source>
-        <translation type="obsolete">Dag</translation>
     </message>
 </context>
 <context>
@@ -462,19 +424,12 @@
     <message>
         <source>These are the current objects you are working on. The drafts are owned by you and can only be seen by you.
       You can either edit the drafts or remove them if you don&apos;t need them any more.</source>
-        <translation type="unfinished"></translation>
+        <translation>Det här är de objekt du arbetar med just nu. Utkasten ägs av dig och kan bara ses av dig.
+      Du kan antingen redigera utkasten eller ta bort dem om du inte behöver dem längre.</translation>
     </message>
 </context>
 <context>
     <name>design/ezdemo/content/edit</name>
-    <message>
-        <source>Translating content from %from_lang to %to_lang</source>
-        <translation>Översätter innehåll från  %from_lang till %to_lang</translation>
-    </message>
-    <message>
-        <source>Content in %language</source>
-        <translation>Innehåll på %language</translation>
-    </message>
     <message>
         <source>Send for publishing</source>
         <translation>Skicka till publicering</translation>
@@ -488,28 +443,36 @@
         <translation>Ta bort utkast</translation>
     </message>
     <message>
+        <source>Translating content from %from_lang to %to_lang</source>
+        <translation>Översätter innehåll från  %from_lang till %to_lang</translation>
+    </message>
+    <message>
+        <source>Content in %language</source>
+        <translation>Innehåll på %language</translation>
+    </message>
+    <message>
         <source>Edit &lt;%object_name&gt; (%class_name)</source>
-        <translation type="unfinished"></translation>
+        <translation>Redigera &lt;%object_name&gt; (%class_name)</translation>
     </message>
     <message>
         <source>Publish the contents of the draft that is being edited. The draft will become the published version of the object.</source>
-        <translation type="unfinished"></translation>
+        <translation>Publicera det redigerade utkastets innehåll. Utkastet kommer bli den publicerade versionen av objektet.</translation>
     </message>
     <message>
         <source>Store the contents of the draft that is being edited and continue editing. Use this button to periodically save your work while editing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Spara innehållet av utkastet som håller på att bli redigerat och forsätt redigera utkastet. Använd den här knappen ofta för att spara tid lagd på att redigera.</translation>
     </message>
     <message>
         <source>Store draft and exit</source>
-        <translation type="unfinished"></translation>
+        <translation>Spara och stäng utkast</translation>
     </message>
     <message>
         <source>Store the draft that is being edited and exit from edit mode. Use when you need to exit your work and return later to continue.</source>
-        <translation type="unfinished"></translation>
+        <translation>Spara utkastet som redigeras och stäng från redigeringsläget. Använd när du behöver stänga ditt arbete och fortsätta vid senare tillfälle.</translation>
     </message>
     <message>
         <source>Discard the draft that is being edited. This will also remove the translations that belong to the draft (if any).</source>
-        <translation type="unfinished"></translation>
+        <translation>Kasta utkastet som redigeras. Detta tar också bort översättningarna som hör till utkastet (om några).</translation>
     </message>
 </context>
 <context>
@@ -561,17 +524,20 @@
     <message>
         <source>This object is already being edited by yourself and others.
     You can either continue editing one of your drafts or you can create a new draft.</source>
-        <translation type="unfinished"></translation>
+        <translation>Objektet redigeras redan av dig och andra.
+    Du kan antingen fortsätta redigera ett av dina utkast eller skapa ett nytt utkast.</translation>
     </message>
     <message>
         <source>This object is already being edited by you.
         You can either continue editing one of your drafts or you can create a new draft.</source>
-        <translation type="unfinished"></translation>
+        <translation>Objektet håller redan på att redigeras av dig
+   Du kan antingen välja att fortsätta redigera ett av dina utkast eller så kan du skapa nytt utkast.</translation>
     </message>
     <message>
         <source>This object is already being edited by someone else.
         You should either contact the person about their draft or create a new draft for your own use.</source>
-        <translation type="unfinished"></translation>
+        <translation>Objektet redigeras redan av någon annan.
+        Du bör antingen kontakta personen om utkastet eller skapa ett nytt utkast för eget bruk.</translation>
     </message>
 </context>
 <context>
@@ -670,10 +636,6 @@
     <message>
         <source>Status</source>
         <translation>Status</translation>
-    </message>
-    <message>
-        <source>Modified translation</source>
-        <translation>Modifierad översättning</translation>
     </message>
     <message>
         <source>Creator</source>
@@ -802,6 +764,10 @@
     <message>
         <source>Back to history</source>
         <translation>Tillbaka till historik</translation>
+    </message>
+    <message>
+        <source>Modified translation</source>
+        <translation>Modifierad översättning</translation>
     </message>
 </context>
 <context>
@@ -1027,7 +993,7 @@
     <name>design/ezdemo/ezinfo/about</name>
     <message>
         <source>Exponential information: %version</source>
-        <translation>Exponential information: %version</translation>
+        <translation>Exponential-information: %version</translation>
     </message>
     <message>
         <source>What is Exponential?</source>
@@ -1070,7 +1036,11 @@
     Select the placements and click the %buttonname button.
     Using the recent and bookmark items for quick placement is also possible.
     Click on placement names to change the browse listing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj placering för OpenOffice.org-objektet.
+
+    Markera placeringarna och klicka på knappen %buttonname.
+    Du kan också använda senaste objekt och bokmärken för snabb placering.
+    Klicka på namnen på placeringarna för att ändra bläddringslistan.</translation>
     </message>
 </context>
 <context>
@@ -1100,21 +1070,21 @@
     <name>design/ezdemo/footer/address</name>
     <message>
         <source>Get in touch</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontakta oss</translation>
     </message>
 </context>
 <context>
     <name>design/ezdemo/footer/latest_news</name>
     <message>
         <source>Latest News</source>
-        <translation type="unfinished"></translation>
+        <translation>Senaste nytt</translation>
     </message>
 </context>
 <context>
     <name>design/ezdemo/footer/links</name>
     <message>
         <source>eZ Links</source>
-        <translation type="unfinished"></translation>
+        <translation>eZ-länkar</translation>
     </message>
 </context>
 <context>
@@ -1137,11 +1107,11 @@
     </message>
     <message>
         <source>Related content</source>
-        <translation type="unfinished"></translation>
+        <translation>Relaterat innehåll</translation>
     </message>
     <message>
         <source>Location</source>
-        <translation type="unfinished">Plats</translation>
+        <translation>Plats</translation>
     </message>
 </context>
 <context>
@@ -1162,7 +1132,7 @@
     <name>design/ezdemo/full/call_to_action</name>
     <message>
         <source>Submit</source>
-        <translation type="unfinished"></translation>
+        <translation>Skicka</translation>
     </message>
 </context>
 <context>
@@ -1212,7 +1182,7 @@
     </message>
     <message>
         <source>Show All Events..</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa alla evenemang..</translation>
     </message>
 </context>
 <context>
@@ -1362,7 +1332,7 @@
     </message>
     <message>
         <source>Forum</source>
-        <translation type="unfinished"></translation>
+        <translation>Forum</translation>
     </message>
 </context>
 <context>
@@ -1377,7 +1347,7 @@
     </message>
     <message>
         <source>Related content</source>
-        <translation type="unfinished"></translation>
+        <translation>Relaterat innehåll</translation>
     </message>
 </context>
 <context>
@@ -1422,14 +1392,14 @@
     </message>
     <message>
         <source>Amount</source>
-        <translation type="unfinished">Belopp</translation>
+        <translation>Antal</translation>
     </message>
 </context>
 <context>
     <name>design/ezdemo/full/video</name>
     <message>
         <source>Download</source>
-        <translation type="unfinished"></translation>
+        <translation>Ladda ner</translation>
     </message>
 </context>
 <context>
@@ -1451,7 +1421,7 @@
     <name>design/ezdemo/line/blog_post</name>
     <message>
         <source>Tags:</source>
-        <translation type="unfinished">Taggar:</translation>
+        <translation>Taggar:</translation>
     </message>
 </context>
 <context>
@@ -1472,15 +1442,15 @@
     <name>design/ezdemo/line/file</name>
     <message>
         <source>File size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Filstorlek:</translation>
     </message>
     <message>
         <source>Modified:</source>
-        <translation type="unfinished">Modifierad:</translation>
+        <translation>Modifierad:</translation>
     </message>
     <message>
         <source>Download file</source>
-        <translation type="unfinished"></translation>
+        <translation>Ladda ner fil</translation>
     </message>
 </context>
 <context>
@@ -1531,11 +1501,11 @@
     <name>design/ezdemo/line/product</name>
     <message>
         <source>Amount</source>
-        <translation type="unfinished">Belopp</translation>
+        <translation>Antal</translation>
     </message>
     <message>
         <source>Buy</source>
-        <translation type="unfinished"></translation>
+        <translation>Köp</translation>
     </message>
 </context>
 <context>
@@ -1585,7 +1555,7 @@
     <name>design/ezdemo/menu</name>
     <message>
         <source>Navigation</source>
-        <translation type="unfinished"></translation>
+        <translation>Navigering</translation>
     </message>
 </context>
 <context>
@@ -1624,7 +1594,7 @@
     </message>
     <message>
         <source>The items contain more than the maximum possible nodes for subtree removal and will not be deleted. You can remove this subtree using the ezsubtreeremove.php script.</source>
-        <translation type="unfinished"></translation>
+        <translation>Objekten innehåller fler än maximalt antal noder för borttagning av underträd och kommer inte att raderas. Du kan radera underträd genom att använda ezsubtreeremove.php skriptet.</translation>
     </message>
 </context>
 <context>
@@ -1662,7 +1632,7 @@
     </message>
     <message>
         <source>Once per week, on </source>
-        <translation>En gång per vecka, på</translation>
+        <translation>En gång i veckan, på </translation>
     </message>
     <message>
         <source>Once per month, on day number</source>
@@ -1731,475 +1701,475 @@
     </message>
     <message>
         <source>Tag cloud</source>
-        <translation type="unfinished"></translation>
+        <translation>Taggmoln</translation>
     </message>
     <message>
         <source>Site map</source>
-        <translation type="unfinished">Sitemap</translation>
+        <translation>Webbplatskarta</translation>
     </message>
     <message>
         <source>Shopping basket</source>
-        <translation type="unfinished">Kundvagn</translation>
+        <translation>Kundkorg</translation>
     </message>
     <message>
         <source>My profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Min profil</translation>
     </message>
     <message>
         <source>Logout</source>
-        <translation type="unfinished"></translation>
+        <translation>Logga ut</translation>
     </message>
     <message>
         <source>Register</source>
-        <translation type="unfinished">Registrera</translation>
+        <translation>Registrera</translation>
     </message>
     <message>
         <source>Login</source>
-        <translation type="unfinished">Logga in</translation>
+        <translation>Logga in</translation>
     </message>
     <message>
         <source>Username</source>
-        <translation type="unfinished">Användarnamn</translation>
+        <translation>Användarnamn</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation type="unfinished">Lösenord</translation>
+        <translation>Lösenord</translation>
     </message>
     <message>
         <source>Forgot your password?</source>
-        <translation type="unfinished">Glömt ditt lösenord?</translation>
+        <translation>Glömt ditt lösenord?</translation>
     </message>
     <message>
         <source>Search text</source>
-        <translation type="unfinished"></translation>
+        <translation>Söktext</translation>
     </message>
 </context>
 <context>
     <name>design/ezdemo/parts/website_toolbar</name>
     <message>
         <source>Remove node RSS/ATOM feed</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort nodens RSS/ATOM-flöde</translation>
     </message>
     <message>
         <source>Create node RSS/ATOM feed</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapa RSS/ATOM-flöde för noden</translation>
     </message>
 </context>
 <context>
     <name>design/ezdemo/rss/edit_export</name>
     <message>
         <source>Edit &lt;%rss_export_name&gt; [RSS Export]</source>
-        <translation type="unfinished"></translation>
+        <translation>Redigera &lt;%rss_export_name&gt; [RSS-export]</translation>
     </message>
     <message>
         <source>Invalid input</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltiga indata</translation>
     </message>
     <message>
         <source>If RSS Export is Active then a valid Access URL is required.</source>
-        <translation type="unfinished"></translation>
+        <translation>Om RSS-exporten är aktiverad krävs en validerad url.</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Namn</translation>
+        <translation>Namn</translation>
     </message>
     <message>
         <source>Name of the RSS export. This name is used in the Administration Interface only, to distinguish the different exports from each other.</source>
-        <translation type="unfinished"></translation>
+        <translation>Namn på RSS-exporten. Namnet används endast i administrationsgränssnittet för att skilja olika exporter åt.</translation>
     </message>
     <message>
         <source>Description</source>
-        <translation type="unfinished">Beskrivning</translation>
+        <translation>Beskrivning</translation>
     </message>
     <message>
         <source>Use the description field to write a text explaining what users can expect from the RSS export.</source>
-        <translation type="unfinished"></translation>
+        <translation>Använd förklaringsfältet för att skriva i en text som förklarar vad man kan förvänta sig av RSS-exporteringen.</translation>
     </message>
     <message>
         <source>Site URL</source>
-        <translation type="unfinished"></translation>
+        <translation>Sidans url</translation>
     </message>
     <message>
         <source>Use this field to enter the base URL of your site. It is used to produce the URLs in the export, composed by the Site URL (e.g. &quot;http://www.example.com/index.php&quot;) and the path to the object (e.g. &quot;/articles/my_article&quot;). The Site URL depends on your web server and Exponential configuration.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ange bas-url:en för webbplatsen i detta fält. Den används för att generera url:er i exporten med webbplats-url:en (till exempel &quot;http://www.example.com/index.php&quot;) och sökvägen till objektet (till exempel &quot;/artiklar/min_artikel&quot;). Webbplats-url:en beror på webbserver- och Exponential-konfigurationen.</translation>
     </message>
     <message>
         <source>Leave this field emty if you want system automaticaly detect the URL of your site from the URL you access feed with</source>
-        <translation type="unfinished"></translation>
+        <translation>Lämna fältet tomt om du vill att systemet automatiskt ska känna av webbplatsens URL utifrån den URL som flödet hämtas med</translation>
     </message>
     <message>
         <source>Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Bild</translation>
     </message>
     <message>
         <source>Browse</source>
-        <translation type="unfinished">Bläddra</translation>
+        <translation>Bläddra</translation>
     </message>
     <message>
         <source>Click this button to select an image for the RSS export. Note that images only work with RSS version 2.0</source>
-        <translation type="unfinished"></translation>
+        <translation>Klicka på den här knappen för att välja en bild för RSS-exporten. Observera att bilder bara fungerar med RSS version 2.0</translation>
     </message>
     <message>
         <source>Remove image</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort bild</translation>
     </message>
     <message>
         <source>Click to remove image from RSS export.</source>
-        <translation type="unfinished"></translation>
+        <translation>Klicka för att ta bort bild från RSS-exporten.</translation>
     </message>
     <message>
         <source>RSS version</source>
-        <translation type="unfinished"></translation>
+        <translation>RSS-version</translation>
     </message>
     <message>
         <source>Use this drop-down menu to select the RSS version to use for the export. You must select RSS 2.0 in order to export the image selected above.</source>
-        <translation type="unfinished"></translation>
+        <translation>Använd den här rullgardinsmenyn för att välja vilken RSS-version som ska användas vid exporteringen. Du måste välja RSS 2.0 för att den förväntade bilden ska visas (ovan).</translation>
     </message>
     <message>
         <source>Number of objects</source>
-        <translation type="unfinished"></translation>
+        <translation>Antal objekt</translation>
     </message>
     <message>
         <source>Use this drop-down to select the maximum number of objects included in the RSS feed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Använd rullgardinsmenyn för att välja högsta antal objekt inkluderade i RSS-flödet.</translation>
     </message>
     <message>
         <source>Active</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktiv</translation>
     </message>
     <message>
         <source>Use this checkbox to control if the RSS export is active or not. An inactive export will not be automatically updated.</source>
-        <translation type="unfinished"></translation>
+        <translation>Använd den här kryssrutan för att styra om RSS-exporten är aktiv eller inte. En inaktiv export uppdateras inte automatiskt.</translation>
     </message>
     <message>
         <source>Main node only</source>
-        <translation type="unfinished"></translation>
+        <translation>Endast Huvudnod</translation>
     </message>
     <message>
         <source>Check if you want to only feed the object from the main node.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kryssa om du vill att bara objekt från huvudnoden ska feedas.</translation>
     </message>
     <message>
         <source>Access URL</source>
-        <translation type="unfinished"></translation>
+        <translation>Åtkomst-url</translation>
     </message>
     <message>
         <source>Use this field to set the URL where the RSS export should be available. Note that &quot;rss/feed/&quot; will be appended to the real URL. </source>
-        <translation type="unfinished"></translation>
+        <translation>Använd det här fältet för att ange den URL där RSS-exporten ska vara tillgänglig. Observera att &quot;rss/feed/&quot; läggs till i den verkliga URL:en. </translation>
     </message>
     <message>
         <source>Source</source>
-        <translation type="unfinished"></translation>
+        <translation>Källa</translation>
     </message>
     <message>
         <source>Source path</source>
-        <translation type="unfinished"></translation>
+        <translation>Källsökväg</translation>
     </message>
     <message>
         <source>Click this button to select the source node for the RSS export source. Objects of the type selected in the drop-down below published as sub items of the selected node will be included in the RSS export.</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj källnoden för RSS-exporten. Objekt av vald typ i rullgardinsmenyn nedan som är delenheter av vald nod inkluderas i RSS-exporten.</translation>
     </message>
     <message>
         <source>Subnodes</source>
-        <translation type="unfinished"></translation>
+        <translation>Undernoder</translation>
     </message>
     <message>
         <source>Activate this checkbox if objects from the subnodes of the source should also be fed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktivera denna kryssruta om objekt från undernoderna av källan också ska vara med i flödet.</translation>
     </message>
     <message>
         <source>Class</source>
-        <translation type="unfinished">Klass</translation>
+        <translation>Klass</translation>
     </message>
     <message>
         <source>Use this drop-down to select the type of object that triggers the export. Click the &quot;Set&quot; button to load the correct attribute types for the remaining fields.</source>
-        <translation type="unfinished"></translation>
+        <translation>Använd denna meny för att välja objektstyp som triggar exporten och klicka på knappen &quot;Ställ in&quot; för att ladda rätt attributtyper för resterande fält.</translation>
     </message>
     <message>
         <source>Set</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställ in</translation>
     </message>
     <message>
         <source>Click this button to load the correct values into the drop-down fields below. Use the drop-down menu on the left to select the class.</source>
-        <translation type="unfinished"></translation>
+        <translation>Klicka här för att ladda in rätt värden i rullgardinsmenyn nedan. Använd rullgardinsmenyn till vänster för att välja klass.</translation>
     </message>
     <message>
         <source>Title</source>
-        <translation type="unfinished"></translation>
+        <translation>Titel</translation>
     </message>
     <message>
         <source>Use this drop-down to select the attribute that should be exported as the title of the RSS export entry.</source>
-        <translation type="unfinished"></translation>
+        <translation>Använd rullgardinsmenyn för att välja attribut som ska exporteras som titel för RSS-exportenheten.</translation>
     </message>
     <message>
         <source>optional</source>
-        <translation type="unfinished"></translation>
+        <translation>valfri</translation>
     </message>
     <message>
         <source>Use this drop-down to select the attribute that should be exported as the description of the RSS export entry.</source>
-        <translation type="unfinished"></translation>
+        <translation>Använd rullgardinsmenyn för att välja attribut som ska exporteras som beskrivning för RSS-exportenheten.</translation>
     </message>
     <message>
         <source>Skip</source>
-        <translation type="unfinished"></translation>
+        <translation>Hoppa över</translation>
     </message>
     <message>
         <source>Category</source>
-        <translation type="unfinished">Kategori</translation>
+        <translation>Kategori</translation>
     </message>
     <message>
         <source>Use this drop-down to select the attribute that should be exported as the category of the RSS export entry.</source>
-        <translation type="unfinished"></translation>
+        <translation>Använd rullgardinsmenyn för att välja attribut som ska exporteras som kategori för RSS-exportenheten.</translation>
     </message>
     <message>
         <source>Remove this source</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort den här källan</translation>
     </message>
     <message>
         <source>Click to remove this source from the RSS export.</source>
-        <translation type="unfinished"></translation>
+        <translation>Klicka för att radera den här källan från RSS exporteringen.</translation>
     </message>
     <message>
         <source>Add source</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till källa</translation>
     </message>
     <message>
         <source>Click to add a new source to the RSS export.</source>
-        <translation type="unfinished"></translation>
+        <translation>Klicka för att lägga till ny källa i RSS-exporten.</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Apply the changes and return to the RSS overview.</source>
-        <translation type="unfinished"></translation>
+        <translation>Spara förändringar och återvänd till översikten av RSS.</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Avbryt</translation>
+        <translation>Avbryt</translation>
     </message>
     <message>
         <source>Cancel the changes and return to the RSS overview.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ångra förändringar och återvänd till RSS översikten.</translation>
     </message>
 </context>
 <context>
     <name>design/ezdemo/rss/edit_import</name>
     <message>
         <source>Edit &lt;%rss_import_name&gt; [RSS Import]</source>
-        <translation type="unfinished"></translation>
+        <translation>Redigera &lt;%rss_import_name&gt; [RSS-import]</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Namn</translation>
+        <translation>Namn</translation>
     </message>
     <message>
         <source>Name of the RSS import. This name is used in the Administration Interface only, to distinguish the different imports from each other.</source>
-        <translation type="unfinished"></translation>
+        <translation>Namn på RSS-importen. Namnet används endast i administrationsgränssnittet för att skilja olika importer åt.</translation>
     </message>
     <message>
         <source>Source URL</source>
-        <translation type="unfinished"></translation>
+        <translation>Käll-url</translation>
     </message>
     <message>
         <source>Use this field to enter the source URL of the RSS feed to import.</source>
-        <translation type="unfinished"></translation>
+        <translation>Använd det här fältet för att ange url för RSS-importen.</translation>
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">Uppdatera</translation>
+        <translation>Uppdatera</translation>
     </message>
     <message>
         <source>Click this button to proceed and analyze the import feed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Klicka på knappen för att analysera importflödet.</translation>
     </message>
     <message>
         <source>RSS Version</source>
-        <translation type="unfinished"></translation>
+        <translation>RSS version</translation>
     </message>
     <message>
         <source>Destination path</source>
-        <translation type="unfinished"></translation>
+        <translation>Sökväg till mål</translation>
     </message>
     <message>
         <source>Browse</source>
-        <translation type="unfinished">Bläddra</translation>
+        <translation>Bläddra</translation>
     </message>
     <message>
         <source>Click this button to select the destination node where objects created by the import are located.</source>
-        <translation type="unfinished"></translation>
+        <translation>Klicka på den här knappen för att ange vilken nod objekten ska skapas i när importen görs.</translation>
     </message>
     <message>
         <source>Imported objects will be owned by</source>
-        <translation type="unfinished"></translation>
+        <translation>Importerade objekt kommer ägas av</translation>
     </message>
     <message>
         <source>Change user</source>
-        <translation type="unfinished"></translation>
+        <translation>Ändra användare</translation>
     </message>
     <message>
         <source>Click this button to select the user who should own the objects created by the import.</source>
-        <translation type="unfinished"></translation>
+        <translation>Klicka på den här knappen för att välja vilken användare som äger importen.</translation>
     </message>
     <message>
         <source>Class</source>
-        <translation type="unfinished">Klass</translation>
+        <translation>Klass</translation>
     </message>
     <message>
         <source>Use this drop-down to select the type of object the import should create. Click the &quot;Set&quot; button to load the attribute types for the remaining fields.</source>
-        <translation type="unfinished"></translation>
+        <translation>Använd denna meny för att välja objektstyp som importen ska skapa. Klicka på knappen &quot;Ställ in&quot; för att ladda rätt attributtyper för resterande fält.</translation>
     </message>
     <message>
         <source>Set</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställ in</translation>
     </message>
     <message>
         <source>Click this button to load the correct values into the drop-down fields below. Use the drop-down menu on the left to select the class.</source>
-        <translation type="unfinished"></translation>
+        <translation>Klicka här för att ladda in rätt värden i rullgardinsmenyn nedan. Använd rullgardinsmenyn till vänster för att välja klass.</translation>
     </message>
     <message>
         <source>Class attributes</source>
-        <translation type="unfinished"></translation>
+        <translation>Klassattribut</translation>
     </message>
     <message>
         <source>Use this drop-down menu to select the attribute that should bet set as information from the RSS stream.</source>
-        <translation type="unfinished"></translation>
+        <translation>Använd rullgardinsmenyn för att välja attribut som ska vara information i RSS-flödet.</translation>
     </message>
     <message>
         <source>Ignore</source>
-        <translation type="unfinished"></translation>
+        <translation>Ignorera</translation>
     </message>
     <message>
         <source>Object attributes</source>
-        <translation type="unfinished"></translation>
+        <translation>Objektattribut</translation>
     </message>
     <message>
         <source>Active</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktiv</translation>
     </message>
     <message>
         <source>Use this checkbox to control if the RSS feed is active or not. An inactive feed will not be automatically updated.</source>
-        <translation type="unfinished"></translation>
+        <translation>Använd den här kryssrutan för att kontrollera om RSS-flödet är aktivt eller inte. Ett inaktivt flöde kommer inte att uppdateras automatiskt.</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Apply the changes and return to the RSS overview.</source>
-        <translation type="unfinished"></translation>
+        <translation>Spara förändringar och återvänd till översikten av RSS.</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Avbryt</translation>
+        <translation>Avbryt</translation>
     </message>
     <message>
         <source>Cancel the changes and return to the RSS overview.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ångra förändringar och återvänd till RSS översikten.</translation>
     </message>
 </context>
 <context>
     <name>design/ezdemo/rss/list</name>
     <message>
         <source>RSS exports [%exports_count]</source>
-        <translation type="unfinished"></translation>
+        <translation>RSS-exporter [%exports_count]</translation>
     </message>
     <message>
         <source>Invert selection</source>
-        <translation type="unfinished">Invertera urval</translation>
+        <translation>Invertera val</translation>
     </message>
     <message>
         <source>Invert selection.</source>
-        <translation type="unfinished">Invertera urval.</translation>
+        <translation>Invertera val.</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Namn</translation>
+        <translation>Namn</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Version</translation>
+        <translation>Version</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="unfinished">Status</translation>
+        <translation>Status</translation>
     </message>
     <message>
         <source>Modifier</source>
-        <translation type="unfinished"></translation>
+        <translation>Modifierare</translation>
     </message>
     <message>
         <source>Modified</source>
-        <translation type="unfinished">Modifierad</translation>
+        <translation>Modifierad</translation>
     </message>
     <message>
         <source>Select RSS export for removal.</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj RSS exportering som ska raderas.</translation>
     </message>
     <message>
         <source>Active</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktiv</translation>
     </message>
     <message>
         <source>Inactive</source>
-        <translation type="unfinished"></translation>
+        <translation>Inaktiv</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished">Redigera</translation>
+        <translation>Redigera</translation>
     </message>
     <message>
         <source>Edit the &lt;%name&gt; RSS export.</source>
-        <translation type="unfinished"></translation>
+        <translation>Redigera RSS-exporten &lt;%name&gt;.</translation>
     </message>
     <message>
         <source>The RSS export list is empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>RSS-listan för exporteringar är tom.</translation>
     </message>
     <message>
         <source>Remove selected</source>
-        <translation type="unfinished">Ta bort vald</translation>
+        <translation>Ta bort markerade</translation>
     </message>
     <message>
         <source>Remove selected RSS exports.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort valda RSS-exporter.</translation>
     </message>
     <message>
         <source>New export</source>
-        <translation type="unfinished"></translation>
+        <translation>Ny exportering</translation>
     </message>
     <message>
         <source>Create a new RSS export.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapa ny RSS-export.</translation>
     </message>
     <message>
         <source>RSS imports [%imports_count]</source>
-        <translation type="unfinished"></translation>
+        <translation>RSS-importer [%imports_count]</translation>
     </message>
     <message>
         <source>Select RSS import for removal.</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj RSS importering som ska raderas.</translation>
     </message>
     <message>
         <source>Edit the &lt;%name&gt; RSS import.</source>
-        <translation type="unfinished"></translation>
+        <translation>Redigera RSS-importen &lt;%name&gt;.</translation>
     </message>
     <message>
         <source>The RSS import list is empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>RSS-listan för importeringar är tom.</translation>
     </message>
     <message>
         <source>Remove selected RSS imports.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort valda RSS-importer.</translation>
     </message>
     <message>
         <source>New import</source>
-        <translation type="unfinished"></translation>
+        <translation>Ny importering</translation>
     </message>
     <message>
         <source>Create a new RSS import.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapa ny RSS-importering.</translation>
     </message>
 </context>
 <context>
@@ -2381,15 +2351,15 @@
     </message>
     <message>
         <source>Summary</source>
-        <translation type="unfinished">Översikt</translation>
+        <translation>Sammanfattning</translation>
     </message>
     <message>
         <source>Total ex. VAT</source>
-        <translation type="unfinished">Totalbelopp exkl. moms</translation>
+        <translation>Totalt exkl. moms</translation>
     </message>
     <message>
         <source>Total inc. VAT</source>
-        <translation type="unfinished">Totalbelopp inkl. moms</translation>
+        <translation>Totalt inkl. moms</translation>
     </message>
 </context>
 <context>
@@ -2506,7 +2476,7 @@
     <name>design/ezdemo/shop/orderview</name>
     <message>
         <source>Order %order_id [%order_status]</source>
-        <translation>Order %order_id [%order_status]</translation>
+        <translation>Beställning %order_id [%order_status]</translation>
     </message>
     <message>
         <source>Product items</source>
@@ -2724,10 +2694,6 @@
         <translation>Mina order</translation>
     </message>
     <message>
-        <source>My pending items</source>
-        <translation>Mina väntande objekt</translation>
-    </message>
-    <message>
         <source>My notification settings</source>
         <translation>Mina meddelandeinställningar</translation>
     </message>
@@ -2742,6 +2708,10 @@
     <message>
         <source>Change password</source>
         <translation>Ändra lösenord</translation>
+    </message>
+    <message>
+        <source>My pending items</source>
+        <translation>Mina väntande objekt</translation>
     </message>
 </context>
 <context>
@@ -2760,7 +2730,7 @@
     </message>
     <message>
         <source>The key is invalid or has been used. </source>
-        <translation>Nyckeln är ogiltig eller redan använd.</translation>
+        <translation>Nyckeln är ogiltig eller har redan använts. </translation>
     </message>
     <message>
         <source>Have you forgotten your password?</source>
@@ -2848,10 +2818,6 @@
         <translation>Lösenordet överensstämmer inte. Var god skriv ditt nya lösenord igen.</translation>
     </message>
     <message>
-        <source>The new password must be at least %1 characters long, please retype your new password.</source>
-        <translation>Ditt nya lösenord måste innehålla minst %1 tecken. Var god skriv ditt nya lösenord igen.</translation>
-    </message>
-    <message>
         <source>Password successfully updated.</source>
         <translation>Lösenordet har uppdaterats.</translation>
     </message>
@@ -2874,6 +2840,78 @@
     <message>
         <source>Cancel</source>
         <translation>Avbryt</translation>
+    </message>
+    <message>
+        <source>The new password must be at least %1 characters long, please retype your new password.</source>
+        <translation>Ditt nya lösenord måste innehålla minst %1 tecken. Var god skriv ditt nya lösenord igen.</translation>
+    </message>
+    <message>
+        <source>Change your password</source>
+        <translation>Ändra ditt lösenord</translation>
+    </message>
+    <message>
+        <source>Your password has been changed</source>
+        <translation>Ditt lösenord har ändrats</translation>
+    </message>
+    <message>
+        <source>You are still signed in here. Use the new password the next time you sign in.</source>
+        <translation>Du är fortfarande inloggad här. Använd det nya lösenordet nästa gång du loggar in.</translation>
+    </message>
+    <message>
+        <source>You were signed out on your other devices.</source>
+        <translation>Du loggades ut på dina andra enheter.</translation>
+    </message>
+    <message>
+        <source>We sent a confirmation to your e-mail address.</source>
+        <translation>Vi skickade en bekräftelse till din e-postadress.</translation>
+    </message>
+    <message>
+        <source>Continue</source>
+        <translation>Fortsätt</translation>
+    </message>
+    <message>
+        <source>Your password was not changed</source>
+        <translation>Ditt lösenord ändrades inte</translation>
+    </message>
+    <message>
+        <source>Signed in as %1.</source>
+        <translation>Inloggad som %1.</translation>
+    </message>
+    <message>
+        <source>Current password</source>
+        <translation>Nuvarande lösenord</translation>
+    </message>
+    <message>
+        <source>current password</source>
+        <translation>nuvarande lösenord</translation>
+    </message>
+    <message>
+        <source>new password</source>
+        <translation>nytt lösenord</translation>
+    </message>
+    <message>
+        <source>Your new password needs:</source>
+        <translation>Ditt nya lösenord behöver:</translation>
+    </message>
+    <message>
+        <source>At least %1 characters</source>
+        <translation>Minst %1 tecken</translation>
+    </message>
+    <message>
+        <source>Generate a strong password</source>
+        <translation>Generera ett starkt lösenord</translation>
+    </message>
+    <message>
+        <source>new password again</source>
+        <translation>nytt lösenord igen</translation>
+    </message>
+    <message>
+        <source>Confirm new password</source>
+        <translation>Bekräfta nytt lösenord</translation>
+    </message>
+    <message>
+        <source>Change password</source>
+        <translation>Ändra lösenord</translation>
     </message>
 </context>
 <context>
@@ -2921,6 +2959,150 @@
         <source>Your account was successfully created.</source>
         <translation>Ditt konto har registrerats.</translation>
     </message>
+    <message>
+        <source>Check your e-mail</source>
+        <translation>Kontrollera din e-post</translation>
+    </message>
+    <message>
+        <source>Your account has been created. One step is left: confirm your e-mail address.</source>
+        <translation>Ditt konto har skapats. Ett steg återstår: bekräfta din e-postadress.</translation>
+    </message>
+    <message>
+        <source>We sent a message to %email. Open the link in it to activate your account; then you can sign in.</source>
+        <translation>Vi skickade ett meddelande till %email. Öppna länken i det för att aktivera ditt konto; sedan kan du logga in.</translation>
+    </message>
+    <message>
+        <source>We sent a message to the e-mail address you entered. Open the link in it to activate your account; then you can sign in.</source>
+        <translation>Vi skickade ett meddelande till e-postadressen som du angav. Öppna länken i det för att aktivera ditt konto; sedan kan du logga in.</translation>
+    </message>
+    <message>
+        <source>No message after a few minutes? Look in your spam folder.</source>
+        <translation>Inget meddelande efter några minuter? Titta i skräppostmappen.</translation>
+    </message>
+    <message>
+        <source>Your account is waiting for approval</source>
+        <translation>Ditt konto väntar på godkännande</translation>
+    </message>
+    <message>
+        <source>Your account has been created. An administrator checks new accounts before they can be used.</source>
+        <translation>Ditt konto har skapats. En administratör kontrollerar nya konton innan de kan användas.</translation>
+    </message>
+    <message>
+        <source>You will get an e-mail as soon as your account is approved; then you can sign in.</source>
+        <translation>Du får ett e-postmeddelande så snart ditt konto har godkänts; sedan kan du logga in.</translation>
+    </message>
+    <message>
+        <source>Welcome, %name</source>
+        <translation>Välkommen, %name</translation>
+    </message>
+    <message>
+        <source>Welcome</source>
+        <translation>Välkommen</translation>
+    </message>
+    <message>
+        <source>Your account is ready and you are signed in.</source>
+        <translation>Ditt konto är klart och du är inloggad.</translation>
+    </message>
+    <message>
+        <source>Your e-mail address is confirmed</source>
+        <translation>Din e-postadress är bekräftad</translation>
+    </message>
+    <message>
+        <source>Your account is active and you are signed in.</source>
+        <translation>Ditt konto är aktivt och du är inloggad.</translation>
+    </message>
+    <message>
+        <source>Your account is active. You can sign in now.</source>
+        <translation>Ditt konto är aktivt. Du kan logga in nu.</translation>
+    </message>
+    <message>
+        <source>An administrator checks new accounts before they can be used.</source>
+        <translation>En administratör kontrollerar nya konton innan de kan användas.</translation>
+    </message>
+    <message>
+        <source>Your account is already active</source>
+        <translation>Ditt konto är redan aktivt</translation>
+    </message>
+    <message>
+        <source>You are signed in.</source>
+        <translation>Du är inloggad.</translation>
+    </message>
+    <message>
+        <source>The account was activated before. You can sign in.</source>
+        <translation>Kontot aktiverades tidigare. Du kan logga in.</translation>
+    </message>
+    <message>
+        <source>This activation link does not work</source>
+        <translation>Den här aktiveringslänken fungerar inte</translation>
+    </message>
+    <message>
+        <source>The link is not valid, or it has been used already. Your account was not activated.</source>
+        <translation>Länken är inte giltig, eller så har den redan använts. Ditt konto aktiverades inte.</translation>
+    </message>
+    <message>
+        <source>Copy the whole link from the e-mail into the address bar of your browser. If you activated the account before, sign in.</source>
+        <translation>Kopiera hela länken från e-postmeddelandet till webbläsarens adressfält. Om du har aktiverat kontot tidigare, logga in.</translation>
+    </message>
+    <message>
+        <source>We could not find your account</source>
+        <translation>Vi kunde inte hitta ditt konto</translation>
+    </message>
+    <message>
+        <source>The account of this registration does not exist (any more).</source>
+        <translation>Kontot för den här registreringen finns inte (längre).</translation>
+    </message>
+    <message>
+        <source>Please register again, or contact us if the problem stays.</source>
+        <translation>Registrera dig igen, eller kontakta oss om problemet kvarstår.</translation>
+    </message>
+    <message>
+        <source>Your account is ready</source>
+        <translation>Ditt konto är klart</translation>
+    </message>
+    <message>
+        <source>Your account has been created and you are signed in.</source>
+        <translation>Ditt konto har skapats och du är inloggad.</translation>
+    </message>
+    <message>
+        <source>Your account has been created. You can sign in now.</source>
+        <translation>Ditt konto har skapats. Du kan logga in nu.</translation>
+    </message>
+    <message>
+        <source>Next steps</source>
+        <translation>Nästa steg</translation>
+    </message>
+    <message>
+        <source>Sign in</source>
+        <translation>Logga in</translation>
+    </message>
+    <message>
+        <source>My profile</source>
+        <translation>Min profil</translation>
+    </message>
+    <message>
+        <source>Edit profile</source>
+        <translation>Redigera profil</translation>
+    </message>
+    <message>
+        <source>Register</source>
+        <translation>Registrera</translation>
+    </message>
+    <message>
+        <source>Home</source>
+        <translation>Hem</translation>
+    </message>
+    <message>
+        <source>Sitemap</source>
+        <translation>Webbplatskarta</translation>
+    </message>
+    <message>
+        <source>Tag cloud</source>
+        <translation>Taggmoln</translation>
+    </message>
+    <message>
+        <source>Administration</source>
+        <translation>Administration</translation>
+    </message>
 </context>
 <context>
     <name>design/ezdemo/view/ezbinaryfile</name>
@@ -2941,11 +3123,11 @@
     </message>
     <message>
         <source>Your browser does not support html5 video.</source>
-        <translation type="unfinished"></translation>
+        <translation>Din webbläsare verkar inte stödja html5-video.</translation>
     </message>
     <message>
         <source>Your browser does not support html5 audio.</source>
-        <translation type="unfinished"></translation>
+        <translation>Din webbläsare verkar inte stödja html5-ljud.</translation>
     </message>
 </context>
 <context>
@@ -2974,189 +3156,234 @@
     <name>design/ezdemo/websitetoolbar/objectstates</name>
     <message>
         <source>Object states for object</source>
-        <translation type="unfinished"></translation>
+        <translation>Objekttillstånd för objekt</translation>
     </message>
     <message>
         <source>Content object state group</source>
-        <translation type="unfinished"></translation>
+        <translation>Tillståndsgrupp för innehållsobjekt</translation>
     </message>
     <message>
         <source>Available states</source>
-        <translation type="unfinished"></translation>
+        <translation>Tillgängliga tillstånd</translation>
     </message>
     <message>
         <source>No content object state is configured. This can be done %urlstart here %urlend.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inga innehållsobjektsstillstånd är konfigurerade. Det kan göras %urlstart här %urlend.</translation>
     </message>
     <message>
         <source>Set states</source>
-        <translation type="unfinished"></translation>
+        <translation>Ange tillstånd</translation>
     </message>
     <message>
         <source>Apply states from the list above.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tillämpa tillstånd från listan ovan.</translation>
     </message>
     <message>
         <source>No state to be applied to this content object. You might need to be assigned a more permissive access policy.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inga tillstånd kan tillämpas på innehållsobjektet. Eventuellt behöver du tillämpa en mer tillåtande åtkomstpolicy.</translation>
     </message>
 </context>
 <context>
     <name>design/ezflow/edit/frontpage</name>
     <message>
         <source>Search phrase</source>
-        <translation type="unfinished"></translation>
+        <translation>Sökfras</translation>
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished">Sök</translation>
+        <translation>Sök</translation>
     </message>
     <message>
         <source>Results</source>
-        <translation type="unfinished">Resultat</translation>
+        <translation>Resultat</translation>
     </message>
     <message>
         <source>Select:</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj:</translation>
     </message>
     <message>
         <source>Add to block</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till i block</translation>
     </message>
     <message>
         <source>Edit &lt;%object_name&gt; (%class_name)</source>
-        <translation type="unfinished"></translation>
+        <translation>Redigera &lt;%object_name&gt; (%class_name)</translation>
     </message>
     <message>
         <source>Translating content from %from_lang to %to_lang</source>
-        <translation type="unfinished">Översätter innehåll från  %from_lang till %to_lang</translation>
+        <translation>Översätter innehåll från %from_lang till %to_lang</translation>
     </message>
     <message>
         <source>Content in %language</source>
-        <translation type="unfinished">Innehåll på %language</translation>
+        <translation>Innehåll på %language</translation>
     </message>
     <message>
         <source>Send for publishing</source>
-        <translation type="unfinished">Skicka till publicering</translation>
+        <translation>Skicka för publicering</translation>
     </message>
     <message>
         <source>Store draft</source>
-        <translation type="unfinished">Spara utkast</translation>
+        <translation>Spara utkast</translation>
     </message>
     <message>
         <source>Discard draft</source>
-        <translation type="unfinished">Ta bort utkast</translation>
+        <translation>Kasta utkast</translation>
     </message>
 </context>
 <context>
     <name>design/ezflow/embed/poll</name>
     <message>
         <source>Vote</source>
-        <translation type="unfinished">Rösta</translation>
+        <translation>Rösta</translation>
     </message>
 </context>
 <context>
     <name>design/standard/user</name>
     <message>
         <source>Your email address has been confirmed. An administrator needs to approve your sign up request, before your login becomes valid.</source>
-        <translation type="unfinished"></translation>
+        <translation>Din e-postadress har bekräftats. En administratör behöver nu acceptera din förfrågan innan din inlogning fungerar.</translation>
     </message>
     <message>
         <source>Your account is now activated.</source>
-        <translation type="unfinished">Ditt konto är nu aktiverat.</translation>
+        <translation>Ditt konto är nu aktiverat.</translation>
     </message>
     <message>
         <source>Your account is already active.</source>
-        <translation type="unfinished">Ditt konto är redan aktivt.</translation>
+        <translation>Ditt konto är redan aktivt.</translation>
     </message>
     <message>
         <source>Sorry, the key submitted was not a valid key. Account was not activated.</source>
-        <translation type="unfinished">Nyckeln som skickades var tyvärr inte giltig. Kontot har inte aktiverats.</translation>
+        <translation>Den skickade nyckeln är inte giltig. Kontot aktiverades inte.</translation>
     </message>
 </context>
 <context>
     <name>extension/ezstarrating/datatype</name>
     <message>
         <source>Rating: %current_rating/5</source>
-        <translation type="unfinished"></translation>
+        <translation>Betyg: %current_rating/5</translation>
     </message>
     <message>
         <source>%rating_count votes cast</source>
-        <translation type="unfinished"></translation>
+        <translation>%rating_count röster avgivna</translation>
     </message>
 </context>
 <context>
     <name>ezcomments/comment/add</name>
     <message>
         <source>reCAPTCHA API key missing.</source>
-        <translation type="unfinished"></translation>
+        <translation>reCAPTCHA API-nyckel saknas.</translation>
     </message>
 </context>
 <context>
     <name>ezcomments/comment/add/form</name>
     <message>
         <source>Post a comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Skriv en kommentar</translation>
     </message>
     <message>
         <source>Title:</source>
-        <translation type="unfinished"></translation>
+        <translation>Titel:</translation>
     </message>
     <message>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Namn:</translation>
     </message>
     <message>
         <source>Website:</source>
-        <translation type="unfinished"></translation>
+        <translation>Webbplats:</translation>
     </message>
     <message>
         <source>Email:</source>
-        <translation type="unfinished"></translation>
+        <translation>E-post:</translation>
     </message>
     <message>
         <source>(The email address will not be shown)</source>
-        <translation type="unfinished"></translation>
+        <translation>(E-postadressen visas inte)</translation>
     </message>
     <message>
         <source>Content:</source>
-        <translation type="unfinished"></translation>
+        <translation>Innehåll:</translation>
     </message>
     <message>
         <source>Notify me of new comments</source>
-        <translation type="unfinished"></translation>
+        <translation>Meddela mig om nya kommentarer</translation>
     </message>
     <message>
         <source>Security text:</source>
-        <translation type="unfinished"></translation>
+        <translation>Säkerhetstext:</translation>
     </message>
     <message>
         <source>Enter both words below, with or without a space.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skriv in båda orden nedan, med eller utan mellanslag.</translation>
     </message>
     <message>
         <source>The letters are not case-sensitive.</source>
-        <translation type="unfinished"></translation>
+        <translation>Det spelar ingen roll om bokstäverna är stora eller små.</translation>
     </message>
     <message>
         <source>Can&apos;t read this?</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan du inte läsa det här?</translation>
     </message>
     <message>
         <source>Try another</source>
-        <translation type="unfinished"></translation>
+        <translation>Prova en annan</translation>
     </message>
     <message>
         <source>Remember me</source>
-        <translation type="unfinished">Kom ihåg mig</translation>
+        <translation>Kom ihåg mig</translation>
     </message>
     <message>
         <source>Add comment</source>
-        <translation type="unfinished">Lägg till kommentar</translation>
+        <translation>Lägg till kommentar</translation>
     </message>
     <message>
         <source>Reset form</source>
-        <translation type="unfinished"></translation>
+        <translation>Återställ formulär</translation>
+    </message>
+</context>
+<context>
+    <name>design/admin/content/datatype</name>
+    <message>
+        <source>Year</source>
+        <translation>År</translation>
+    </message>
+    <message>
+        <source>Month</source>
+        <translation>Månad</translation>
+    </message>
+    <message>
+        <source>Day</source>
+        <translation>Dag</translation>
+    </message>
+    <message>
+        <source>Hour</source>
+        <translation>Timme</translation>
+    </message>
+    <message>
+        <source>Minute</source>
+        <translation>Minut</translation>
+    </message>
+</context>
+<context>
+    <name>design/ezdemo/content/datatype</name>
+    <message>
+        <source>Year</source>
+        <translation>År</translation>
+    </message>
+    <message>
+        <source>Month</source>
+        <translation>Månad</translation>
+    </message>
+    <message>
+        <source>Day</source>
+        <translation>Dag</translation>
+    </message>
+</context>
+<context>
+    <name>design/admin/ezinfo/about</name>
+    <message>
+        <source>Could not load LICENSE file! You should have a LICENSE file in your eZ Publish root directory.</source>
+        <translation>Kunde inte läsa in filen LICENSE! Det ska finnas en LICENSE-fil i Exponentials rotkatalog.</translation>
     </message>
 </context>
 </TS>

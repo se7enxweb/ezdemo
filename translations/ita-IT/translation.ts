@@ -2,29 +2,6 @@
 <!DOCTYPE TS>
 <TS version="2.0" language="it_IT">
 <context>
-    <name>design/admin/content/datatype</name>
-    <message>
-        <source>Year</source>
-        <translation type="obsolete">Anno</translation>
-    </message>
-    <message>
-        <source>Month</source>
-        <translation type="obsolete">Mese</translation>
-    </message>
-    <message>
-        <source>Day</source>
-        <translation type="obsolete">Giorno</translation>
-    </message>
-    <message>
-        <source>Hour</source>
-        <translation type="obsolete">Ora</translation>
-    </message>
-    <message>
-        <source>Minute</source>
-        <translation type="obsolete">Minuto</translation>
-    </message>
-</context>
-<context>
     <name>design/admin/content/edit_attribute</name>
     <message>
         <source>not translatable</source>
@@ -43,15 +20,15 @@
     <name>design/admin/preview/article</name>
     <message>
         <source>Comments allowed</source>
-        <translation type="unfinished"></translation>
+        <translation>Commenti abilitati</translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation type="unfinished"></translation>
+        <translation>Sì</translation>
     </message>
     <message>
         <source>No</source>
-        <translation type="unfinished"></translation>
+        <translation>No</translation>
     </message>
 </context>
 <context>
@@ -84,25 +61,25 @@
     <name>design/ezdemo/block/feedback_form</name>
     <message>
         <source>Send form</source>
-        <translation type="unfinished">Invia modulo</translation>
+        <translation>Invia modulo</translation>
     </message>
 </context>
 <context>
     <name>design/ezdemo/block_item/call_to_action</name>
     <message>
         <source>Download!</source>
-        <translation type="unfinished"></translation>
+        <translation>Scarica!</translation>
     </message>
 </context>
 <context>
     <name>design/ezdemo/block_item/product</name>
     <message>
         <source>Amount</source>
-        <translation type="unfinished">Importo</translation>
+        <translation>Importo</translation>
     </message>
     <message>
         <source>Buy</source>
-        <translation type="unfinished"></translation>
+        <translation>Acquista</translation>
     </message>
 </context>
 <context>
@@ -160,11 +137,11 @@
     </message>
     <message>
         <source>Tag cloud</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuvola di tag</translation>
     </message>
     <message>
         <source>Description</source>
-        <translation type="unfinished">Descrizione</translation>
+        <translation>Descrizione</translation>
     </message>
 </context>
 <context>
@@ -243,26 +220,26 @@
     <name>design/ezdemo/colledtedinfomail</name>
     <message>
         <source>Collected information from %1</source>
-        <translation type="unfinished">Informazioni raccolte da %1</translation>
+        <translation>Informazioni raccolte da %1</translation>
     </message>
     <message>
         <source>The following information was collected</source>
-        <translation type="unfinished">Sono arrivate le seguenti informazioni</translation>
+        <translation>Sono state raccolte le seguenti informazioni</translation>
     </message>
 </context>
 <context>
     <name>design/ezdemo/comment/view</name>
     <message>
         <source>Avatar</source>
-        <translation type="unfinished"></translation>
+        <translation>Avatar</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished">Modifica</translation>
+        <translation>Modifica</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancella</translation>
     </message>
 </context>
 <context>
@@ -388,25 +365,6 @@
     <message>
         <source>Type</source>
         <translation>Tipo</translation>
-    </message>
-</context>
-<context>
-    <name>design/ezdemo/content/datatype</name>
-    <message>
-        <source>Year</source>
-        <translation type="obsolete">Anno</translation>
-    </message>
-    <message>
-        <source>Month</source>
-        <translation type="obsolete">Mese</translation>
-    </message>
-    <message>
-        <source>Day</source>
-        <translation type="obsolete">Giorno</translation>
-    </message>
-    <message>
-        <source>Show calendar to select a date.</source>
-        <translation type="obsolete">Mostra il calendario per selezionare una data.</translation>
     </message>
 </context>
 <context>
@@ -728,6 +686,10 @@
         <translation>Bozza non modificata</translation>
     </message>
     <message>
+        <source>There is no need to do a copies of untouched drafts.</source>
+        <translation>Non è necessario fare delle copie di bozze intatte.</translation>
+    </message>
+    <message>
         <source>Create a copy of version #%version_number.</source>
         <translation>Crea una copia della versione #%version_number.</translation>
     </message>
@@ -807,10 +769,6 @@
         <source>Modified translation</source>
         <translation>Traduzione modificata</translation>
     </message>
-    <message>
-        <source>There is no need to do a copies of untouched drafts.</source>
-        <translation>Non è necessario fare delle copie di bozze intatte.</translation>
-    </message>
 </context>
 <context>
     <name>design/ezdemo/content/keyword</name>
@@ -869,6 +827,11 @@
         <translation>Cerca</translation>
     </message>
     <message>
+        <source>For more options try the %1Advanced search%2</source>
+        <comment>The parameters are link start and end tags.</comment>
+        <translation>Per maggiori opzioni prova la %1Ricerca avanzata%2</translation>
+    </message>
+    <message>
         <source>The following words were excluded from the search:</source>
         <translation>Le parole seguenti sono state escluse dalla ricerca:</translation>
     </message>
@@ -899,11 +862,6 @@
     <message>
         <source>Search for &quot;%1&quot; returned %2 matches</source>
         <translation>La ricerca di &quot;%1&quot; ha prodotto %2 risultati</translation>
-    </message>
-    <message>
-        <source>For more options try the %1Advanced search%2</source>
-        <comment>The parameters are link start and end tags.</comment>
-        <translation>Per maggiori opzioni prova la %1Ricerca avanzata%2</translation>
     </message>
 </context>
 <context>
@@ -1112,21 +1070,21 @@
     <name>design/ezdemo/footer/address</name>
     <message>
         <source>Get in touch</source>
-        <translation type="unfinished"></translation>
+        <translation>Contattaci</translation>
     </message>
 </context>
 <context>
     <name>design/ezdemo/footer/latest_news</name>
     <message>
         <source>Latest News</source>
-        <translation type="unfinished"></translation>
+        <translation>Ultime notizie</translation>
     </message>
 </context>
 <context>
     <name>design/ezdemo/footer/links</name>
     <message>
         <source>eZ Links</source>
-        <translation type="unfinished"></translation>
+        <translation>Link eZ</translation>
     </message>
 </context>
 <context>
@@ -1153,7 +1111,7 @@
     </message>
     <message>
         <source>Location</source>
-        <translation type="unfinished">Collocazione</translation>
+        <translation>Collocazione</translation>
     </message>
 </context>
 <context>
@@ -1174,7 +1132,7 @@
     <name>design/ezdemo/full/call_to_action</name>
     <message>
         <source>Submit</source>
-        <translation type="unfinished"></translation>
+        <translation>Invia</translation>
     </message>
 </context>
 <context>
@@ -1434,14 +1392,14 @@
     </message>
     <message>
         <source>Amount</source>
-        <translation type="unfinished">Importo</translation>
+        <translation>Importo</translation>
     </message>
 </context>
 <context>
     <name>design/ezdemo/full/video</name>
     <message>
         <source>Download</source>
-        <translation type="unfinished"></translation>
+        <translation>Scarica</translation>
     </message>
 </context>
 <context>
@@ -1484,15 +1442,15 @@
     <name>design/ezdemo/line/file</name>
     <message>
         <source>File size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Dimensione del file:</translation>
     </message>
     <message>
         <source>Modified:</source>
-        <translation type="unfinished">Modificato il:</translation>
+        <translation>Modificato il:</translation>
     </message>
     <message>
         <source>Download file</source>
-        <translation type="unfinished"></translation>
+        <translation>Scarica il file</translation>
     </message>
 </context>
 <context>
@@ -1543,11 +1501,11 @@
     <name>design/ezdemo/line/product</name>
     <message>
         <source>Amount</source>
-        <translation type="unfinished">Importo</translation>
+        <translation>Importo</translation>
     </message>
     <message>
         <source>Buy</source>
-        <translation type="unfinished"></translation>
+        <translation>Acquista</translation>
     </message>
 </context>
 <context>
@@ -1597,7 +1555,7 @@
     <name>design/ezdemo/menu</name>
     <message>
         <source>Navigation</source>
-        <translation type="unfinished"></translation>
+        <translation>Navigazione</translation>
     </message>
 </context>
 <context>
@@ -1674,7 +1632,7 @@
     </message>
     <message>
         <source>Once per week, on </source>
-        <translation>Settimanalmente, il</translation>
+        <translation>Una volta alla settimana, il </translation>
     </message>
     <message>
         <source>Once per month, on day number</source>
@@ -1743,47 +1701,47 @@
     </message>
     <message>
         <source>Tag cloud</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuvola di tag</translation>
     </message>
     <message>
         <source>Site map</source>
-        <translation type="unfinished">Mappa sito</translation>
+        <translation>Mappa sito</translation>
     </message>
     <message>
         <source>Shopping basket</source>
-        <translation type="unfinished">Carrello acquisti</translation>
+        <translation>Carrello acquisti</translation>
     </message>
     <message>
         <source>My profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Il mio profilo</translation>
     </message>
     <message>
         <source>Logout</source>
-        <translation type="unfinished"></translation>
+        <translation>Esci</translation>
     </message>
     <message>
         <source>Register</source>
-        <translation type="unfinished">Iscriviti</translation>
+        <translation>Registra</translation>
     </message>
     <message>
         <source>Login</source>
-        <translation type="unfinished">Login</translation>
+        <translation>Accedi</translation>
     </message>
     <message>
         <source>Username</source>
-        <translation type="unfinished">Nome utente</translation>
+        <translation>Nome utente</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation type="unfinished">Password</translation>
+        <translation>Password</translation>
     </message>
     <message>
         <source>Forgot your password?</source>
-        <translation type="unfinished">Hai dimenticato la password?</translation>
+        <translation>Hai dimenticato la password?</translation>
     </message>
     <message>
         <source>Search text</source>
-        <translation type="unfinished"></translation>
+        <translation>Testo da cercare</translation>
     </message>
 </context>
 <context>
@@ -2222,7 +2180,7 @@
     </message>
     <message>
         <source>Account information</source>
-        <translation>Informazioni sull&apos;account </translation>
+        <translation>Informazioni sull&apos;account</translation>
     </message>
     <message>
         <source>Confirm order</source>
@@ -2333,7 +2291,7 @@
     </message>
     <message>
         <source>Account information</source>
-        <translation>Informazioni sull&apos;account </translation>
+        <translation>Informazioni sull&apos;account</translation>
     </message>
     <message>
         <source>Confirm order</source>
@@ -2589,7 +2547,7 @@
     </message>
     <message>
         <source>Account information</source>
-        <translation>Informazioni sull&apos;account </translation>
+        <translation>Informazioni sull&apos;account</translation>
     </message>
     <message>
         <source>Confirm order</source>
@@ -2613,7 +2571,7 @@
     </message>
     <message>
         <source>Email</source>
-        <translation>Email</translation>
+        <translation>E-mail</translation>
     </message>
     <message>
         <source>Company</source>
@@ -2721,7 +2679,7 @@
     </message>
     <message>
         <source>Email</source>
-        <translation>Email</translation>
+        <translation>E-mail</translation>
     </message>
     <message>
         <source>Name</source>
@@ -2772,7 +2730,7 @@
     </message>
     <message>
         <source>The key is invalid or has been used. </source>
-        <translation>Chiave non valida o in uso.</translation>
+        <translation>La chiave non è valida o è già stata usata. </translation>
     </message>
     <message>
         <source>Have you forgotten your password?</source>
@@ -2784,7 +2742,7 @@
     </message>
     <message>
         <source>Email</source>
-        <translation>Email</translation>
+        <translation>E-mail</translation>
     </message>
     <message>
         <source>Generate new password</source>
@@ -2795,7 +2753,7 @@
     <name>design/ezdemo/user/login</name>
     <message>
         <source>Login</source>
-        <translation>Login</translation>
+        <translation>Accedi</translation>
     </message>
     <message>
         <source>Could not login</source>
@@ -2814,6 +2772,11 @@
         <translation>Non sei abilitato ad accedere a %1.</translation>
     </message>
     <message>
+        <source>Username</source>
+        <comment>User name</comment>
+        <translation>Nome utente</translation>
+    </message>
+    <message>
         <source>Password</source>
         <translation>Password</translation>
     </message>
@@ -2826,23 +2789,18 @@
         <translation>Ricordami</translation>
     </message>
     <message>
-        <source>Forgot your password?</source>
-        <translation>Hai dimenticato la password?</translation>
-    </message>
-    <message>
-        <source>Username</source>
-        <comment>User name</comment>
-        <translation>Nome utente</translation>
-    </message>
-    <message>
         <source>Login</source>
         <comment>Button</comment>
-        <translation>Login</translation>
+        <translation>Accedi</translation>
     </message>
     <message>
         <source>Sign up</source>
         <comment>Button</comment>
         <translation>Iscriviti</translation>
+    </message>
+    <message>
+        <source>Forgot your password?</source>
+        <translation>Hai dimenticato la password?</translation>
     </message>
 </context>
 <context>
@@ -2886,6 +2844,74 @@
     <message>
         <source>The new password must be at least %1 characters long, please retype your new password.</source>
         <translation>La nuova password deve contenere almeno %1 caratteri, sei pregato di reinserire la tua nuova password.</translation>
+    </message>
+    <message>
+        <source>Change your password</source>
+        <translation>Cambia la tua password</translation>
+    </message>
+    <message>
+        <source>Your password has been changed</source>
+        <translation>La tua password è stata cambiata</translation>
+    </message>
+    <message>
+        <source>You are still signed in here. Use the new password the next time you sign in.</source>
+        <translation>Qui hai ancora effettuato l&apos;accesso. Usa la nuova password al prossimo accesso.</translation>
+    </message>
+    <message>
+        <source>You were signed out on your other devices.</source>
+        <translation>Sei stato disconnesso dagli altri dispositivi.</translation>
+    </message>
+    <message>
+        <source>We sent a confirmation to your e-mail address.</source>
+        <translation>Abbiamo inviato una conferma al tuo indirizzo e-mail.</translation>
+    </message>
+    <message>
+        <source>Continue</source>
+        <translation>Continua</translation>
+    </message>
+    <message>
+        <source>Your password was not changed</source>
+        <translation>La tua password non è stata cambiata</translation>
+    </message>
+    <message>
+        <source>Signed in as %1.</source>
+        <translation>Accesso effettuato come %1.</translation>
+    </message>
+    <message>
+        <source>Current password</source>
+        <translation>Password attuale</translation>
+    </message>
+    <message>
+        <source>current password</source>
+        <translation>password attuale</translation>
+    </message>
+    <message>
+        <source>new password</source>
+        <translation>nuova password</translation>
+    </message>
+    <message>
+        <source>Your new password needs:</source>
+        <translation>La nuova password deve contenere:</translation>
+    </message>
+    <message>
+        <source>At least %1 characters</source>
+        <translation>Almeno %1 caratteri</translation>
+    </message>
+    <message>
+        <source>Generate a strong password</source>
+        <translation>Genera una password sicura</translation>
+    </message>
+    <message>
+        <source>new password again</source>
+        <translation>ripeti la nuova password</translation>
+    </message>
+    <message>
+        <source>Confirm new password</source>
+        <translation>Conferma la nuova password</translation>
+    </message>
+    <message>
+        <source>Change password</source>
+        <translation>Cambia password</translation>
     </message>
 </context>
 <context>
@@ -2933,6 +2959,150 @@
         <source>Your account was successfully created.</source>
         <translation>Account creato con successo.</translation>
     </message>
+    <message>
+        <source>Check your e-mail</source>
+        <translation>Controlla la tua e-mail</translation>
+    </message>
+    <message>
+        <source>Your account has been created. One step is left: confirm your e-mail address.</source>
+        <translation>Il tuo account è stato creato. Manca un passaggio: conferma il tuo indirizzo e-mail.</translation>
+    </message>
+    <message>
+        <source>We sent a message to %email. Open the link in it to activate your account; then you can sign in.</source>
+        <translation>Abbiamo inviato un messaggio a %email. Apri il link che contiene per attivare il tuo account; poi potrai accedere.</translation>
+    </message>
+    <message>
+        <source>We sent a message to the e-mail address you entered. Open the link in it to activate your account; then you can sign in.</source>
+        <translation>Abbiamo inviato un messaggio all&apos;indirizzo e-mail che hai inserito. Apri il link che contiene per attivare il tuo account; poi potrai accedere.</translation>
+    </message>
+    <message>
+        <source>No message after a few minutes? Look in your spam folder.</source>
+        <translation>Nessun messaggio dopo qualche minuto? Controlla nella cartella dello spam.</translation>
+    </message>
+    <message>
+        <source>Your account is waiting for approval</source>
+        <translation>Il tuo account è in attesa di approvazione</translation>
+    </message>
+    <message>
+        <source>Your account has been created. An administrator checks new accounts before they can be used.</source>
+        <translation>Il tuo account è stato creato. Un amministratore controlla i nuovi account prima che possano essere usati.</translation>
+    </message>
+    <message>
+        <source>You will get an e-mail as soon as your account is approved; then you can sign in.</source>
+        <translation>Riceverai un&apos;e-mail non appena il tuo account sarà approvato; poi potrai accedere.</translation>
+    </message>
+    <message>
+        <source>Welcome, %name</source>
+        <translation>Ti diamo il benvenuto, %name</translation>
+    </message>
+    <message>
+        <source>Welcome</source>
+        <translation>Benvenuto</translation>
+    </message>
+    <message>
+        <source>Your account is ready and you are signed in.</source>
+        <translation>Il tuo account è pronto e hai eseguito l&apos;accesso.</translation>
+    </message>
+    <message>
+        <source>Your e-mail address is confirmed</source>
+        <translation>Il tuo indirizzo e-mail è confermato</translation>
+    </message>
+    <message>
+        <source>Your account is active and you are signed in.</source>
+        <translation>Il tuo account è attivo e hai eseguito l&apos;accesso.</translation>
+    </message>
+    <message>
+        <source>Your account is active. You can sign in now.</source>
+        <translation>Il tuo account è attivo. Ora puoi accedere.</translation>
+    </message>
+    <message>
+        <source>An administrator checks new accounts before they can be used.</source>
+        <translation>Un amministratore controlla i nuovi account prima che possano essere usati.</translation>
+    </message>
+    <message>
+        <source>Your account is already active</source>
+        <translation>Il tuo account è già attivo</translation>
+    </message>
+    <message>
+        <source>You are signed in.</source>
+        <translation>Hai eseguito l&apos;accesso.</translation>
+    </message>
+    <message>
+        <source>The account was activated before. You can sign in.</source>
+        <translation>L&apos;account era già stato attivato. Puoi accedere.</translation>
+    </message>
+    <message>
+        <source>This activation link does not work</source>
+        <translation>Questo link di attivazione non funziona</translation>
+    </message>
+    <message>
+        <source>The link is not valid, or it has been used already. Your account was not activated.</source>
+        <translation>Il link non è valido oppure è già stato usato. Il tuo account non è stato attivato.</translation>
+    </message>
+    <message>
+        <source>Copy the whole link from the e-mail into the address bar of your browser. If you activated the account before, sign in.</source>
+        <translation>Copia l&apos;intero link dall&apos;e-mail nella barra degli indirizzi del browser. Se hai già attivato l&apos;account, accedi.</translation>
+    </message>
+    <message>
+        <source>We could not find your account</source>
+        <translation>Non siamo riusciti a trovare il tuo account</translation>
+    </message>
+    <message>
+        <source>The account of this registration does not exist (any more).</source>
+        <translation>L&apos;account di questa registrazione non esiste (più).</translation>
+    </message>
+    <message>
+        <source>Please register again, or contact us if the problem stays.</source>
+        <translation>Registrati di nuovo oppure contattaci se il problema persiste.</translation>
+    </message>
+    <message>
+        <source>Your account is ready</source>
+        <translation>Il tuo account è pronto</translation>
+    </message>
+    <message>
+        <source>Your account has been created and you are signed in.</source>
+        <translation>Il tuo account è stato creato e hai eseguito l&apos;accesso.</translation>
+    </message>
+    <message>
+        <source>Your account has been created. You can sign in now.</source>
+        <translation>Il tuo account è stato creato. Ora puoi accedere.</translation>
+    </message>
+    <message>
+        <source>Next steps</source>
+        <translation>Prossimi passi</translation>
+    </message>
+    <message>
+        <source>Sign in</source>
+        <translation>Accedi</translation>
+    </message>
+    <message>
+        <source>My profile</source>
+        <translation>Il mio profilo</translation>
+    </message>
+    <message>
+        <source>Edit profile</source>
+        <translation>Modifica profilo</translation>
+    </message>
+    <message>
+        <source>Register</source>
+        <translation>Registra</translation>
+    </message>
+    <message>
+        <source>Home</source>
+        <translation>Home</translation>
+    </message>
+    <message>
+        <source>Sitemap</source>
+        <translation>Mappa sito</translation>
+    </message>
+    <message>
+        <source>Tag cloud</source>
+        <translation>Nuvola di tag</translation>
+    </message>
+    <message>
+        <source>Administration</source>
+        <translation>Amministrazione</translation>
+    </message>
 </context>
 <context>
     <name>design/ezdemo/view/ezbinaryfile</name>
@@ -2944,12 +3114,12 @@
 <context>
     <name>design/ezdemo/view/ezmedia</name>
     <message>
-        <source>No media file is available.</source>
-        <translation>Nessun file media disponibile.</translation>
-    </message>
-    <message>
         <source>No %link_startFlash player%link_end avaliable!</source>
         <translation>Nessun %link_startFlash player%link_end disponibile!</translation>
+    </message>
+    <message>
+        <source>No media file is available.</source>
+        <translation>Nessun file media disponibile.</translation>
     </message>
     <message>
         <source>Your browser does not support html5 video.</source>
@@ -3017,61 +3187,54 @@
     <name>design/ezflow/edit/frontpage</name>
     <message>
         <source>Search phrase</source>
-        <translation type="unfinished"></translation>
+        <translation>Frase da cercare</translation>
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished">Cerca</translation>
+        <translation>Cerca</translation>
     </message>
     <message>
         <source>Results</source>
-        <translation type="unfinished">Risultati</translation>
+        <translation>Risultati</translation>
     </message>
     <message>
         <source>Select:</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleziona:</translation>
     </message>
     <message>
         <source>Add to block</source>
-        <translation type="unfinished"></translation>
+        <translation>Aggiungi al blocco</translation>
     </message>
     <message>
         <source>Edit &lt;%object_name&gt; (%class_name)</source>
-        <translation type="unfinished">Modifica &lt;%object_name&gt; (%class_name)</translation>
+        <translation>Modifica &lt;%object_name&gt; (%class_name)</translation>
     </message>
     <message>
         <source>Translating content from %from_lang to %to_lang</source>
-        <translation type="unfinished">Traduzione del contenuto da %from_lang a %to_lang</translation>
+        <translation>Traduzione del contenuto da %from_lang a %to_lang</translation>
     </message>
     <message>
         <source>Content in %language</source>
-        <translation type="unfinished">Contenuto in %language</translation>
+        <translation>Contenuto in %language</translation>
     </message>
     <message>
         <source>Send for publishing</source>
-        <translation type="unfinished">Pubblica</translation>
+        <translation>Pubblica</translation>
     </message>
     <message>
         <source>Store draft</source>
-        <translation type="unfinished">Registra bozza</translation>
+        <translation>Salva bozza</translation>
     </message>
     <message>
         <source>Discard draft</source>
-        <translation type="unfinished">Annulla bozza</translation>
+        <translation>Annulla bozza</translation>
     </message>
 </context>
 <context>
     <name>design/ezflow/embed/poll</name>
     <message>
         <source>Vote</source>
-        <translation type="unfinished">Vota</translation>
-    </message>
-</context>
-<context>
-    <name>design/standard/content/datatype</name>
-    <message>
-        <source>Second</source>
-        <translation type="obsolete">Secondo</translation>
+        <translation>Vota</translation>
     </message>
 </context>
 <context>
@@ -3097,85 +3260,141 @@
     <name>extension/ezstarrating/datatype</name>
     <message>
         <source>Rating: %current_rating/5</source>
-        <translation type="unfinished"></translation>
+        <translation>Valutazione: %current_rating/5</translation>
     </message>
     <message>
         <source>%rating_count votes cast</source>
-        <translation type="unfinished"></translation>
+        <translation>%rating_count voti espressi</translation>
     </message>
 </context>
 <context>
     <name>ezcomments/comment/add</name>
     <message>
         <source>reCAPTCHA API key missing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Manca la chiave API di reCAPTCHA.</translation>
     </message>
 </context>
 <context>
     <name>ezcomments/comment/add/form</name>
     <message>
         <source>Post a comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Scrivi un commento</translation>
     </message>
     <message>
         <source>Title:</source>
-        <translation type="unfinished"></translation>
+        <translation>Titolo:</translation>
     </message>
     <message>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome:</translation>
     </message>
     <message>
         <source>Website:</source>
-        <translation type="unfinished"></translation>
+        <translation>Sito web:</translation>
     </message>
     <message>
         <source>Email:</source>
-        <translation type="unfinished"></translation>
+        <translation>E-mail:</translation>
     </message>
     <message>
         <source>(The email address will not be shown)</source>
-        <translation type="unfinished"></translation>
+        <translation>(L&apos;indirizzo e-mail non verrà mostrato)</translation>
     </message>
     <message>
         <source>Content:</source>
-        <translation type="unfinished"></translation>
+        <translation>Contenuto:</translation>
     </message>
     <message>
         <source>Notify me of new comments</source>
-        <translation type="unfinished"></translation>
+        <translation>Avvisami dei nuovi commenti</translation>
     </message>
     <message>
         <source>Security text:</source>
-        <translation type="unfinished"></translation>
+        <translation>Testo di sicurezza:</translation>
     </message>
     <message>
         <source>Enter both words below, with or without a space.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserisci entrambe le parole qui sotto, con o senza spazio.</translation>
     </message>
     <message>
         <source>The letters are not case-sensitive.</source>
-        <translation type="unfinished"></translation>
+        <translation>Maiuscole e minuscole non contano.</translation>
     </message>
     <message>
         <source>Can&apos;t read this?</source>
-        <translation type="unfinished"></translation>
+        <translation>Non riesci a leggerlo?</translation>
     </message>
     <message>
         <source>Try another</source>
-        <translation type="unfinished"></translation>
+        <translation>Provane un altro</translation>
     </message>
     <message>
         <source>Remember me</source>
-        <translation type="unfinished">Ricordami</translation>
+        <translation>Ricordami</translation>
     </message>
     <message>
         <source>Add comment</source>
-        <translation type="unfinished">Aggiungi un commento</translation>
+        <translation>Aggiungi un commento</translation>
     </message>
     <message>
         <source>Reset form</source>
-        <translation type="unfinished"></translation>
+        <translation>Reimposta modulo</translation>
+    </message>
+</context>
+<context>
+    <name>design/admin/content/datatype</name>
+    <message>
+        <source>Year</source>
+        <translation>Anno</translation>
+    </message>
+    <message>
+        <source>Month</source>
+        <translation>Mese</translation>
+    </message>
+    <message>
+        <source>Day</source>
+        <translation>Giorno</translation>
+    </message>
+    <message>
+        <source>Hour</source>
+        <translation>Ora</translation>
+    </message>
+    <message>
+        <source>Minute</source>
+        <translation>Minuto</translation>
+    </message>
+</context>
+<context>
+    <name>design/ezdemo/content/datatype</name>
+    <message>
+        <source>Year</source>
+        <translation>Anno</translation>
+    </message>
+    <message>
+        <source>Month</source>
+        <translation>Mese</translation>
+    </message>
+    <message>
+        <source>Day</source>
+        <translation>Giorno</translation>
+    </message>
+    <message>
+        <source>Show calendar to select a date.</source>
+        <translation type="obsolete">Mostra il calendario per selezionare una data.</translation>
+    </message>
+</context>
+<context>
+    <name>design/admin/ezinfo/about</name>
+    <message>
+        <source>Could not load LICENSE file! You should have a LICENSE file in your eZ Publish root directory.</source>
+        <translation>Impossibile caricare il file LICENSE! Dovresti avere un file LICENSE nella directory principale di Exponential.</translation>
+    </message>
+</context>
+<context>
+    <name>design/standard/content/datatype</name>
+    <message>
+        <source>Second</source>
+        <translation type="obsolete">Secondo</translation>
     </message>
 </context>
 </TS>
