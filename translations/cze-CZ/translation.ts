@@ -35,7 +35,7 @@
     <name>design/ezdemo/article/article_index</name>
     <message>
         <source>Article index</source>
-        <translation>Index článku</translation>
+        <translation>Rejstřík článků</translation>
     </message>
 </context>
 <context>
@@ -50,11 +50,11 @@
     </message>
     <message>
         <source>%login_link_startLog in%login_link_end or %create_link_startcreate a user account%create_link_end to comment.</source>
-        <translation>%login_link_startLog v %login_link_end nebo %create_link_startcreate účtu uživatele %create_link_end do komentáře.</translation>
+        <translation>Chcete-li přidat komentář, %login_link_startpřihlaste se%login_link_end nebo si %create_link_startvytvořte uživatelský účet%create_link_end.</translation>
     </message>
     <message>
         <source>%login_link_startLog in%login_link_end to comment.</source>
-        <translation>%login_link_startLog v %login_link_end do komentáře.</translation>
+        <translation>Chcete-li přidat komentář, %login_link_startpřihlaste se%login_link_end.</translation>
     </message>
 </context>
 <context>
@@ -102,7 +102,7 @@
     </message>
     <message>
         <source>Tue</source>
-        <translation>Ót</translation>
+        <translation>Út</translation>
     </message>
     <message>
         <source>Wed</source>
@@ -129,7 +129,7 @@
     <name>design/ezdemo/blog/extra_info</name>
     <message>
         <source>Tags</source>
-        <translation>Tagy</translation>
+        <translation>Štítky</translation>
     </message>
     <message>
         <source>Archive</source>
@@ -152,22 +152,22 @@
     </message>
     <message>
         <source>Thank you for your feedback.</source>
-        <translation>Děkujeme za zpětnou odezvu.</translation>
+        <translation>Děkujeme za vaši zpětnou vazbu.</translation>
     </message>
     <message>
         <source>You have already submitted this form. The data you entered was:</source>
-        <translation>Jíž jste odeslali tento formulář. Data, která jste zadal byla:</translation>
+        <translation>Tento formulář jste již odeslali. Zadali jste tato data:</translation>
     </message>
     <message>
         <source>Return to site</source>
-        <translation>Návrat na stránku</translation>
+        <translation>Zpět na web</translation>
     </message>
 </context>
 <context>
     <name>design/ezdemo/collectedinfo/poll</name>
     <message>
         <source>Poll %pollname</source>
-        <translation>Hlasování %pollname</translation>
+        <translation>Anketa %pollname</translation>
     </message>
     <message>
         <source>Results</source>
@@ -175,11 +175,11 @@
     </message>
     <message>
         <source>Please log in to vote on this poll.</source>
-        <translation>Prosím nalogujte se pro volbu v tomto hlasování.</translation>
+        <translation>Chcete-li v této anketě hlasovat, přihlaste se.</translation>
     </message>
     <message>
         <source>You have already voted for this poll.</source>
-        <translation>Již jste v tomto hlasování volili.</translation>
+        <translation>V této anketě jste již hlasovali.</translation>
     </message>
     <message>
         <source>Votes</source>
@@ -187,11 +187,11 @@
     </message>
     <message>
         <source>%count total votes</source>
-        <translation>%count celkově hlasů</translation>
+        <translation>Celkem hlasů: %count</translation>
     </message>
     <message>
         <source>Back to poll</source>
-        <translation>Zpátky k hlasování</translation>
+        <translation>Zpět na anketu</translation>
     </message>
 </context>
 <context>
@@ -202,7 +202,7 @@
     </message>
     <message>
         <source>The following feedback was collected</source>
-        <translation>Následující zpětná vazba byla sebrána</translation>
+        <translation>Byla shromážděna následující zpětná vazba</translation>
     </message>
 </context>
 <context>
@@ -213,7 +213,7 @@
     </message>
     <message>
         <source>The following information was collected</source>
-        <translation>Následující informace byla shromážděna</translation>
+        <translation>Byly shromážděny následující informace</translation>
     </message>
 </context>
 <context>
@@ -231,7 +231,7 @@
     <name>design/ezdemo/comment/view</name>
     <message>
         <source>Avatar</source>
-        <translation>Profilový obrázek</translation>
+        <translation>Avatar</translation>
     </message>
     <message>
         <source>Edit</source>
@@ -246,15 +246,15 @@
     <name>design/ezdemo/content/advancedsearch</name>
     <message>
         <source>Advanced search</source>
-        <translation>Vylepšené vyhledávání</translation>
+        <translation>Rozšířené vyhledávání</translation>
     </message>
     <message>
         <source>Search all the words</source>
-        <translation>Prohledat všechna slova</translation>
+        <translation>Hledat všechna slova</translation>
     </message>
     <message>
         <source>Search the exact phrase</source>
-        <translation>Prohledat přesnou frázi</translation>
+        <translation>Hledat přesnou frázi</translation>
     </message>
     <message>
         <source>Published</source>
@@ -262,7 +262,7 @@
     </message>
     <message>
         <source>Any time</source>
-        <translation>Jakýkoli čas</translation>
+        <translation>Kdykoli</translation>
     </message>
     <message>
         <source>Last day</source>
@@ -274,7 +274,7 @@
     </message>
     <message>
         <source>Last three months</source>
-        <translation>Poslední čtvrtletí</translation>
+        <translation>Poslední tři měsíce</translation>
     </message>
     <message>
         <source>Last year</source>
@@ -309,12 +309,12 @@
         <translation>Hledat</translation>
     </message>
     <message>
-        <source>No results were found when searching for &quot;%1&quot;</source>
-        <translation>Žádné výsledky nebyly nalezeny při hledání &quot;%1&quot;</translation>
+        <source>No results were found when searching for "%1"</source>
+        <translation>Při hledání "%1" nebyly nalezeny žádné výsledky</translation>
     </message>
     <message>
-        <source>Search for &quot;%1&quot; returned %2 matches</source>
-        <translation>Hledání &quot;%1&quot; nalezlo %2 shody</translation>
+        <source>Search for "%1" returned %2 matches</source>
+        <translation>Hledání "%1" vrátilo shody: %2</translation>
     </message>
     <message>
         <source>Last month</source>
@@ -328,12 +328,12 @@
         <translation>Procházet</translation>
     </message>
     <message>
-        <source>To select objects, choose the appropriate radiobutton or checkbox(es), and click the &quot;Select&quot; button.</source>
-        <translation>Pro výběr objektů, zvolte odpovídající radiobuttonek nebo checkbox(y) a klikněte na tlačítko &quot;Výběr&quot;.</translation>
+        <source>To select objects, choose the appropriate radiobutton or checkbox(es), and click the "Select" button.</source>
+        <translation>Objekty vyberete zaškrtnutím příslušného přepínače nebo zaškrtávacích políček a kliknutím na tlačítko "Vybrat".</translation>
     </message>
     <message>
         <source>To select an object that is a child of one of the displayed objects, click the parent object name to display a list of its children.</source>
-        <translation>Pro výběr objektu, který je podobjektem jednoho ze zobrazených objektů, klikněte na nadřazený objekt pro zobrazení seznamu objektl podřazených.</translation>
+        <translation>Chcete-li vybrat objekt, který je podřízenou položkou některého ze zobrazených objektů, klikněte na název nadřazeného objektu; zobrazí se seznam jeho podřízených položek.</translation>
     </message>
     <message>
         <source>Back</source>
@@ -341,7 +341,7 @@
     </message>
     <message>
         <source>Top level</source>
-        <translation>Nejvyšší stupeň</translation>
+        <translation>Nejvyšší úroveň</translation>
     </message>
     <message>
         <source>Select</source>
@@ -356,11 +356,11 @@
     <name>design/ezdemo/content/browse_mode_list</name>
     <message>
         <source>Invert selection</source>
-        <translation>Invertovat výběr</translation>
+        <translation>Obrátit výběr</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation>Jméno</translation>
+        <translation>Název</translation>
     </message>
     <message>
         <source>Type</source>
@@ -375,7 +375,7 @@
     </message>
     <message>
         <source>Deselect all</source>
-        <translation>Odznačit vše</translation>
+        <translation>Zrušit výběr všeho</translation>
     </message>
     <message>
         <source>My drafts</source>
@@ -387,7 +387,7 @@
     </message>
     <message>
         <source>Name</source>
-        <translation>Jméno</translation>
+        <translation>Název</translation>
     </message>
     <message>
         <source>Class</source>
@@ -407,11 +407,11 @@
     </message>
     <message>
         <source>Last modified</source>
-        <translation>Naposledy modifikováno</translation>
+        <translation>Naposledy změněno</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation>Editovat</translation>
+        <translation>Upravit</translation>
     </message>
     <message>
         <source>Remove</source>
@@ -423,16 +423,16 @@
     </message>
     <message>
         <source>These are the current objects you are working on. The drafts are owned by you and can only be seen by you.
-      You can either edit the drafts or remove them if you don&apos;t need them any more.</source>
+      You can either edit the drafts or remove them if you don't need them any more.</source>
         <translation>Toto jsou aktuální objekty, na kterých pracujete. Koncepty vlastníte vy a vidíte je pouze vy.
-      Koncepty můžete upravit, nebo je odstranit, pokud je už nepotřebujete.</translation>
+      Koncepty můžete upravit, nebo je odstranit, pokud je již nepotřebujete.</translation>
     </message>
 </context>
 <context>
     <name>design/ezdemo/content/edit</name>
     <message>
         <source>Send for publishing</source>
-        <translation>Oeslat pro publikování</translation>
+        <translation>Odeslat k publikování</translation>
     </message>
     <message>
         <source>Store draft</source>
@@ -440,15 +440,15 @@
     </message>
     <message>
         <source>Discard draft</source>
-        <translation>Zrušit koncept</translation>
+        <translation>Zahodit koncept</translation>
     </message>
     <message>
         <source>Translating content from %from_lang to %to_lang</source>
-        <translation>Překládání obsahu od %from_lang do %to_lang</translation>
+        <translation>Překlad obsahu z jazyka %from_lang do jazyka %to_lang</translation>
     </message>
     <message>
         <source>Content in %language</source>
-        <translation>Obsah v %language</translation>
+        <translation>Obsah v jazyce %language</translation>
     </message>
     <message>
         <source>Edit &lt;%object_name&gt; (%class_name)</source>
@@ -479,19 +479,19 @@
     <name>design/ezdemo/content/edit_draft</name>
     <message>
         <source>The currently published version is %version and was published at %time.</source>
-        <translation>Momentálně publikovaná verze je %version a byla publikována v %time.</translation>
+        <translation>Aktuálně publikovaná verze je %version a byla publikována %time.</translation>
     </message>
     <message>
         <source>The last modification was done at %modified.</source>
-        <translation>Poslední modifikace byla dokončena %modified.</translation>
+        <translation>Poslední změna proběhla %modified.</translation>
     </message>
     <message>
         <source>The object is owned by %owner.</source>
-        <translation>Objekt je vlastněn %owner.</translation>
+        <translation>Vlastníkem objektu je %owner.</translation>
     </message>
     <message>
         <source>Current drafts</source>
-        <translation>Nynější koncepty</translation>
+        <translation>Aktuální koncepty</translation>
     </message>
     <message>
         <source>Version</source>
@@ -499,7 +499,7 @@
     </message>
     <message>
         <source>Name</source>
-        <translation>Jméno</translation>
+        <translation>Název</translation>
     </message>
     <message>
         <source>Owner</source>
@@ -511,11 +511,11 @@
     </message>
     <message>
         <source>Last modified</source>
-        <translation>Naposledy modifikováno</translation>
+        <translation>Naposledy změněno</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation>Editovat</translation>
+        <translation>Upravit</translation>
     </message>
     <message>
         <source>New draft</source>
@@ -525,7 +525,7 @@
         <source>This object is already being edited by yourself and others.
     You can either continue editing one of your drafts or you can create a new draft.</source>
         <translation>Tento objekt již upravujete vy i další uživatelé.
-    Můžete pokračovat v úpravách jednoho ze svých konceptů, nebo vytvořit nový koncept.</translation>
+    Můžete pokračovat v úpravách některého ze svých konceptů, nebo vytvořit nový koncept.</translation>
     </message>
     <message>
         <source>This object is already being edited by you.
@@ -537,7 +537,7 @@
         <source>This object is already being edited by someone else.
         You should either contact the person about their draft or create a new draft for your own use.</source>
         <translation>Tento objekt již upravuje někdo jiný.
-        Kontaktujte tuto osobu ohledně jejího konceptu, nebo si vytvořte nový koncept pro vlastní potřebu.</translation>
+        Kontaktujte tuto osobu ohledně jejího konceptu, nebo vytvořte nový koncept pro vlastní potřebu.</translation>
     </message>
 </context>
 <context>
@@ -548,7 +548,7 @@
     </message>
     <message>
         <source>Select the language you want to use when editing the object.</source>
-        <translation>Vybrat jazyk, který chcete použít pro editování objektu.</translation>
+        <translation>Vyberte jazyk, který chcete použít při úpravách objektu.</translation>
     </message>
     <message>
         <source>New languages</source>
@@ -556,31 +556,31 @@
     </message>
     <message>
         <source>Select the language you want to add to the object.</source>
-        <translation>Vybrat jazyk, který chcete přidat do objektu.</translation>
+        <translation>Vyberte jazyk, který chcete k objektu přidat.</translation>
     </message>
     <message>
         <source>Select the language the new translation will be based on.</source>
-        <translation>Vybrat jazyk na kterém bude založen nový překlad.</translation>
+        <translation>Vyberte jazyk, ze kterého bude nový překlad vycházet.</translation>
     </message>
     <message>
         <source>Use an empty, untranslated draft</source>
-        <translation>Použijte prázdný, nepřeložený koncept</translation>
+        <translation>Použít prázdný, nepřeložený koncept</translation>
     </message>
     <message>
         <source>You do not have permission to create a translation in another language.</source>
-        <translation>Nemáte práva vytvořit překlad v jiném jazyce.</translation>
+        <translation>Nemáte oprávnění vytvořit překlad v jiném jazyce.</translation>
     </message>
     <message>
         <source>However, you can select one of the following languages for editing.</source>
-        <translation>Nicménš, můžete vybrat jeden z následujících jazyků pro editování.</translation>
+        <translation>K úpravám však můžete vybrat jeden z následujících jazyků.</translation>
     </message>
     <message>
         <source>You do not have permission to edit the object in any available languages.</source>
-        <translation>Nemáte práva k editování objektu v jakémkoli dostupném jazyce.</translation>
+        <translation>Nemáte oprávnění upravovat objekt v žádném z dostupných jazyků.</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation>Editovat</translation>
+        <translation>Upravit</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -595,11 +595,11 @@
     </message>
     <message>
         <source>Version %1 is not available for editing anymore. Only drafts can be edited.</source>
-        <translation>Verze %1 není dostupná pro editaci. Pouze koncepty mohou být editovány.</translation>
+        <translation>Verzi %1 již nelze upravovat. Upravovat lze pouze koncepty.</translation>
     </message>
     <message>
         <source>To edit this version, first create a copy of it.</source>
-        <translation>Pro editaci této verze nejdříve zřiďte její kopii.</translation>
+        <translation>Chcete-li tuto verzi upravit, nejprve vytvořte její kopii.</translation>
     </message>
     <message>
         <source>Version not yours</source>
@@ -607,27 +607,27 @@
     </message>
     <message>
         <source>Version %1 was not created by you. Only your own drafts can be edited.</source>
-        <translation>Verze %1 nebyla vytvořena Vámi. Jen Vaše vlastní koncepty mohou být editovány.</translation>
+        <translation>Verzi %1 jste nevytvořili vy. Upravovat lze pouze vlastní koncepty.</translation>
     </message>
     <message>
         <source>Unable to create new version</source>
-        <translation>Nemožné vytvořit novou verzi</translation>
+        <translation>Novou verzi nelze vytvořit</translation>
     </message>
     <message>
         <source>Version history limit has been exceeded and no archived version can be removed by the system.</source>
-        <translation>Limit historie verze byl překročen a nearchivovaná verze může být odstraněna systémem.</translation>
+        <translation>Byl překročen limit historie verzí a systém nemůže odstranit žádnou archivovanou verzi.</translation>
     </message>
     <message>
         <source>You can either change your version history settings in content.ini, remove draft versions or edit existing drafts.</source>
-        <translation>Můžete rovněž změnit vaši historii verzí v content.ini, odstranit konceptovou verzi nebo editovat existující koncept.</translation>
+        <translation>Můžete změnit nastavení historie verzí v content.ini, odstranit verze konceptů nebo upravit existující koncepty.</translation>
     </message>
     <message>
         <source>Versions for &lt;%object_name&gt; [%version_count]</source>
-        <translation>Verze pro &lt;%object_name&gt; [%version_count]</translation>
+        <translation>Verze objektu &lt;%object_name&gt; [%version_count]</translation>
     </message>
     <message>
         <source>Toggle selection</source>
-        <translation>Změnit výběr</translation>
+        <translation>Přepnout výběr</translation>
     </message>
     <message>
         <source>Version</source>
@@ -639,7 +639,7 @@
     </message>
     <message>
         <source>Creator</source>
-        <translation>Tvůrce</translation>
+        <translation>Autor</translation>
     </message>
     <message>
         <source>Created</source>
@@ -647,19 +647,19 @@
     </message>
     <message>
         <source>Modified</source>
-        <translation>Modifikováno</translation>
+        <translation>Změněno</translation>
     </message>
     <message>
         <source>Select version #%version_number for removal.</source>
-        <translation>Vybrat verzi #%version_number pro odstranění.</translation>
+        <translation>Vyberte verzi #%version_number k odstranění.</translation>
     </message>
     <message>
         <source>Version #%version_number cannot be removed because it is either the published version of the object or because you do not have permission to remove it.</source>
-        <translation>Verze #%version_number nemůže být odstraněna protože je to rovněž publikovaná verze objektu nebo protože nemáte práva ji odstranit.</translation>
+        <translation>Verzi #%version_number nelze odstranit, protože je to publikovaná verze objektu nebo nemáte oprávnění ji odstranit.</translation>
     </message>
     <message>
         <source>View the contents of version #%version_number. Translation: %translation.</source>
-        <translation>Zobrazit obsah verze #%version_number Překlad: %translation.</translation>
+        <translation>Zobrazit obsah verze #%version_number. Překlad: %translation.</translation>
     </message>
     <message>
         <source>Draft</source>
@@ -671,7 +671,7 @@
     </message>
     <message>
         <source>Pending</source>
-        <translation>čeká na vyřízení</translation>
+        <translation>Čeká na vyřízení</translation>
     </message>
     <message>
         <source>Archived</source>
@@ -687,23 +687,23 @@
     </message>
     <message>
         <source>There is no need to do a copies of untouched drafts.</source>
-        <translation>Není potřeba vytvářet kopie nedotčených konceptů.</translation>
+        <translation>Není třeba vytvářet kopie nezměněných konceptů.</translation>
     </message>
     <message>
         <source>Create a copy of version #%version_number.</source>
-        <translation>Vytvořte kopii verze #%version_number.</translation>
+        <translation>Vytvořit kopii verze #%version_number.</translation>
     </message>
     <message>
         <source>You cannot make copies of versions because you do not have permission to edit the object.</source>
-        <translation>Nemůžete vytvářet kopie verzí, protože nemáte práva editovat objekt.</translation>
+        <translation>Kopie verzí nemůžete vytvářet, protože nemáte oprávnění objekt upravovat.</translation>
     </message>
     <message>
         <source>Edit the contents of version #%version_number.</source>
-        <translation>Editovat obsah verze #%version_number.</translation>
+        <translation>Upravit obsah verze #%version_number.</translation>
     </message>
     <message>
         <source>You cannot edit the contents of version #%version_number either because it is not a draft or because you do not have permission to edit the object.</source>
-        <translation>Nemůžete editovat obsah verze #%version_number, protože to není koncept nebo protože nemáte práva pro editování objektu.</translation>
+        <translation>Obsah verze #%version_number nemůžete upravit, protože to není koncept nebo nemáte oprávnění objekt upravovat.</translation>
     </message>
     <message>
         <source>This object does not have any versions.</source>
@@ -715,7 +715,7 @@
     </message>
     <message>
         <source>Remove the selected versions from the object.</source>
-        <translation>Odstraňte vybrané verze z objektu.</translation>
+        <translation>Odstranit vybrané verze z objektu.</translation>
     </message>
     <message>
         <source>Show differences</source>
@@ -751,11 +751,11 @@
     </message>
     <message>
         <source>Inline changes</source>
-        <translation>Souběžné změny</translation>
+        <translation>Změny v textu</translation>
     </message>
     <message>
         <source>Block changes</source>
-        <translation>Blokovat změny</translation>
+        <translation>Změny po blocích</translation>
     </message>
     <message>
         <source>New version</source>
@@ -763,18 +763,18 @@
     </message>
     <message>
         <source>Back to history</source>
-        <translation>Zpět do historie</translation>
+        <translation>Zpět na historii</translation>
     </message>
     <message>
         <source>Modified translation</source>
-        <translation>Modifikovaný překlad</translation>
+        <translation>Změněný překlad</translation>
     </message>
 </context>
 <context>
     <name>design/ezdemo/content/keyword</name>
     <message>
         <source>Keyword: %keyword</source>
-        <translation>Klíčové slovo %keyword</translation>
+        <translation>Klíčové slovo: %keyword</translation>
     </message>
     <message>
         <source>Link</source>
@@ -789,11 +789,11 @@
     <name>design/ezdemo/content/pendinglist</name>
     <message>
         <source>My pending items [%pending_count]</source>
-        <translation>Mé položky čekající na vyřízení [%pending_count]</translation>
+        <translation>Moje položky čekající na vyřízení [%pending_count]</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation>Jméno</translation>
+        <translation>Název</translation>
     </message>
     <message>
         <source>Class</source>
@@ -813,11 +813,11 @@
     </message>
     <message>
         <source>Unknown</source>
-        <translation>Neznámý</translation>
+        <translation>Neznámé</translation>
     </message>
     <message>
         <source>Your pending list is empty</source>
-        <translation>Seznam položek čekajících na vyřízení je prázdný</translation>
+        <translation>Váš seznam čekajících položek je prázdný</translation>
     </message>
 </context>
 <context>
@@ -829,15 +829,15 @@
     <message>
         <source>For more options try the %1Advanced search%2</source>
         <comment>The parameters are link start and end tags.</comment>
-        <translation>Pro více možností  zkuste %1Advanced search%2</translation>
+        <translation>Další možnosti nabízí %1rozšířené vyhledávání%2</translation>
     </message>
     <message>
         <source>The following words were excluded from the search:</source>
-        <translation>Následující slova byla vyjmuta z hledání:</translation>
+        <translation>Následující slova byla z hledání vyloučena:</translation>
     </message>
     <message>
-        <source>No results were found when searching for &quot;%1&quot;.</source>
-        <translation>Žádné výsledky nebyly nalezeny při hledání &quot;%1&quot;.</translation>
+        <source>No results were found when searching for "%1".</source>
+        <translation>Při hledání "%1" nebyly nalezeny žádné výsledky.</translation>
     </message>
     <message>
         <source>Search tips</source>
@@ -845,23 +845,23 @@
     </message>
     <message>
         <source>Check spelling of keywords.</source>
-        <translation>Zkontrolovat pravopis u klíčových slov.</translation>
+        <translation>Zkontrolujte pravopis klíčových slov.</translation>
     </message>
     <message>
-        <source>Try changing some keywords (eg, &quot;car&quot; instead of &quot;cars&quot;).</source>
-        <translation>Zkusit změnit některá klíčová slova (eg, &quot;car&quot; instead of &quot;cars&quot;).</translation>
+        <source>Try changing some keywords (eg, "car" instead of "cars").</source>
+        <translation>Zkuste změnit některá klíčová slova (např. "auto" místo "auta").</translation>
     </message>
     <message>
         <source>Try searching with less specific keywords.</source>
-        <translation>Zkusit vyhledat s méně specifickými klíčovými slovy.</translation>
+        <translation>Zkuste hledat s méně konkrétními klíčovými slovy.</translation>
     </message>
     <message>
         <source>Reduce number of keywords to get more results.</source>
-        <translation>Redukovat počet klíčových slov pro získání lepších výsledků.</translation>
+        <translation>Snižte počet klíčových slov, abyste získali více výsledků.</translation>
     </message>
     <message>
-        <source>Search for &quot;%1&quot; returned %2 matches</source>
-        <translation>Hledání &quot;%1&quot; vrátilo %2  shody</translation>
+        <source>Search for "%1" returned %2 matches</source>
+        <translation>Hledání "%1" vrátilo shody: %2</translation>
     </message>
 </context>
 <context>
@@ -876,7 +876,7 @@
     </message>
     <message>
         <source>Click here to return to the original page.</source>
-        <translation>Klikněte sem pro návrat na původní stránku.</translation>
+        <translation>Kliknutím sem se vrátíte na původní stránku.</translation>
     </message>
     <message>
         <source>The message was not sent.</source>
@@ -884,11 +884,11 @@
     </message>
     <message>
         <source>The message was not sent due to an unknown error. Please notify the site administrator about this error.</source>
-        <translation>Zpráva nebyla odeslána z důvodu neznámé chyby. Prosím uvědomte administrátora o této chybě.</translation>
+        <translation>Zpráva nebyla odeslána kvůli neznámé chybě. Informujte prosím o této chybě správce webu.</translation>
     </message>
     <message>
         <source>Please correct the following errors:</source>
-        <translation>Prosím opravte následující chyby:</translation>
+        <translation>Opravte následující chyby:</translation>
     </message>
     <message>
         <source>Your name</source>
@@ -896,11 +896,11 @@
     </message>
     <message>
         <source>Your email address</source>
-        <translation>Vaše emailová adresa</translation>
+        <translation>Vaše e-mailová adresa</translation>
     </message>
     <message>
-        <source>Recipient&apos;s email address</source>
-        <translation>Emailová adresa příjemce</translation>
+        <source>Recipient's email address</source>
+        <translation>E-mailová adresa příjemce</translation>
     </message>
     <message>
         <source>Comment</source>
@@ -908,7 +908,7 @@
     </message>
     <message>
         <source>Send</source>
-        <translation>Poslat</translation>
+        <translation>Odeslat</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -919,81 +919,81 @@
     <name>design/ezdemo/edit/comment</name>
     <message>
         <source>Edit %1 - %2</source>
-        <translation>Editovat %1 - %2</translation>
+        <translation>Upravit %1 - %2</translation>
     </message>
     <message>
         <source>Send for publishing</source>
-        <translation>Poslat k publikování</translation>
+        <translation>Odeslat k publikování</translation>
     </message>
     <message>
         <source>Discard</source>
-        <translation>Zrušit</translation>
+        <translation>Zahodit</translation>
     </message>
 </context>
 <context>
     <name>design/ezdemo/edit/file</name>
     <message>
         <source>Edit %1 - %2</source>
-        <translation>Editovat %1 - %2</translation>
+        <translation>Upravit %1 - %2</translation>
     </message>
     <message>
         <source>Send for publishing</source>
-        <translation>Poslat k publikování</translation>
+        <translation>Odeslat k publikování</translation>
     </message>
     <message>
         <source>Discard</source>
-        <translation>Zrušit</translation>
+        <translation>Zahodit</translation>
     </message>
 </context>
 <context>
     <name>design/ezdemo/edit/forum_reply</name>
     <message>
         <source>Edit %1 - %2</source>
-        <translation>Editovat %1 - %2</translation>
+        <translation>Upravit %1 - %2</translation>
     </message>
     <message>
         <source>Send for publishing</source>
-        <translation>Poslat k publikování</translation>
+        <translation>Odeslat k publikování</translation>
     </message>
     <message>
         <source>Discard</source>
-        <translation>Zrušit</translation>
+        <translation>Zahodit</translation>
     </message>
 </context>
 <context>
     <name>design/ezdemo/edit/forum_topic</name>
     <message>
         <source>Edit %1 - %2</source>
-        <translation>Editovat %1 - %2</translation>
+        <translation>Upravit %1 - %2</translation>
     </message>
     <message>
         <source>Send for publishing</source>
-        <translation>Poslat k publikování</translation>
+        <translation>Odeslat k publikování</translation>
     </message>
     <message>
         <source>Discard</source>
-        <translation>Zrušit</translation>
+        <translation>Zahodit</translation>
     </message>
 </context>
 <context>
     <name>design/ezdemo/embed/forum</name>
     <message>
         <source>Latest from</source>
-        <translation>Poslední z</translation>
+        <translation>Nejnovější z</translation>
     </message>
 </context>
 <context>
     <name>design/ezdemo/embed/poll</name>
     <message>
         <source>Vote</source>
-        <translation>Volit</translation>
+        <translation>Hlasovat</translation>
     </message>
 </context>
 <context>
     <name>design/ezdemo/ezinfo/about</name>
     <message>
         <source>Exponential information: %version</source>
-        <translation>Exponential informace: %version</translation>
+        <translation>Informace o systému Exponential: %version</translation>
     </message>
     <message>
         <source>What is Exponential?</source>
@@ -1009,11 +1009,11 @@
     </message>
     <message>
         <source>Copyright Notice</source>
-        <translation>Copyright upozornění</translation>
+        <translation>Upozornění na autorská práva</translation>
     </message>
     <message>
         <source>Third-Party Software</source>
-        <translation>Software Třetí-Strany</translation>
+        <translation>Software třetích stran</translation>
     </message>
     <message>
         <source>Extensions</source>
@@ -1024,7 +1024,7 @@
     <name>design/ezdemo/ezodf/browse_place</name>
     <message>
         <source>Choose document placement</source>
-        <translation>Zvolte umístění dokumentu</translation>
+        <translation>Vyberte umístění dokumentu</translation>
     </message>
     <message>
         <source>Select</source>
@@ -1036,22 +1036,22 @@
     Select the placements and click the %buttonname button.
     Using the recent and bookmark items for quick placement is also possible.
     Click on placement names to change the browse listing.</source>
-        <translation>Vyberte umístění pro objekt OpenOffice.org.
+        <translation>Vyberte umístění objektu OpenOffice.org.
 
     Vyberte umístění a klikněte na tlačítko %buttonname.
-    Pro rychlé umístění lze použít také nedávné položky a záložky.
-    Kliknutím na název umístění změníte zobrazený seznam.</translation>
+    K rychlému umístění můžete použít také nedávné položky a záložky.
+    Kliknutím na názvy umístění změníte procházený seznam.</translation>
     </message>
 </context>
 <context>
     <name>design/ezdemo/ezodf/export</name>
     <message>
         <source>OpenOffice.org export</source>
-        <translation>OpenOffice.org Export</translation>
+        <translation>Export do OpenOffice.org</translation>
     </message>
     <message>
         <source>Export Exponential content to OpenOffice.org</source>
-        <translation>Exportovat Exponential obsah do OpenOffice.org</translation>
+        <translation>Exportovat obsah systému Exponential do OpenOffice.org</translation>
     </message>
     <message>
         <source>Error</source>
@@ -1059,7 +1059,7 @@
     </message>
     <message>
         <source>Here you can export any Exponential content object to an OpenOffice.org Writer document format.</source>
-        <translation>Zde můžete exportovat jakýkoli Exponential obsah do OpenOffice.org formátu dokumentů.</translation>
+        <translation>Zde můžete exportovat libovolný objekt obsahu systému Exponential do formátu dokumentu OpenOffice.org Writer.</translation>
     </message>
     <message>
         <source>Export Object</source>
@@ -1091,7 +1091,7 @@
     <name>design/ezdemo/full/article</name>
     <message>
         <source>Comments</source>
-        <translation>Komentář</translation>
+        <translation>Komentáře</translation>
     </message>
     <message>
         <source>New comment</source>
@@ -1099,7 +1099,7 @@
     </message>
     <message>
         <source>%login_link_startLog in%login_link_end or %create_link_startcreate a user account%create_link_end to comment.</source>
-        <translation>%login_link_startLog v %login_link_end nebo %create_link_startcreate uživatelský účet %create_link_end do komentáře.</translation>
+        <translation>Chcete-li přidat komentář, %login_link_startpřihlaste se%login_link_end nebo si %create_link_startvytvořte uživatelský účet%create_link_end.</translation>
     </message>
     <message>
         <source>Tip a friend</source>
@@ -1211,11 +1211,11 @@
     </message>
     <message>
         <source>Keep me updated</source>
-        <translation>Udržuj mne aktuálního</translation>
+        <translation>Informovat mě o novinkách</translation>
     </message>
     <message>
         <source>You need to be logged in to get access to the forums. You can do so %login_link_start%here%login_link_end%</source>
-        <translation>Musíte být přihlášeni pro přístup do diskuzních fór. Můžete to provést %login_link_start% tady %login_link_end%</translation>
+        <translation>Pro přístup do diskusních fór musíte být přihlášeni. Přihlásit se můžete %login_link_start%zde%login_link_end%</translation>
     </message>
     <message>
         <source>Topic</source>
@@ -1242,7 +1242,7 @@
     <name>design/ezdemo/full/forum_reply</name>
     <message>
         <source>Message preview</source>
-        <translation>Náhled stránky</translation>
+        <translation>Náhled zprávy</translation>
     </message>
     <message>
         <source>Author</source>
@@ -1254,15 +1254,15 @@
     </message>
     <message>
         <source>Location</source>
-        <translation>Lokace</translation>
+        <translation>Umístění</translation>
     </message>
     <message>
         <source>Moderated by</source>
-        <translation>Moderováno</translation>
+        <translation>Moderuje</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation>Editovat</translation>
+        <translation>Upravit</translation>
     </message>
 </context>
 <context>
@@ -1281,11 +1281,11 @@
     </message>
     <message>
         <source>Keep me updated</source>
-        <translation>Udržuj mne aktuálního</translation>
+        <translation>Informovat mě o novinkách</translation>
     </message>
     <message>
         <source>You need to be logged in to get access to the forums. You can do so %login_link_start%here%login_link_end%</source>
-        <translation>Musíte být přihlášeni pro přístup do diskuzních fór. Můžete to provést %login_link_start% tady %login_link_end%</translation>
+        <translation>Pro přístup do diskusních fór musíte být přihlášeni. Přihlásit se můžete %login_link_start%zde%login_link_end%</translation>
     </message>
     <message>
         <source>Author</source>
@@ -1297,15 +1297,15 @@
     </message>
     <message>
         <source>Location</source>
-        <translation>Lokace</translation>
+        <translation>Umístění</translation>
     </message>
     <message>
         <source>Moderated by</source>
-        <translation>Moderováno</translation>
+        <translation>Moderuje</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation>Editovat</translation>
+        <translation>Upravit</translation>
     </message>
     <message>
         <source>Remove</source>
@@ -1324,7 +1324,7 @@
     </message>
     <message>
         <source>Posts</source>
-        <translation>Sloupky</translation>
+        <translation>Příspěvky</translation>
     </message>
     <message>
         <source>Last reply</source>
@@ -1358,7 +1358,7 @@
     </message>
     <message>
         <source>Start date</source>
-        <translation>Počáteční datum</translation>
+        <translation>Datum zahájení</translation>
     </message>
     <message>
         <source>Category</source>
@@ -1373,7 +1373,7 @@
     <name>design/ezdemo/full/poll</name>
     <message>
         <source>Vote</source>
-        <translation>Volit</translation>
+        <translation>Hlasovat</translation>
     </message>
     <message>
         <source>Result</source>
@@ -1384,11 +1384,11 @@
     <name>design/ezdemo/full/product</name>
     <message>
         <source>Add to basket</source>
-        <translation>Vložit do košíku</translation>
+        <translation>Přidat do košíku</translation>
     </message>
     <message>
         <source>People who bought this also bought</source>
-        <translation>Lidé, kteří koupili tento produkt také koupili</translation>
+        <translation>Lidé, kteří koupili tento produkt, koupili také</translation>
     </message>
     <message>
         <source>Amount</source>
@@ -1435,7 +1435,7 @@
     <name>design/ezdemo/line/event_calendar</name>
     <message>
         <source>Next events</source>
-        <translation>Další události</translation>
+        <translation>Nadcházející události</translation>
     </message>
 </context>
 <context>
@@ -1457,7 +1457,7 @@
     <name>design/ezdemo/line/flash</name>
     <message>
         <source>View flash</source>
-        <translation>Zobrazit flash</translation>
+        <translation>Zobrazit Flash</translation>
     </message>
 </context>
 <context>
@@ -1483,18 +1483,18 @@
     <name>design/ezdemo/line/forum_reply</name>
     <message>
         <source>Reply to:</source>
-        <translation>Odpovědět:</translation>
+        <translation>Odpověď na:</translation>
     </message>
 </context>
 <context>
     <name>design/ezdemo/line/poll</name>
     <message>
         <source>%count votes</source>
-        <translation>%count hlasů</translation>
+        <translation>Hlasy: %count</translation>
     </message>
     <message>
         <source>Vote</source>
-        <translation>Volit (hlasovat)</translation>
+        <translation>Hlasovat</translation>
     </message>
 </context>
 <context>
@@ -1512,14 +1512,14 @@
     <name>design/ezdemo/line/quicktime</name>
     <message>
         <source>View movie</source>
-        <translation>Zobrazit video</translation>
+        <translation>Přehrát video</translation>
     </message>
 </context>
 <context>
     <name>design/ezdemo/line/real_video</name>
     <message>
         <source>View movie</source>
-        <translation>Zobrazit video</translation>
+        <translation>Přehrát video</translation>
     </message>
 </context>
 <context>
@@ -1533,22 +1533,22 @@
     <name>design/ezdemo/line/windows_media</name>
     <message>
         <source>View movie</source>
-        <translation>Zobrazit video</translation>
+        <translation>Přehrát video</translation>
     </message>
 </context>
 <context>
     <name>design/ezdemo/link</name>
     <message>
         <source>%sitetitle front page</source>
-        <translation>%sitetitle úvodní stránky</translation>
+        <translation>Titulní stránka %sitetitle</translation>
     </message>
     <message>
         <source>Search %sitetitle</source>
-        <translation>Hledat %sitetitle</translation>
+        <translation>Hledat na %sitetitle</translation>
     </message>
     <message>
         <source>Printable version</source>
-        <translation>Tisknutelná verze</translation>
+        <translation>Verze pro tisk</translation>
     </message>
 </context>
 <context>
@@ -1562,11 +1562,11 @@
     <name>design/ezdemo/node/removeobject</name>
     <message>
         <source>Are you sure you want to remove these items?</source>
-        <translation>Jste si jistý, že chcete odstranit tyto položky?</translation>
+        <translation>Opravdu chcete odstranit tyto položky?</translation>
     </message>
     <message>
         <source>%nodename and its %childcount children. %additionalwarning</source>
-        <translation>%nodename a jejich %childcount subobjektů. %additionalwarning</translation>
+        <translation>%nodename a jeho podřízené položky (%childcount). %additionalwarning</translation>
     </message>
     <message>
         <source>%nodename %additionalwarning</source>
@@ -1582,7 +1582,7 @@
     </message>
     <message>
         <source>If %trashname is checked, removed items can be found in the trash.</source>
-        <translation>Pokud je zaškrtnuto %trashname , odstraněné položky mohou být nalezeny v koši.</translation>
+        <translation>Je-li zaškrtnuto %trashname, odstraněné položky najdete v koši.</translation>
     </message>
     <message>
         <source>Confirm</source>
@@ -1601,15 +1601,15 @@
     <name>design/ezdemo/notification/addingresult</name>
     <message>
         <source>Add to my notifications</source>
-        <translation>Přidat do mých upozorňování</translation>
+        <translation>Přidat do mých oznámení</translation>
     </message>
     <message>
         <source>Notification for node &lt;%node_name&gt; already exists.</source>
-        <translation>Upozornění pro uzel &lt;%node_name&gt; již existuje.</translation>
+        <translation>Oznámení pro uzel &lt;%node_name&gt; již existuje.</translation>
     </message>
     <message>
         <source>Notification for node &lt;%node_name&gt; was added successfully.</source>
-        <translation>Upozornění pro uzel &lt;%node_name&gt; bylo přidáno úspěšně.</translation>
+        <translation>Oznámení pro uzel &lt;%node_name&gt; bylo úspěšně přidáno.</translation>
     </message>
     <message>
         <source>OK</source>
@@ -1620,15 +1620,15 @@
     <name>design/ezdemo/notification/handler/ezgeneraldigest/settings/edit</name>
     <message>
         <source>Receive all messages combined in one digest</source>
-        <translation>Přijmout všechny zprávy kobminované v jednom přehledu</translation>
+        <translation>Dostávat všechny zprávy sloučené v jednom souhrnu</translation>
     </message>
     <message>
         <source>Receive digests</source>
-        <translation>Přijmout přehled</translation>
+        <translation>Dostávat souhrny</translation>
     </message>
     <message>
         <source>Daily, at</source>
-        <translation>Denně, v</translation>
+        <translation>Denně v</translation>
     </message>
     <message>
         <source>Once per week, on </source>
@@ -1636,26 +1636,26 @@
     </message>
     <message>
         <source>Once per month, on day number</source>
-        <translation>Jednou za měsíc, v čísle dne</translation>
+        <translation>Jednou měsíčně, v den číslo</translation>
     </message>
     <message>
         <source>If day number is larger than the number of days within the current month, the last day of the current month will be used.</source>
-        <translation>Pokud je číslo dne větší než počet dní v aktuálním měsíci, bude použit poslední den aktuálního měsíce.</translation>
+        <translation>Pokud je číslo dne větší než počet dní aktuálního měsíce, použije se poslední den aktuálního měsíce.</translation>
     </message>
 </context>
 <context>
     <name>design/ezdemo/notification/handler/ezsubtree/settings/edit</name>
     <message>
         <source>My item notifications [%notification_count]</source>
-        <translation>Moje položková upozornění [%notification_count]</translation>
+        <translation>Moje oznámení o položkách [%notification_count]</translation>
     </message>
     <message>
         <source>Invert selection.</source>
-        <translation>Invertovat výběr.</translation>
+        <translation>Obrátit výběr.</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation>Jméno</translation>
+        <translation>Název</translation>
     </message>
     <message>
         <source>Type</source>
@@ -1667,11 +1667,11 @@
     </message>
     <message>
         <source>Unknown</source>
-        <translation>Neznámý</translation>
+        <translation>Neznámé</translation>
     </message>
     <message>
         <source>You have not subscribed to receive notifications about any items.</source>
-        <translation>Nezapsal jste se pro příjem notifikací o žádných položkách.</translation>
+        <translation>Nemáte zapnutá oznámení pro žádné položky.</translation>
     </message>
     <message>
         <source>Remove selected</source>
@@ -1686,7 +1686,7 @@
     <name>design/ezdemo/notification/settings</name>
     <message>
         <source>Notification settings</source>
-        <translation>Nastavení upozorňování</translation>
+        <translation>Nastavení oznámení</translation>
     </message>
     <message>
         <source>Apply changes</source>
@@ -1790,12 +1790,12 @@
         <translation>URL webu</translation>
     </message>
     <message>
-        <source>Use this field to enter the base URL of your site. It is used to produce the URLs in the export, composed by the Site URL (e.g. &quot;http://www.example.com/index.php&quot;) and the path to the object (e.g. &quot;/articles/my_article&quot;). The Site URL depends on your web server and Exponential configuration.</source>
-        <translation>Do tohoto pole zadejte základní URL vašeho webu. Používá se k sestavení URL v exportu, složených z URL webu (např. &quot;http://www.example.com/index.php&quot;) a cesty k objektu (např. &quot;/articles/my_article&quot;). URL webu závisí na konfiguraci vašeho webového serveru a systému Exponential.</translation>
+        <source>Use this field to enter the base URL of your site. It is used to produce the URLs in the export, composed by the Site URL (e.g. "http://www.example.com/index.php") and the path to the object (e.g. "/articles/my_article"). The Site URL depends on your web server and Exponential configuration.</source>
+        <translation>Do tohoto pole zadejte základní URL vašeho webu. Používá se k sestavení URL v exportu, složených z URL webu (např. "http://www.example.com/index.php") a cesty k objektu (např. "/articles/my_article"). URL webu závisí na konfiguraci vašeho webového serveru a systému Exponential.</translation>
     </message>
     <message>
         <source>Leave this field emty if you want system automaticaly detect the URL of your site from the URL you access feed with</source>
-        <translation>Ponechte toto pole prázdné, pokud má systém automaticky zjistit URL vašeho webu z URL, přes kterou ke kanálu přistupujete</translation>
+        <translation>Toto pole ponechte prázdné, pokud chcete, aby systém automaticky zjistil URL vašeho webu z URL, přes kterou ke kanálu přistupujete</translation>
     </message>
     <message>
         <source>Image</source>
@@ -1854,8 +1854,8 @@
         <translation>Přístupová URL</translation>
     </message>
     <message>
-        <source>Use this field to set the URL where the RSS export should be available. Note that &quot;rss/feed/&quot; will be appended to the real URL. </source>
-        <translation>Do tohoto pole zadejte URL, na které má být export RSS dostupný. Ke skutečné URL se připojí &quot;rss/feed/&quot;. </translation>
+        <source>Use this field to set the URL where the RSS export should be available. Note that "rss/feed/" will be appended to the real URL. </source>
+        <translation>Do tohoto pole zadejte URL, na které má být export RSS dostupný. Ke skutečné URL se připojí "rss/feed/". </translation>
     </message>
     <message>
         <source>Source</source>
@@ -1882,8 +1882,8 @@
         <translation>Třída</translation>
     </message>
     <message>
-        <source>Use this drop-down to select the type of object that triggers the export. Click the &quot;Set&quot; button to load the correct attribute types for the remaining fields.</source>
-        <translation>V této rozevírací nabídce vyberte typ objektu, který spouští export. Kliknutím na tlačítko &quot;Nastavit&quot; načtete správné typy atributů pro zbývající pole.</translation>
+        <source>Use this drop-down to select the type of object that triggers the export. Click the "Set" button to load the correct attribute types for the remaining fields.</source>
+        <translation>V této rozevírací nabídce vyberte typ objektu, který spouští export. Kliknutím na tlačítko "Nastavit" načtete správné typy atributů pro zbývající pole.</translation>
     </message>
     <message>
         <source>Set</source>
@@ -2017,8 +2017,8 @@
         <translation>Třída</translation>
     </message>
     <message>
-        <source>Use this drop-down to select the type of object the import should create. Click the &quot;Set&quot; button to load the attribute types for the remaining fields.</source>
-        <translation>V této rozevírací nabídce vyberte typ objektu, který má import vytvářet. Kliknutím na tlačítko &quot;Nastavit&quot; načtete typy atributů pro zbývající pole.</translation>
+        <source>Use this drop-down to select the type of object the import should create. Click the "Set" button to load the attribute types for the remaining fields.</source>
+        <translation>V této rozevírací nabídce vyberte typ objektu, který má import vytvářet. Kliknutím na tlačítko "Nastavit" načtete typy atributů pro zbývající pole.</translation>
     </message>
     <message>
         <source>Set</source>
@@ -2192,27 +2192,27 @@
     </message>
     <message>
         <source>The following items were removed from your basket because the products were changed.</source>
-        <translation>Následující položky byly vyjmuty z Vašeho košíku, protože byly změněny produkty.</translation>
+        <translation>Následující položky byly z vašeho košíku odebrány, protože se produkty změnily.</translation>
     </message>
     <message>
         <source>VAT is unknown</source>
-        <translation>Neznámá DPH</translation>
+        <translation>DPH není známa</translation>
     </message>
     <message>
         <source>VAT percentage is not yet known for some of the items being purchased.</source>
-        <translation>Zatím není známo procento DPH pro některé z položek, které jsou objednány.</translation>
+        <translation>U některých nakupovaných položek zatím není známa sazba DPH.</translation>
     </message>
     <message>
         <source>This probably means that some information about you is not yet available and will be obtained during checkout.</source>
-        <translation>Toto pravděpodobně znamená, že nějaká informace o Vás není zatím dostupná a doplní se během uzavření objednávky.</translation>
+        <translation>To pravděpodobně znamená, že některé údaje o vás zatím nejsou k dispozici a budou získány během pokladny.</translation>
     </message>
     <message>
         <source>Attempted to add object without price to basket.</source>
-        <translation>Pokus o vložení objektu bez ceny do košíku.</translation>
+        <translation>Pokus o přidání objektu bez ceny do košíku.</translation>
     </message>
     <message>
         <source>Your payment was aborted.</source>
-        <translation>Vaše platba byla odmítnuta.</translation>
+        <translation>Vaše platba byla přerušena.</translation>
     </message>
     <message>
         <source>Count</source>
@@ -2240,11 +2240,11 @@
     </message>
     <message>
         <source>Unknown</source>
-        <translation>Neznámý</translation>
+        <translation>Neznámé</translation>
     </message>
     <message>
         <source>Update</source>
-        <translation>Aktualizace</translation>
+        <translation>Aktualizovat</translation>
     </message>
     <message>
         <source>Remove</source>
@@ -2252,23 +2252,23 @@
     </message>
     <message>
         <source>Selected options</source>
-        <translation>Vybrané volby</translation>
+        <translation>Vybrané možnosti</translation>
     </message>
     <message>
         <source>Subtotal ex. VAT</source>
-        <translation>Mezisoučet ceny bez DPH</translation>
+        <translation>Mezisoučet bez DPH</translation>
     </message>
     <message>
         <source>Subtotal inc. VAT</source>
-        <translation>Mezisoučet ceny vč. DPH</translation>
+        <translation>Mezisoučet vč. DPH</translation>
     </message>
     <message>
         <source>Shipping</source>
-        <translation>Doručování</translation>
+        <translation>Doprava</translation>
     </message>
     <message>
         <source>Order total</source>
-        <translation>Objednávka celkem</translation>
+        <translation>Celkem za objednávku</translation>
     </message>
     <message>
         <source>Continue shopping</source>
@@ -2276,11 +2276,11 @@
     </message>
     <message>
         <source>Checkout</source>
-        <translation>Uzavřít objednávku</translation>
+        <translation>Pokladna</translation>
     </message>
     <message>
         <source>You have no products in your basket.</source>
-        <translation>Nemáte žádný produkt v košíku.</translation>
+        <translation>V košíku nemáte žádné produkty.</translation>
     </message>
 </context>
 <context>
@@ -2299,7 +2299,7 @@
     </message>
     <message>
         <source>Product items</source>
-        <translation>Produktové položky</translation>
+        <translation>Položky produktů</translation>
     </message>
     <message>
         <source>Count</source>
@@ -2327,11 +2327,11 @@
     </message>
     <message>
         <source>Selected options</source>
-        <translation>Vybrané volby</translation>
+        <translation>Vybrané možnosti</translation>
     </message>
     <message>
         <source>Order summary</source>
-        <translation>Sumarizace objednávky</translation>
+        <translation>Souhrn objednávky</translation>
     </message>
     <message>
         <source>Subtotal of items</source>
@@ -2339,7 +2339,7 @@
     </message>
     <message>
         <source>Order total</source>
-        <translation>Objednávka celkem</translation>
+        <translation>Celkem za objednávku</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -2366,11 +2366,11 @@
     <name>design/ezdemo/shop/customerorderview</name>
     <message>
         <source>Customer information</source>
-        <translation>Informace o uživateli</translation>
+        <translation>Informace o zákazníkovi</translation>
     </message>
     <message>
         <source>Order list</source>
-        <translation>Seznam objedávek</translation>
+        <translation>Seznam objednávek</translation>
     </message>
     <message>
         <source>ID</source>
@@ -2390,7 +2390,7 @@
     </message>
     <message>
         <source>Purchase list</source>
-        <translation>Seznam nákupu</translation>
+        <translation>Seznam nákupů</translation>
     </message>
     <message>
         <source>Product</source>
@@ -2405,11 +2405,11 @@
     <name>design/ezdemo/shop/orderlist</name>
     <message>
         <source>Order list</source>
-        <translation>Seznam objedávek</translation>
+        <translation>Seznam objednávek</translation>
     </message>
     <message>
         <source>Sort result by</source>
-        <translation>Třídit výsledky podle</translation>
+        <translation>Seřadit výsledky podle</translation>
     </message>
     <message>
         <source>Order time</source>
@@ -2417,7 +2417,7 @@
     </message>
     <message>
         <source>User name</source>
-        <translation>Jméno uživatele</translation>
+        <translation>Uživatelské jméno</translation>
     </message>
     <message>
         <source>Order ID</source>
@@ -2429,7 +2429,7 @@
     </message>
     <message>
         <source>Sort ascending</source>
-        <translation>Třídit vzestupně</translation>
+        <translation>Seřadit vzestupně</translation>
     </message>
     <message>
         <source>Descending</source>
@@ -2437,11 +2437,11 @@
     </message>
     <message>
         <source>Sort descending</source>
-        <translation>Třídit sestupně</translation>
+        <translation>Seřadit sestupně</translation>
     </message>
     <message>
         <source>Sort</source>
-        <translation>Třídit</translation>
+        <translation>Řadit</translation>
     </message>
     <message>
         <source>ID</source>
@@ -2469,7 +2469,7 @@
     </message>
     <message>
         <source>Archive</source>
-        <translation>Archivovat</translation>
+        <translation>Archiv</translation>
     </message>
 </context>
 <context>
@@ -2480,7 +2480,7 @@
     </message>
     <message>
         <source>Product items</source>
-        <translation>Produktové položky</translation>
+        <translation>Položky produktů</translation>
     </message>
     <message>
         <source>Product</source>
@@ -2512,11 +2512,11 @@
     </message>
     <message>
         <source>Order summary</source>
-        <translation>Sumarizace objednávky</translation>
+        <translation>Souhrn objednávky</translation>
     </message>
     <message>
         <source>Summary</source>
-        <translation>Sumarizace</translation>
+        <translation>Shrnutí</translation>
     </message>
     <message>
         <source>Subtotal of items</source>
@@ -2524,7 +2524,7 @@
     </message>
     <message>
         <source>Order total</source>
-        <translation>Objednávka celkem</translation>
+        <translation>Celkem za objednávku</translation>
     </message>
     <message>
         <source>Order history</source>
@@ -2536,7 +2536,7 @@
     </message>
     <message>
         <source>Order status</source>
-        <translation>Status objednávky</translation>
+        <translation>Stav objednávky</translation>
     </message>
 </context>
 <context>
@@ -2555,11 +2555,11 @@
     </message>
     <message>
         <source>Your account information</source>
-        <translation>Informace o Vašem účtu</translation>
+        <translation>Informace o vašem účtu</translation>
     </message>
     <message>
         <source>Input did not validate. All fields marked with * must be filled in.</source>
-        <translation>Chyba vstupních dat. Všechna ple označena s * musí být vyplněna.</translation>
+        <translation>Zadané údaje nejsou platné. Všechna pole označená * musí být vyplněna.</translation>
     </message>
     <message>
         <source>First name</source>
@@ -2587,11 +2587,11 @@
     </message>
     <message>
         <source>Place</source>
-        <translation>Místo</translation>
+        <translation>Obec</translation>
     </message>
     <message>
         <source>State</source>
-        <translation>Stát</translation>
+        <translation>Stav</translation>
     </message>
     <message>
         <source>Country</source>
@@ -2611,14 +2611,14 @@
     </message>
     <message>
         <source>All fields marked with * must be filled in.</source>
-        <translation>Všechna ple označena s * musí být vyplněna.</translation>
+        <translation>Všechna pole označená * je třeba vyplnit.</translation>
     </message>
 </context>
 <context>
     <name>design/ezdemo/shop/wishlist</name>
     <message>
         <source>Wish list</source>
-        <translation>Kniha přání</translation>
+        <translation>Seznam přání</translation>
     </message>
     <message>
         <source>Product</source>
@@ -2630,7 +2630,7 @@
     </message>
     <message>
         <source>Selected options</source>
-        <translation>Vybrané volby</translation>
+        <translation>Vybrané možnosti</translation>
     </message>
     <message>
         <source>Store</source>
@@ -2638,22 +2638,22 @@
     </message>
     <message>
         <source>Remove items</source>
-        <translation>Odstranit položky</translation>
+        <translation>Odebrat položky</translation>
     </message>
     <message>
         <source>Empty wish list</source>
-        <translation>Vyprázdnit knihu přání</translation>
+        <translation>Vyprázdnit seznam přání</translation>
     </message>
 </context>
 <context>
     <name>design/ezdemo/simplified_treemenu/show_simplified_menu</name>
     <message>
         <source>Fold/Unfold</source>
-        <translation>Zabalit/Rozbalit</translation>
+        <translation>Sbalit/rozbalit</translation>
     </message>
     <message>
         <source>Node ID: %node_id Visibility: %visibility</source>
-        <translation>Uzel ID: %node_id Visibility: %visibility</translation>
+        <translation>ID uzlu: %node_id Viditelnost: %visibility</translation>
     </message>
 </context>
 <context>
@@ -2671,11 +2671,11 @@
     <name>design/ezdemo/user/edit</name>
     <message>
         <source>User profile</source>
-        <translation>Uživatelský profil</translation>
+        <translation>Profil uživatele</translation>
     </message>
     <message>
         <source>Username</source>
-        <translation>Jméno uživatele</translation>
+        <translation>Uživatelské jméno</translation>
     </message>
     <message>
         <source>Email</source>
@@ -2683,7 +2683,7 @@
     </message>
     <message>
         <source>Name</source>
-        <translation>Jméno</translation>
+        <translation>Název</translation>
     </message>
     <message>
         <source>My drafts</source>
@@ -2695,15 +2695,15 @@
     </message>
     <message>
         <source>My notification settings</source>
-        <translation>Nastavení upozorňování</translation>
+        <translation>Moje nastavení oznámení</translation>
     </message>
     <message>
         <source>My wish list</source>
-        <translation>Moje kniha přání</translation>
+        <translation>Můj seznam přání</translation>
     </message>
     <message>
         <source>Edit profile</source>
-        <translation>Editovat profil</translation>
+        <translation>Upravit profil</translation>
     </message>
     <message>
         <source>Change password</source>
@@ -2711,22 +2711,22 @@
     </message>
     <message>
         <source>My pending items</source>
-        <translation>Moje položky čekající na vyřízení</translation>
+        <translation>Moje čekající položky</translation>
     </message>
 </context>
 <context>
     <name>design/ezdemo/user/forgotpassword</name>
     <message>
         <source>An email has been sent to the following address: %1. It contains a link you need to click so that we can confirm that the correct user has received the new password.</source>
-        <translation>Email byl odeslán na následující adresu: %1 Obsahuje link, na který musíte kliknout abychom měli potvrzeno, že pouze správný uživatel obdržel nové heslo.</translation>
+        <translation>Na následující adresu byl odeslán e-mail: %1. Obsahuje odkaz, na který je třeba kliknout, abychom mohli potvrdit, že nové heslo obdržel správný uživatel.</translation>
     </message>
     <message>
         <source>There is no registered user with that email address.</source>
-        <translation>Uživatel s touto e-mailovou adresou není zaregistrovaný.</translation>
+        <translation>S touto e-mailovou adresou není zaregistrován žádný uživatel.</translation>
     </message>
     <message>
         <source>Password was successfully generated and sent to: %1</source>
-        <translation>Heslo bylo úspěšně vagenerováno a posláno na: %1</translation>
+        <translation>Heslo bylo úspěšně vygenerováno a odesláno na: %1</translation>
     </message>
     <message>
         <source>The key is invalid or has been used. </source>
@@ -2734,11 +2734,11 @@
     </message>
     <message>
         <source>Have you forgotten your password?</source>
-        <translation>Zapomněli jste Vaše heslo?</translation>
+        <translation>Zapomněli jste heslo?</translation>
     </message>
     <message>
         <source>If you have forgotten your password, enter your email address and we will create a new password and send it to you.</source>
-        <translation>Jestli jste zapomněli  Vaše heslo, můžeme Vám vygenerovat nové. Vyplňte Vaši e-mailovou adresu a my Vám vytvoříme heslo nové.</translation>
+        <translation>Pokud jste zapomněli heslo, zadejte svou e-mailovou adresu; vytvoříme nové heslo a pošleme vám ho.</translation>
     </message>
     <message>
         <source>Email</source>
@@ -2746,35 +2746,35 @@
     </message>
     <message>
         <source>Generate new password</source>
-        <translation>Generovat nové heslo</translation>
+        <translation>Vygenerovat nové heslo</translation>
     </message>
 </context>
 <context>
     <name>design/ezdemo/user/login</name>
     <message>
         <source>Login</source>
-        <translation>Přihlásit</translation>
+        <translation>Přihlašovací jméno</translation>
     </message>
     <message>
         <source>Could not login</source>
-        <translation>Nemohu se přihlásit</translation>
+        <translation>Nelze se přihlásit</translation>
     </message>
     <message>
         <source>A valid username and password is required to login.</source>
-        <translation>Platné uživatelské jméno a heslo je potřebné pro přihlášení.</translation>
+        <translation>K přihlášení je potřeba platné uživatelské jméno a heslo.</translation>
     </message>
     <message>
         <source>Access not allowed</source>
-        <translation>Přístup nepovolen</translation>
+        <translation>Přístup není povolen</translation>
     </message>
     <message>
         <source>You are not allowed to access %1.</source>
-        <translation>Nemáte povolení k přístupu %1.</translation>
+        <translation>Nemáte oprávnění k přístupu k %1.</translation>
     </message>
     <message>
         <source>Username</source>
         <comment>User name</comment>
-        <translation>Jméno uživatele</translation>
+        <translation>Uživatelské jméno</translation>
     </message>
     <message>
         <source>Password</source>
@@ -2782,7 +2782,7 @@
     </message>
     <message>
         <source>Log in to the Exponential Administration Interface</source>
-        <translation>Přihlásit k Exponential administračnímu rozhraní</translation>
+        <translation>Přihlásit se do administračního rozhraní Exponential</translation>
     </message>
     <message>
         <source>Remember me</source>
@@ -2791,7 +2791,7 @@
     <message>
         <source>Login</source>
         <comment>Button</comment>
-        <translation>Přihlásit</translation>
+        <translation>Přihlásit se</translation>
     </message>
     <message>
         <source>Sign up</source>
@@ -2800,26 +2800,26 @@
     </message>
     <message>
         <source>Forgot your password?</source>
-        <translation>Zapomněli jste Vaše heslo?</translation>
+        <translation>Zapomněli jste heslo?</translation>
     </message>
 </context>
 <context>
     <name>design/ezdemo/user/password</name>
     <message>
         <source>Change password for user</source>
-        <translation>Změnit heslo pro uživatele</translation>
+        <translation>Změnit heslo uživatele</translation>
     </message>
     <message>
         <source>Please retype your old password.</source>
-        <translation>Prosím napište znovu Vaše staré heslo.</translation>
+        <translation>Zadejte znovu své staré heslo.</translation>
     </message>
     <message>
-        <source>Password didn&apos;t match, please retype your new password.</source>
-        <translation>Heslo nesouhlasí, prosím napište znovu Vaše nové heslo.</translation>
+        <source>Password didn't match, please retype your new password.</source>
+        <translation>Hesla se neshodují, zadejte nové heslo znovu.</translation>
     </message>
     <message>
         <source>Password successfully updated.</source>
-        <translation>Heslo úspěšně aktualizováno.</translation>
+        <translation>Heslo bylo úspěšně změněno.</translation>
     </message>
     <message>
         <source>Old password</source>
@@ -2831,7 +2831,7 @@
     </message>
     <message>
         <source>Retype password</source>
-        <translation>Znovu napsat heslo</translation>
+        <translation>Zadejte heslo znovu</translation>
     </message>
     <message>
         <source>OK</source>
@@ -2843,7 +2843,7 @@
     </message>
     <message>
         <source>The new password must be at least %1 characters long, please retype your new password.</source>
-        <translation>Nové heslo musí být nejméně %1 znaků dlouhé. Prosím napište znovu nové heslo.</translation>
+        <translation>Nové heslo musí mít alespoň %1 znaků, zadejte nové heslo znovu.</translation>
     </message>
     <message>
         <source>Change your password</source>
@@ -2918,11 +2918,11 @@
     <name>design/ezdemo/user/register</name>
     <message>
         <source>Register user</source>
-        <translation>Registrovat uživatele</translation>
+        <translation>Zaregistrovat uživatele</translation>
     </message>
     <message>
         <source>Input did not validate</source>
-        <translation>Zadaná data nejsou platná</translation>
+        <translation>Zadané údaje nejsou platné</translation>
     </message>
     <message>
         <source>Input was stored successfully</source>
@@ -2930,15 +2930,15 @@
     </message>
     <message>
         <source>Register</source>
-        <translation>Registrovat</translation>
+        <translation>Zaregistrovat se</translation>
     </message>
     <message>
         <source>Discard</source>
-        <translation>Zrušit</translation>
+        <translation>Zahodit</translation>
     </message>
     <message>
         <source>Unable to register new user</source>
-        <translation>Nemožné registrovat nového uživatele</translation>
+        <translation>Nového uživatele nelze zaregistrovat</translation>
     </message>
     <message>
         <source>Back</source>
@@ -2949,11 +2949,11 @@
     <name>design/ezdemo/user/success</name>
     <message>
         <source>User registered</source>
-        <translation>Uživatel registrován</translation>
+        <translation>Uživatel zaregistrován</translation>
     </message>
     <message>
         <source>Your account was successfully created. An email will be sent to the specified address. Follow the instructions in that email to activate your account.</source>
-        <translation>Váš účet byl úspěšné vytvořen. Bude Vám odeslán e-mail na Vámi uvedenou adresu. Následujte instrukce v tomto e-mailu pro aktivaci Vašeho účtu.</translation>
+        <translation>Váš účet byl úspěšně vytvořen. Na zadanou adresu bude odeslán e-mail. Účet aktivujete podle pokynů v tomto e-mailu.</translation>
     </message>
     <message>
         <source>Your account was successfully created.</source>
@@ -3108,18 +3108,18 @@
     <name>design/ezdemo/view/ezbinaryfile</name>
     <message>
         <source>The file could not be found.</source>
-        <translation>Soubor nemůže být nalezen.</translation>
+        <translation>Soubor nebyl nalezen.</translation>
     </message>
 </context>
 <context>
     <name>design/ezdemo/view/ezmedia</name>
     <message>
         <source>No %link_startFlash player%link_end avaliable!</source>
-        <translation>Žádný %link_startFlash player%link_end  dostupný!</translation>
+        <translation>Není k dispozici žádný %link_startFlash player%link_end!</translation>
     </message>
     <message>
         <source>No media file is available.</source>
-        <translation>Žádný media soubor není dostupný.</translation>
+        <translation>Není k dispozici žádný mediální soubor.</translation>
     </message>
     <message>
         <source>Your browser does not support html5 video.</source>
@@ -3149,7 +3149,7 @@
     <name>design/ezdemo/view/sitemap</name>
     <message>
         <source>Site map</source>
-        <translation>Mapa stránek</translation>
+        <translation>Mapa webu</translation>
     </message>
 </context>
 <context>
@@ -3264,7 +3264,7 @@
     </message>
     <message>
         <source>%rating_count votes cast</source>
-        <translation>Počet hlasů: %rating_count</translation>
+        <translation>Odevzdané hlasy: %rating_count</translation>
     </message>
 </context>
 <context>
@@ -3278,11 +3278,11 @@
     <name>ezcomments/comment/add/form</name>
     <message>
         <source>Post a comment</source>
-        <translation>Napsat komentář</translation>
+        <translation>Přidat komentář</translation>
     </message>
     <message>
         <source>Title:</source>
-        <translation>Název:</translation>
+        <translation>Nadpis:</translation>
     </message>
     <message>
         <source>Name:</source>
@@ -3298,7 +3298,7 @@
     </message>
     <message>
         <source>(The email address will not be shown)</source>
-        <translation>(E-mailová adresa nebude zobrazena)</translation>
+        <translation>(E-mailová adresa se nezobrazí)</translation>
     </message>
     <message>
         <source>Content:</source>
@@ -3321,12 +3321,12 @@
         <translation>Na velikosti písmen nezáleží.</translation>
     </message>
     <message>
-        <source>Can&apos;t read this?</source>
-        <translation>Nelze přečíst?</translation>
+        <source>Can't read this?</source>
+        <translation>Nemůžete to přečíst?</translation>
     </message>
     <message>
         <source>Try another</source>
-        <translation>Zkusit jiné</translation>
+        <translation>Zkusit jiný</translation>
     </message>
     <message>
         <source>Remember me</source>
@@ -3338,7 +3338,7 @@
     </message>
     <message>
         <source>Reset form</source>
-        <translation>Vymazat formulář</translation>
+        <translation>Obnovit formulář</translation>
     </message>
 </context>
 <context>
@@ -3383,7 +3383,7 @@
     <name>design/admin/ezinfo/about</name>
     <message>
         <source>Could not load LICENSE file! You should have a LICENSE file in your eZ Publish root directory.</source>
-        <translation>Nelze načíst soubor LICENSE! Soubor LICENSE by měl být v kořenovém adresáři Exponential.</translation>
+        <translation>Soubor LICENSE nelze načíst! V kořenovém adresáři eZ Publish by měl být soubor LICENSE.</translation>
     </message>
 </context>
 </TS>

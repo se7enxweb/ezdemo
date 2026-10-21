@@ -75,7 +75,7 @@
     <name>design/ezdemo/block_item/product</name>
     <message>
         <source>Amount</source>
-        <translation>Mengde</translation>
+        <translation>Beløp</translation>
     </message>
     <message>
         <source>Buy</source>
@@ -160,7 +160,7 @@
     </message>
     <message>
         <source>Return to site</source>
-        <translation>Tilbake til nettsiden</translation>
+        <translation>Tilbake til nettstedet</translation>
     </message>
 </context>
 <context>
@@ -286,39 +286,39 @@
     </message>
     <message>
         <source>5 items</source>
-        <translation>5 artikler</translation>
+        <translation>5 elementer</translation>
     </message>
     <message>
         <source>10 items</source>
-        <translation>10 artikler</translation>
+        <translation>10 elementer</translation>
     </message>
     <message>
         <source>20 items</source>
-        <translation>20 artikler</translation>
+        <translation>20 elementer</translation>
     </message>
     <message>
         <source>30 items</source>
-        <translation>30 artikler</translation>
+        <translation>30 elementer</translation>
     </message>
     <message>
         <source>50 items</source>
-        <translation>50 artikler</translation>
+        <translation>50 elementer</translation>
     </message>
     <message>
         <source>Search</source>
         <translation>Søk</translation>
     </message>
     <message>
-        <source>No results were found when searching for &quot;%1&quot;</source>
-        <translation>Ingen resultater ble funnet ved søk etter &quot;%1&quot;</translation>
+        <source>No results were found when searching for "%1"</source>
+        <translation>Ingen resultater ble funnet ved søk etter "%1"</translation>
     </message>
     <message>
-        <source>Search for &quot;%1&quot; returned %2 matches</source>
-        <translation>Søk etter &quot;%1&quot; ga %2 treff</translation>
+        <source>Search for "%1" returned %2 matches</source>
+        <translation>Søk etter "%1" ga %2 treff</translation>
     </message>
     <message>
         <source>Last month</source>
-        <translation>Sist måned</translation>
+        <translation>Siste måned</translation>
     </message>
 </context>
 <context>
@@ -328,8 +328,8 @@
         <translation>Bla igjennom</translation>
     </message>
     <message>
-        <source>To select objects, choose the appropriate radiobutton or checkbox(es), and click the &quot;Select&quot; button.</source>
-        <translation>For å gjøre et valg, klikk på den rette radioknappen eller avkrysningsboksen, og klikk &quot;Velg&quot; knappen.</translation>
+        <source>To select objects, choose the appropriate radiobutton or checkbox(es), and click the "Select" button.</source>
+        <translation>For å gjøre et valg, klikk på den rette radioknappen eller avkrysningsboksen, og klikk på "Velg"-knappen.</translation>
     </message>
     <message>
         <source>To select an object that is a child of one of the displayed objects, click the parent object name to display a list of its children.</source>
@@ -423,8 +423,8 @@
     </message>
     <message>
         <source>These are the current objects you are working on. The drafts are owned by you and can only be seen by you.
-      You can either edit the drafts or remove them if you don&apos;t need them any more.</source>
-        <translation>Dette er objektene du jobber med nå. Utkastene eies av deg og kan bare ses av deg.
+      You can either edit the drafts or remove them if you don't need them any more.</source>
+        <translation>Dette er de gjeldende objektene du arbeider med. Utkastene eies av deg og kan bare ses av deg.
       Du kan enten redigere utkastene eller fjerne dem hvis du ikke trenger dem lenger.</translation>
     </message>
 </context>
@@ -525,7 +525,7 @@
         <source>This object is already being edited by yourself and others.
     You can either continue editing one of your drafts or you can create a new draft.</source>
         <translation>Dette objektet redigeres allerede av deg og andre.
-    Du kan enten fortsette å redigere et av utkastene dine, eller du kan opprette et nytt utkast.</translation>
+    Du kan enten fortsette å redigere et av utkastene dine eller opprette et nytt utkast.</translation>
     </message>
     <message>
         <source>This object is already being edited by you.
@@ -576,7 +576,7 @@ Du kan fortsette å redigere ett av utkastene dine, eller opprette et nytt utkas
     </message>
     <message>
         <source>You do not have permission to edit the object in any available languages.</source>
-        <translation>Du har ikke tillatelse til å redigere objektet i noen tilgjengelige språk.</translation>
+        <translation>Du har ikke tillatelse til å redigere objektet på noen av de tilgjengelige språkene.</translation>
     </message>
     <message>
         <source>Edit</source>
@@ -687,7 +687,7 @@ Du kan fortsette å redigere ett av utkastene dine, eller opprette et nytt utkas
     </message>
     <message>
         <source>There is no need to do a copies of untouched drafts.</source>
-        <translation>Det er ikke nødvendlig å lage kopier av urørte utkast.</translation>
+        <translation>Det er ikke nødvendig å lage kopier av urørte utkast.</translation>
     </message>
     <message>
         <source>Create a copy of version #%version_number.</source>
@@ -755,7 +755,7 @@ Du kan fortsette å redigere ett av utkastene dine, eller opprette et nytt utkas
     </message>
     <message>
         <source>Block changes</source>
-        <translation>Avsnittendringer</translation>
+        <translation>Avsnittsendringer</translation>
     </message>
     <message>
         <source>New version</source>
@@ -789,7 +789,7 @@ Du kan fortsette å redigere ett av utkastene dine, eller opprette et nytt utkas
     <name>design/ezdemo/content/pendinglist</name>
     <message>
         <source>My pending items [%pending_count]</source>
-        <translation>Mine forestående elementer [%pending_count]</translation>
+        <translation>Mine ventende elementer [%pending_count]</translation>
     </message>
     <message>
         <source>Name</source>
@@ -817,7 +817,7 @@ Du kan fortsette å redigere ett av utkastene dine, eller opprette et nytt utkas
     </message>
     <message>
         <source>Your pending list is empty</source>
-        <translation>Listen over dine forestående elementer er tom</translation>
+        <translation>Listen over ventende elementer er tom</translation>
     </message>
 </context>
 <context>
@@ -836,8 +836,8 @@ Du kan fortsette å redigere ett av utkastene dine, eller opprette et nytt utkas
         <translation>Følgende ord ble ikke tatt med i søket:</translation>
     </message>
     <message>
-        <source>No results were found when searching for &quot;%1&quot;.</source>
-        <translation>Ingen resultater ble funnet ved søk etter &quot;%1&quot;.</translation>
+        <source>No results were found when searching for "%1".</source>
+        <translation>Ingen resultater ble funnet ved søk etter "%1".</translation>
     </message>
     <message>
         <source>Search tips</source>
@@ -848,8 +848,8 @@ Du kan fortsette å redigere ett av utkastene dine, eller opprette et nytt utkas
         <translation>Sjekk staving av ordene.</translation>
     </message>
     <message>
-        <source>Try changing some keywords (eg, &quot;car&quot; instead of &quot;cars&quot;).</source>
-        <translation>Prøv å endre noen nøkkelord (f.eks. &quot;bil&quot; i stedet for &quot;biler&quot;).</translation>
+        <source>Try changing some keywords (eg, "car" instead of "cars").</source>
+        <translation>Prøv å endre noen nøkkelord (f.eks. "bil" i stedet for "biler").</translation>
     </message>
     <message>
         <source>Try searching with less specific keywords.</source>
@@ -860,8 +860,8 @@ Du kan fortsette å redigere ett av utkastene dine, eller opprette et nytt utkas
         <translation>Bruk færre søkeord for å få flere resultater.</translation>
     </message>
     <message>
-        <source>Search for &quot;%1&quot; returned %2 matches</source>
-        <translation>Søk etter &quot;%1&quot; ga %2 treff</translation>
+        <source>Search for "%1" returned %2 matches</source>
+        <translation>Søk etter "%1" ga %2 treff</translation>
     </message>
 </context>
 <context>
@@ -884,11 +884,11 @@ Du kan fortsette å redigere ett av utkastene dine, eller opprette et nytt utkas
     </message>
     <message>
         <source>The message was not sent due to an unknown error. Please notify the site administrator about this error.</source>
-        <translation>Meldingen ble ikke sendt, årsaken er ukjent. Vennligst kontakt nettstedsadministratoren angående dette.</translation>
+        <translation>Meldingen ble ikke sendt, årsaken er ukjent. Kontakt nettstedsadministratoren om dette.</translation>
     </message>
     <message>
         <source>Please correct the following errors:</source>
-        <translation>Vennligst rett følgende feil:</translation>
+        <translation>Rett følgende feil:</translation>
     </message>
     <message>
         <source>Your name</source>
@@ -899,8 +899,8 @@ Du kan fortsette å redigere ett av utkastene dine, eller opprette et nytt utkas
         <translation>Din e-postadresse</translation>
     </message>
     <message>
-        <source>Recipient&apos;s email address</source>
-        <translation>Mottagerens e-postadresse</translation>
+        <source>Recipient's email address</source>
+        <translation>Mottakerens e-postadresse</translation>
     </message>
     <message>
         <source>Comment</source>
@@ -993,7 +993,7 @@ Du kan fortsette å redigere ett av utkastene dine, eller opprette et nytt utkas
     <name>design/ezdemo/ezinfo/about</name>
     <message>
         <source>Exponential information: %version</source>
-        <translation>Exponential informasjon: %version</translation>
+        <translation>Exponential-informasjon: %version</translation>
     </message>
     <message>
         <source>What is Exponential?</source>
@@ -1013,7 +1013,7 @@ Du kan fortsette å redigere ett av utkastene dine, eller opprette et nytt utkas
     </message>
     <message>
         <source>Third-Party Software</source>
-        <translation>Tredjeparts software</translation>
+        <translation>Tredjepartsprogramvare</translation>
     </message>
     <message>
         <source>Extensions</source>
@@ -1038,16 +1038,16 @@ Du kan fortsette å redigere ett av utkastene dine, eller opprette et nytt utkas
     Click on placement names to change the browse listing.</source>
         <translation>Velg plassering for OpenOffice.org-objektet.
 
-    Velg plasseringene og klikk på knappen %buttonname.
-    Du kan også bruke nylige elementer og bokmerker for rask plassering.
-    Klikk på plasseringsnavn for å endre blalisten.</translation>
+Velg plasseringen og klikk på %buttonname-knappen.
+Bruk nylig valgte og bokmerker for raskere valg.
+Klikk navnene til objektene for å gå igjennom treet.</translation>
     </message>
 </context>
 <context>
     <name>design/ezdemo/ezodf/export</name>
     <message>
         <source>OpenOffice.org export</source>
-        <translation>OpenOffice.org eksport</translation>
+        <translation>OpenOffice.org-eksport</translation>
     </message>
     <message>
         <source>Export Exponential content to OpenOffice.org</source>
@@ -1059,7 +1059,7 @@ Du kan fortsette å redigere ett av utkastene dine, eller opprette et nytt utkas
     </message>
     <message>
         <source>Here you can export any Exponential content object to an OpenOffice.org Writer document format.</source>
-        <translation>Her kan du eksportere fra innholdsobjekter i Exponential til OpenOffice.org Writer sitt dokumentformat.</translation>
+        <translation>Her kan du eksportere innholdsobjekter fra Exponential til dokumentformatet til OpenOffice.org Writer.</translation>
     </message>
     <message>
         <source>Export Object</source>
@@ -1182,18 +1182,18 @@ Du kan fortsette å redigere ett av utkastene dine, eller opprette et nytt utkas
     </message>
     <message>
         <source>Show All Events..</source>
-        <translation>Vis alle hendelser..</translation>
+        <translation>Vis alle arrangementer ..</translation>
     </message>
 </context>
 <context>
     <name>design/ezdemo/full/event_view_program</name>
     <message>
         <source>Past events</source>
-        <translation>Tildligere events</translation>
+        <translation>Tidligere arrangementer</translation>
     </message>
     <message>
         <source>Future events</source>
-        <translation>Kommende events</translation>
+        <translation>Kommende arrangementer</translation>
     </message>
 </context>
 <context>
@@ -1242,7 +1242,7 @@ Du kan fortsette å redigere ett av utkastene dine, eller opprette et nytt utkas
     <name>design/ezdemo/full/forum_reply</name>
     <message>
         <source>Message preview</source>
-        <translation>Melding forhåndsvisning</translation>
+        <translation>Forhåndsvisning av melding</translation>
     </message>
     <message>
         <source>Author</source>
@@ -1313,7 +1313,7 @@ Du kan fortsette å redigere ett av utkastene dine, eller opprette et nytt utkas
     </message>
     <message>
         <source>Remove this item.</source>
-        <translation>Fjern denne.</translation>
+        <translation>Fjern dette elementet.</translation>
     </message>
 </context>
 <context>
@@ -1388,11 +1388,11 @@ Du kan fortsette å redigere ett av utkastene dine, eller opprette et nytt utkas
     </message>
     <message>
         <source>People who bought this also bought</source>
-        <translation>De som kjøpte denne kjøpte også</translation>
+        <translation>De som kjøpte dette, kjøpte også</translation>
     </message>
     <message>
         <source>Amount</source>
-        <translation>Mengde</translation>
+        <translation>Beløp</translation>
     </message>
 </context>
 <context>
@@ -1435,7 +1435,7 @@ Du kan fortsette å redigere ett av utkastene dine, eller opprette et nytt utkas
     <name>design/ezdemo/line/event_calendar</name>
     <message>
         <source>Next events</source>
-        <translation>Neste events</translation>
+        <translation>Neste arrangementer</translation>
     </message>
 </context>
 <context>
@@ -1450,7 +1450,7 @@ Du kan fortsette å redigere ett av utkastene dine, eller opprette et nytt utkas
     </message>
     <message>
         <source>Download file</source>
-        <translation>Last ned fil</translation>
+        <translation>Last ned filen</translation>
     </message>
 </context>
 <context>
@@ -1468,7 +1468,7 @@ Du kan fortsette å redigere ett av utkastene dine, eller opprette et nytt utkas
     </message>
     <message>
         <source>Number of posts</source>
-        <translation>Antall poster</translation>
+        <translation>Antall innlegg</translation>
     </message>
     <message>
         <source>Last reply</source>
@@ -1501,7 +1501,7 @@ Du kan fortsette å redigere ett av utkastene dine, eller opprette et nytt utkas
     <name>design/ezdemo/line/product</name>
     <message>
         <source>Amount</source>
-        <translation>Mengde</translation>
+        <translation>Beløp</translation>
     </message>
     <message>
         <source>Buy</source>
@@ -1566,7 +1566,7 @@ Du kan fortsette å redigere ett av utkastene dine, eller opprette et nytt utkas
     </message>
     <message>
         <source>%nodename and its %childcount children. %additionalwarning</source>
-        <translation>%nodename og dets %childcount barn. %additionalwarning</translation>
+        <translation>%nodename og dens %childcount undernoder. %additionalwarning</translation>
     </message>
     <message>
         <source>%nodename %additionalwarning</source>
@@ -1574,11 +1574,11 @@ Du kan fortsette å redigere ett av utkastene dine, eller opprette et nytt utkas
     </message>
     <message>
         <source>Move to trash</source>
-        <translation>Flytt til trash</translation>
+        <translation>Flytt til papirkurven</translation>
     </message>
     <message>
         <source>Note</source>
-        <translation>Notat</translation>
+        <translation>Merk</translation>
     </message>
     <message>
         <source>If %trashname is checked, removed items can be found in the trash.</source>
@@ -1605,11 +1605,11 @@ Du kan fortsette å redigere ett av utkastene dine, eller opprette et nytt utkas
     </message>
     <message>
         <source>Notification for node &lt;%node_name&gt; already exists.</source>
-        <translation>Varsling for node &lt;%node_name&gt; eksisterer allerede.</translation>
+        <translation>Varsling for noden &lt;%node_name&gt; finnes allerede.</translation>
     </message>
     <message>
         <source>Notification for node &lt;%node_name&gt; was added successfully.</source>
-        <translation>Varsling for node &lt;%node_name&gt; ble lagt til.</translation>
+        <translation>Varsling for noden &lt;%node_name&gt; ble lagt til.</translation>
     </message>
     <message>
         <source>OK</source>
@@ -1624,7 +1624,7 @@ Du kan fortsette å redigere ett av utkastene dine, eller opprette et nytt utkas
     </message>
     <message>
         <source>Receive digests</source>
-        <translation>Samlet e-post</translation>
+        <translation>Motta sammendrag</translation>
     </message>
     <message>
         <source>Daily, at</source>
@@ -1647,7 +1647,7 @@ Du kan fortsette å redigere ett av utkastene dine, eller opprette et nytt utkas
     <name>design/ezdemo/notification/handler/ezsubtree/settings/edit</name>
     <message>
         <source>My item notifications [%notification_count]</source>
-        <translation>Mine oppdateringsmeldinginger [%notification_count]</translation>
+        <translation>Mine varsler om elementer [%notification_count]</translation>
     </message>
     <message>
         <source>Invert selection.</source>
@@ -1671,7 +1671,7 @@ Du kan fortsette å redigere ett av utkastene dine, eller opprette et nytt utkas
     </message>
     <message>
         <source>You have not subscribed to receive notifications about any items.</source>
-        <translation>Du har ingen abonnementer på oppdateringsmeldinger.</translation>
+        <translation>Du abonnerer ikke på varsler om noen elementer.</translation>
     </message>
     <message>
         <source>Remove selected</source>
@@ -1690,7 +1690,7 @@ Du kan fortsette å redigere ett av utkastene dine, eller opprette et nytt utkas
     </message>
     <message>
         <source>Apply changes</source>
-        <translation>Aktiver endringer</translation>
+        <translation>Bruk endringer</translation>
     </message>
 </context>
 <context>
@@ -1725,7 +1725,7 @@ Du kan fortsette å redigere ett av utkastene dine, eller opprette et nytt utkas
     </message>
     <message>
         <source>Login</source>
-        <translation>Innlogging</translation>
+        <translation>Logg inn</translation>
     </message>
     <message>
         <source>Username</source>
@@ -1790,12 +1790,12 @@ Du kan fortsette å redigere ett av utkastene dine, eller opprette et nytt utkas
         <translation>Nettsteds-URL</translation>
     </message>
     <message>
-        <source>Use this field to enter the base URL of your site. It is used to produce the URLs in the export, composed by the Site URL (e.g. &quot;http://www.example.com/index.php&quot;) and the path to the object (e.g. &quot;/articles/my_article&quot;). The Site URL depends on your web server and Exponential configuration.</source>
-        <translation>Bruk dette feltet til å angi basis-URL-en til nettstedet ditt. Den brukes til å lage URL-ene i eksporten, satt sammen av nettsteds-URL-en (f.eks. &quot;http://www.example.com/index.php&quot;) og stien til objektet (f.eks. &quot;/articles/my_article&quot;). Nettsteds-URL-en avhenger av webserveren og Exponential-konfigurasjonen.</translation>
+        <source>Use this field to enter the base URL of your site. It is used to produce the URLs in the export, composed by the Site URL (e.g. "http://www.example.com/index.php") and the path to the object (e.g. "/articles/my_article"). The Site URL depends on your web server and Exponential configuration.</source>
+        <translation>Bruk dette feltet til å angi basis-URL-en til nettstedet ditt. Den brukes til å lage URL-ene i eksporten, satt sammen av nettsteds-URL-en (f.eks. "http://www.example.com/index.php") og stien til objektet (f.eks. "/articles/my_article"). Nettsteds-URL-en avhenger av webserveren og Exponential-konfigurasjonen.</translation>
     </message>
     <message>
         <source>Leave this field emty if you want system automaticaly detect the URL of your site from the URL you access feed with</source>
-        <translation>La dette feltet stå tomt hvis du vil at systemet automatisk skal finne URL-en til nettstedet ditt ut fra URL-en du bruker for å hente feeden</translation>
+        <translation>La dette feltet stå tomt hvis du vil at systemet automatisk skal finne URL-en til nettstedet ditt ut fra URL-en du åpner feeden med</translation>
     </message>
     <message>
         <source>Image</source>
@@ -1854,8 +1854,8 @@ Du kan fortsette å redigere ett av utkastene dine, eller opprette et nytt utkas
         <translation>Tilgangs-URL</translation>
     </message>
     <message>
-        <source>Use this field to set the URL where the RSS export should be available. Note that &quot;rss/feed/&quot; will be appended to the real URL. </source>
-        <translation>Bruk dette feltet til å angi URL-en der RSS-eksporten skal være tilgjengelig. Merk at &quot;rss/feed/&quot; legges til i den faktiske URL-en. </translation>
+        <source>Use this field to set the URL where the RSS export should be available. Note that "rss/feed/" will be appended to the real URL. </source>
+        <translation>Bruk dette feltet til å angi URL-en der RSS-eksporten skal være tilgjengelig. Merk at "rss/feed/" legges til i den faktiske URL-en. </translation>
     </message>
     <message>
         <source>Source</source>
@@ -1882,8 +1882,8 @@ Du kan fortsette å redigere ett av utkastene dine, eller opprette et nytt utkas
         <translation>Klasse</translation>
     </message>
     <message>
-        <source>Use this drop-down to select the type of object that triggers the export. Click the &quot;Set&quot; button to load the correct attribute types for the remaining fields.</source>
-        <translation>Bruk denne rullegardinmenyen til å velge objekttypen som utløser eksporten. Klikk på &quot;Sett&quot;-knappen for å laste inn de riktige attributtypene for de resterende feltene.</translation>
+        <source>Use this drop-down to select the type of object that triggers the export. Click the "Set" button to load the correct attribute types for the remaining fields.</source>
+        <translation>Bruk denne rullegardinmenyen til å velge objekttypen som utløser eksporten. Klikk på "Sett"-knappen for å laste inn de riktige attributtypene for de resterende feltene.</translation>
     </message>
     <message>
         <source>Set</source>
@@ -2017,8 +2017,8 @@ Du kan fortsette å redigere ett av utkastene dine, eller opprette et nytt utkas
         <translation>Klasse</translation>
     </message>
     <message>
-        <source>Use this drop-down to select the type of object the import should create. Click the &quot;Set&quot; button to load the attribute types for the remaining fields.</source>
-        <translation>Bruk denne rullegardinmenyen til å velge objekttypen importen skal opprette. Klikk på &quot;Sett&quot;-knappen for å laste inn attributtypene for de resterende feltene.</translation>
+        <source>Use this drop-down to select the type of object the import should create. Click the "Set" button to load the attribute types for the remaining fields.</source>
+        <translation>Bruk denne rullegardinmenyen til å velge objekttypen importen skal opprette. Klikk på "Sett"-knappen for å laste inn attributtypene for de resterende feltene.</translation>
     </message>
     <message>
         <source>Set</source>
@@ -2196,11 +2196,11 @@ Du kan fortsette å redigere ett av utkastene dine, eller opprette et nytt utkas
     </message>
     <message>
         <source>VAT is unknown</source>
-        <translation>MVA er ukjent</translation>
+        <translation>Mva. er ukjent</translation>
     </message>
     <message>
         <source>VAT percentage is not yet known for some of the items being purchased.</source>
-        <translation>MVA prosentsats er ennå ikke kjent for enkelte av varene du handler.</translation>
+        <translation>Mva-prosentsatsen er ennå ikke kjent for enkelte av varene du kjøper.</translation>
     </message>
     <message>
         <source>This probably means that some information about you is not yet available and will be obtained during checkout.</source>
@@ -2220,11 +2220,11 @@ Du kan fortsette å redigere ett av utkastene dine, eller opprette et nytt utkas
     </message>
     <message>
         <source>VAT</source>
-        <translation>MVA</translation>
+        <translation>Mva.</translation>
     </message>
     <message>
         <source>Price inc. VAT</source>
-        <translation>Pris inkl. MVA</translation>
+        <translation>Pris inkl. mva.</translation>
     </message>
     <message>
         <source>Discount</source>
@@ -2232,11 +2232,11 @@ Du kan fortsette å redigere ett av utkastene dine, eller opprette et nytt utkas
     </message>
     <message>
         <source>Total price ex. VAT</source>
-        <translation>Total pris eks. MVA</translation>
+        <translation>Totalpris eks. mva.</translation>
     </message>
     <message>
         <source>Total price inc. VAT</source>
-        <translation>Total pris inkl. MVA</translation>
+        <translation>Totalpris inkl. mva.</translation>
     </message>
     <message>
         <source>Unknown</source>
@@ -2252,15 +2252,15 @@ Du kan fortsette å redigere ett av utkastene dine, eller opprette et nytt utkas
     </message>
     <message>
         <source>Selected options</source>
-        <translation>Valgte opsjoner</translation>
+        <translation>Valgte alternativer</translation>
     </message>
     <message>
         <source>Subtotal ex. VAT</source>
-        <translation>Subtotal eks. MVA</translation>
+        <translation>Subtotal eks. mva.</translation>
     </message>
     <message>
         <source>Subtotal inc. VAT</source>
-        <translation>Subtotal inkl. MVA</translation>
+        <translation>Subtotal inkl. mva.</translation>
     </message>
     <message>
         <source>Shipping</source>
@@ -2307,11 +2307,11 @@ Du kan fortsette å redigere ett av utkastene dine, eller opprette et nytt utkas
     </message>
     <message>
         <source>VAT</source>
-        <translation>MVA</translation>
+        <translation>Mva.</translation>
     </message>
     <message>
         <source>Price inc. VAT</source>
-        <translation>Pris inkl. MVA</translation>
+        <translation>Pris inkl. mva.</translation>
     </message>
     <message>
         <source>Discount</source>
@@ -2319,15 +2319,15 @@ Du kan fortsette å redigere ett av utkastene dine, eller opprette et nytt utkas
     </message>
     <message>
         <source>Total price ex. VAT</source>
-        <translation>Total pris eks. MVA</translation>
+        <translation>Totalpris eks. mva.</translation>
     </message>
     <message>
         <source>Total price inc. VAT</source>
-        <translation>Total pris inkl. MVA</translation>
+        <translation>Totalpris inkl. mva.</translation>
     </message>
     <message>
         <source>Selected options</source>
-        <translation>Valgte opsjoner</translation>
+        <translation>Valgte alternativer</translation>
     </message>
     <message>
         <source>Order summary</source>
@@ -2355,11 +2355,11 @@ Du kan fortsette å redigere ett av utkastene dine, eller opprette et nytt utkas
     </message>
     <message>
         <source>Total ex. VAT</source>
-        <translation>Totalpris eks. mva.</translation>
+        <translation>Totalt eks. mva.</translation>
     </message>
     <message>
         <source>Total inc. VAT</source>
-        <translation>Totalpris inkl. mva.</translation>
+        <translation>Totalt inkl. mva.</translation>
     </message>
 </context>
 <context>
@@ -2382,11 +2382,11 @@ Du kan fortsette å redigere ett av utkastene dine, eller opprette et nytt utkas
     </message>
     <message>
         <source>Total ex. VAT</source>
-        <translation>Total eks. MVA</translation>
+        <translation>Totalt eks. mva.</translation>
     </message>
     <message>
         <source>Total inc. VAT</source>
-        <translation>Total inkl. MVA</translation>
+        <translation>Totalt inkl. mva.</translation>
     </message>
     <message>
         <source>Purchase list</source>
@@ -2457,11 +2457,11 @@ Du kan fortsette å redigere ett av utkastene dine, eller opprette et nytt utkas
     </message>
     <message>
         <source>Total ex. VAT</source>
-        <translation>Total eks. MVA</translation>
+        <translation>Totalt eks. mva.</translation>
     </message>
     <message>
         <source>Total inc. VAT</source>
-        <translation>Total inkl. MVA</translation>
+        <translation>Totalt inkl. mva.</translation>
     </message>
     <message>
         <source>The order list is empty</source>
@@ -2492,11 +2492,11 @@ Du kan fortsette å redigere ett av utkastene dine, eller opprette et nytt utkas
     </message>
     <message>
         <source>VAT</source>
-        <translation>MVA</translation>
+        <translation>Mva.</translation>
     </message>
     <message>
         <source>Price inc. VAT</source>
-        <translation>Pris inkl. MVA</translation>
+        <translation>Pris inkl. mva.</translation>
     </message>
     <message>
         <source>Discount</source>
@@ -2504,11 +2504,11 @@ Du kan fortsette å redigere ett av utkastene dine, eller opprette et nytt utkas
     </message>
     <message>
         <source>Total price ex. VAT</source>
-        <translation>Total pris eks. MVA</translation>
+        <translation>Totalpris eks. mva.</translation>
     </message>
     <message>
         <source>Total price inc. VAT</source>
-        <translation>Total pris inkl. MVA</translation>
+        <translation>Totalpris inkl. mva.</translation>
     </message>
     <message>
         <source>Order summary</source>
@@ -2555,7 +2555,7 @@ Du kan fortsette å redigere ett av utkastene dine, eller opprette et nytt utkas
     </message>
     <message>
         <source>Your account information</source>
-        <translation>Din kundekonto info</translation>
+        <translation>Din kontoinformasjon</translation>
     </message>
     <message>
         <source>Input did not validate. All fields marked with * must be filled in.</source>
@@ -2583,7 +2583,7 @@ Du kan fortsette å redigere ett av utkastene dine, eller opprette et nytt utkas
     </message>
     <message>
         <source>Zip</source>
-        <translation>Postnr</translation>
+        <translation>Postnummer</translation>
     </message>
     <message>
         <source>Place</source>
@@ -2630,7 +2630,7 @@ Du kan fortsette å redigere ett av utkastene dine, eller opprette et nytt utkas
     </message>
     <message>
         <source>Selected options</source>
-        <translation>Valgte opsjoner</translation>
+        <translation>Valgte alternativer</translation>
     </message>
     <message>
         <source>Store</source>
@@ -2638,7 +2638,7 @@ Du kan fortsette å redigere ett av utkastene dine, eller opprette et nytt utkas
     </message>
     <message>
         <source>Remove items</source>
-        <translation>Fjern artikler</translation>
+        <translation>Fjern elementer</translation>
     </message>
     <message>
         <source>Empty wish list</source>
@@ -2711,14 +2711,14 @@ Du kan fortsette å redigere ett av utkastene dine, eller opprette et nytt utkas
     </message>
     <message>
         <source>My pending items</source>
-        <translation>Mine forestående elementer</translation>
+        <translation>Mine ventende elementer</translation>
     </message>
 </context>
 <context>
     <name>design/ezdemo/user/forgotpassword</name>
     <message>
         <source>An email has been sent to the following address: %1. It contains a link you need to click so that we can confirm that the correct user has received the new password.</source>
-        <translation>En e-post har blitt sendt til denne adressen: %1. E-posten inneholder en link du må klikke på for å bekrefte at rett person har mottatt det nye passordet.</translation>
+        <translation>En e-post har blitt sendt til denne adressen: %1. E-posten inneholder en lenke du må klikke på for å bekrefte at rett person har mottatt det nye passordet.</translation>
     </message>
     <message>
         <source>There is no registered user with that email address.</source>
@@ -2782,7 +2782,7 @@ Du kan fortsette å redigere ett av utkastene dine, eller opprette et nytt utkas
     </message>
     <message>
         <source>Log in to the Exponential Administration Interface</source>
-        <translation>Logg inn til administrasjonssidene til Exponential</translation>
+        <translation>Logg inn i administrasjonsgrensesnittet til Exponential</translation>
     </message>
     <message>
         <source>Remember me</source>
@@ -2796,7 +2796,7 @@ Du kan fortsette å redigere ett av utkastene dine, eller opprette et nytt utkas
     <message>
         <source>Sign up</source>
         <comment>Button</comment>
-        <translation>Ny bruker</translation>
+        <translation>Registrer deg</translation>
     </message>
     <message>
         <source>Forgot your password?</source>
@@ -2811,11 +2811,11 @@ Du kan fortsette å redigere ett av utkastene dine, eller opprette et nytt utkas
     </message>
     <message>
         <source>Please retype your old password.</source>
-        <translation>Vennligst gjenta det gamle passordet.</translation>
+        <translation>Gjenta det gamle passordet.</translation>
     </message>
     <message>
-        <source>Password didn&apos;t match, please retype your new password.</source>
-        <translation>Passordene er ikke like, vennligst gjenta det nye passordet ditt.</translation>
+        <source>Password didn't match, please retype your new password.</source>
+        <translation>Passordene er ikke like. Gjenta det nye passordet ditt.</translation>
     </message>
     <message>
         <source>Password successfully updated.</source>
@@ -2823,7 +2823,7 @@ Du kan fortsette å redigere ett av utkastene dine, eller opprette et nytt utkas
     </message>
     <message>
         <source>Old password</source>
-        <translation>Eksisterende passord</translation>
+        <translation>Gammelt passord</translation>
     </message>
     <message>
         <source>New password</source>
@@ -2843,7 +2843,7 @@ Du kan fortsette å redigere ett av utkastene dine, eller opprette et nytt utkas
     </message>
     <message>
         <source>The new password must be at least %1 characters long, please retype your new password.</source>
-        <translation>Det nye passordet må være minst %1 tegn langt, vennligst skriv inn et nytt passord.</translation>
+        <translation>Det nye passordet må være minst %1 tegn langt. Skriv inn et nytt passord.</translation>
     </message>
     <message>
         <source>Change your password</source>
@@ -2922,7 +2922,7 @@ Du kan fortsette å redigere ett av utkastene dine, eller opprette et nytt utkas
     </message>
     <message>
         <source>Input did not validate</source>
-        <translation>Innlagt informajon ble ikke godkjent</translation>
+        <translation>Innlagt informasjon ble ikke godkjent</translation>
     </message>
     <message>
         <source>Input was stored successfully</source>
@@ -2957,7 +2957,7 @@ Du kan fortsette å redigere ett av utkastene dine, eller opprette et nytt utkas
     </message>
     <message>
         <source>Your account was successfully created.</source>
-        <translation>Suksess! Kontoen din ble opprettet.</translation>
+        <translation>Kontoen din ble opprettet.</translation>
     </message>
     <message>
         <source>Check your e-mail</source>
@@ -3149,7 +3149,7 @@ Du kan fortsette å redigere ett av utkastene dine, eller opprette et nytt utkas
     <name>design/ezdemo/view/sitemap</name>
     <message>
         <source>Site map</source>
-        <translation>Sidekart</translation>
+        <translation>Nettstedskart</translation>
     </message>
 </context>
 <context>
@@ -3227,7 +3227,7 @@ Du kan fortsette å redigere ett av utkastene dine, eller opprette et nytt utkas
     </message>
     <message>
         <source>Discard draft</source>
-        <translation>Forkast utkastet</translation>
+        <translation>Forkast utkast</translation>
     </message>
 </context>
 <context>
@@ -3271,7 +3271,7 @@ Du kan fortsette å redigere ett av utkastene dine, eller opprette et nytt utkas
     <name>ezcomments/comment/add</name>
     <message>
         <source>reCAPTCHA API key missing.</source>
-        <translation>reCAPTCHA API-nøkkel mangler.</translation>
+        <translation>reCAPTCHA-API-nøkkel mangler.</translation>
     </message>
 </context>
 <context>
@@ -3321,7 +3321,7 @@ Du kan fortsette å redigere ett av utkastene dine, eller opprette et nytt utkas
         <translation>Det skilles ikke mellom store og små bokstaver.</translation>
     </message>
     <message>
-        <source>Can&apos;t read this?</source>
+        <source>Can't read this?</source>
         <translation>Klarer du ikke å lese dette?</translation>
     </message>
     <message>
@@ -3338,7 +3338,7 @@ Du kan fortsette å redigere ett av utkastene dine, eller opprette et nytt utkas
     </message>
     <message>
         <source>Reset form</source>
-        <translation>Tilbakestill skjema</translation>
+        <translation>Tilbakestill skjemaet</translation>
     </message>
 </context>
 <context>
@@ -3383,7 +3383,7 @@ Du kan fortsette å redigere ett av utkastene dine, eller opprette et nytt utkas
     <name>design/admin/ezinfo/about</name>
     <message>
         <source>Could not load LICENSE file! You should have a LICENSE file in your eZ Publish root directory.</source>
-        <translation>Kunne ikke laste LICENSE-filen! Det skal ligge en LICENSE-fil i rotmappen til Exponential.</translation>
+        <translation>Kunne ikke laste inn LICENSE-filen! Du skal ha en LICENSE-fil i rotkatalogen til eZ Publish.</translation>
     </message>
 </context>
 </TS>
