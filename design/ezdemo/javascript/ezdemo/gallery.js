@@ -12,7 +12,12 @@
 (function (window, document) {
     'use strict';
 
-    var dialog, img, title, caption, counter, items = [], index = 0, opener = null;
+    var dialog, img, title, caption, counter, items = [], index = 0, opener = null, pushed = false;
+
+    // the browser's Back closes the lightbox (opening it adds a history entry)
+    window.addEventListener('popstate', function () {
+        if (dialog && dialog.open) { pushed = false; dialog.close(); }
+    });
 
     function text(g, key, def) { return g.getAttribute('data-text-' + key) || def; }
 
@@ -37,13 +42,18 @@
         dialog.addEventListener('click', function (e) {
             var b = e.target.closest('[data-go]');
             if (b) { go(b.getAttribute('data-go')); }
-            else if (e.target === dialog) { go('close'); }
+            // a click beside the picture (the backdrop, the empty stage or bar) closes
+            else if (!e.target.closest('img, figcaption, a')) { go('close'); }
         });
         dialog.addEventListener('keydown', function (e) {
             if (e.key === 'ArrowRight') { go('next'); e.preventDefault(); }
             if (e.key === 'ArrowLeft') { go('prev'); e.preventDefault(); }
         });
-        dialog.addEventListener('close', function () { if (opener) { opener.focus(); } });
+        dialog.addEventListener('close', function () {
+            // closed by the button, Escape or a click: drop the history entry the opening added
+            if (pushed) { pushed = false; history.back(); }
+            if (opener) { opener.focus(); }
+        });
         var x0 = null;
         dialog.addEventListener('touchstart', function (e) { x0 = e.touches[0].clientX; }, { passive: true });
         dialog.addEventListener('touchend', function (e) {
@@ -84,5 +94,6 @@
         opener = a;
         show(items.indexOf(a));
         dialog.showModal();
+        try { history.pushState({ edLightbox: true }, ''); pushed = true; } catch (err) { pushed = false; }
     });
 })(window, document);
