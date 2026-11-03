@@ -58,7 +58,7 @@
     </message>
     <message>
         <source>Write a comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Skriv en kommentar</translation>
     </message>
 </context>
 <context>
@@ -69,7 +69,7 @@
     </message>
     <message>
         <source>Send message</source>
-        <translation type="unfinished"></translation>
+        <translation>Send besked</translation>
     </message>
 </context>
 <context>
@@ -80,7 +80,7 @@
     </message>
     <message>
         <source>Get started</source>
-        <translation type="unfinished"></translation>
+        <translation>Kom i gang</translation>
     </message>
 </context>
 <context>
@@ -95,7 +95,7 @@
     </message>
     <message>
         <source>Add to basket</source>
-        <translation type="unfinished"></translation>
+        <translation>Læg i indkøbskurv</translation>
     </message>
 </context>
 <context>
@@ -1097,7 +1097,7 @@
     </message>
     <message>
         <source>Latest news</source>
-        <translation type="unfinished"></translation>
+        <translation>Seneste nyt</translation>
     </message>
 </context>
 <context>
@@ -1108,7 +1108,7 @@
     </message>
     <message>
         <source>Resources</source>
-        <translation type="unfinished"></translation>
+        <translation>Ressourcer</translation>
     </message>
 </context>
 <context>
@@ -1167,11 +1167,11 @@
     </message>
     <message>
         <source>Past event</source>
-        <translation type="unfinished"></translation>
+        <translation>Tidligere begivenhed</translation>
     </message>
     <message>
         <source>until</source>
-        <translation type="unfinished"></translation>
+        <translation>til</translation>
     </message>
 </context>
 <context>
@@ -1229,15 +1229,15 @@
     </message>
     <message>
         <source>Events</source>
-        <translation type="unfinished"></translation>
+        <translation>Hændelser</translation>
     </message>
     <message>
         <source>Program</source>
-        <translation type="unfinished"></translation>
+        <translation>Program</translation>
     </message>
     <message>
         <source>Webinars, workshops and meetups. Add one to your calendar or join us live.</source>
-        <translation type="unfinished"></translation>
+        <translation>Webinarer, workshops og møder. Føj et til din kalender, eller vær med live.</translation>
     </message>
 </context>
 <context>
@@ -1395,7 +1395,7 @@
     </message>
     <message>
         <source>Pictures</source>
-        <translation type="unfinished"></translation>
+        <translation>Billeder</translation>
     </message>
 </context>
 <context>
@@ -1444,15 +1444,15 @@
     </message>
     <message>
         <source>Category</source>
-        <translation type="unfinished"></translation>
+        <translation>Kategori</translation>
     </message>
     <message>
         <source>Quantity</source>
-        <translation type="unfinished"></translation>
+        <translation>Antal</translation>
     </message>
     <message>
         <source>incl. VAT</source>
-        <translation type="unfinished"></translation>
+        <translation>inkl. moms</translation>
     </message>
 </context>
 <context>
@@ -1805,47 +1805,47 @@
     </message>
     <message>
         <source>Breadcrumb</source>
-        <translation type="unfinished"></translation>
+        <translation>Brødkrummesti</translation>
     </message>
     <message>
         <source>Languages</source>
-        <translation type="unfinished"></translation>
+        <translation>Sprog</translation>
     </message>
     <message>
         <source>Main</source>
-        <translation type="unfinished"></translation>
+        <translation>Hoved</translation>
     </message>
     <message>
         <source>Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Menu</translation>
     </message>
     <message>
         <source>More</source>
-        <translation type="unfinished"></translation>
+        <translation>Mere</translation>
     </message>
     <message>
         <source>New: Exponential 6.0.15 is here.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nyt: Exponential 6.0.15 er her.</translation>
     </message>
     <message>
         <source>Section menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Sektionsmenu</translation>
     </message>
     <message>
         <source>See what is new</source>
-        <translation type="unfinished"></translation>
+        <translation>Se nyhederne</translation>
     </message>
     <message>
         <source>Skip to content</source>
-        <translation type="unfinished"></translation>
+        <translation>Spring til indholdet</translation>
     </message>
     <message>
         <source>Use the dark theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Brug mørkt tema</translation>
     </message>
     <message>
         <source>Use the light theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Brug lyst tema</translation>
     </message>
 </context>
 <context>
@@ -3494,182 +3494,182 @@
     <name>design/ezdemo/block</name>
     <message>
         <source>Discover what is new</source>
-        <translation type="unfinished"></translation>
+        <translation>Se nyhederne</translation>
     </message>
     <message>
         <source>Explore the platform</source>
-        <translation type="unfinished"></translation>
+        <translation>Udforsk platformen</translation>
     </message>
     <message>
         <source>Learn more</source>
-        <translation type="unfinished"></translation>
+        <translation>Læs mere</translation>
     </message>
     <message>
         <source>Next slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Næste dias</translation>
     </message>
     <message>
         <source>Previous slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Forrige dias</translation>
     </message>
     <message>
         <source>Read more</source>
-        <translation type="unfinished"></translation>
+        <translation>Læs mere</translation>
     </message>
     <message>
         <source>Read the announcement</source>
-        <translation type="unfinished"></translation>
+        <translation>Læs meddelelsen</translation>
     </message>
     <message>
         <source>Read the story</source>
-        <translation type="unfinished"></translation>
+        <translation>Læs artiklen</translation>
     </message>
     <message>
         <source>Scroll back</source>
-        <translation type="unfinished"></translation>
+        <translation>Rul tilbage</translation>
     </message>
     <message>
         <source>Scroll on</source>
-        <translation type="unfinished"></translation>
+        <translation>Rul videre</translation>
     </message>
     <message>
         <source>See the results</source>
-        <translation type="unfinished"></translation>
+        <translation>Se resultaterne</translation>
     </message>
     <message>
         <source>Show slide %number</source>
-        <translation type="unfinished"></translation>
+        <translation>Vis dias %number</translation>
     </message>
     <message>
         <source>carousel</source>
-        <translation type="unfinished"></translation>
+        <translation>karrusel</translation>
     </message>
     <message>
         <source>slide</source>
-        <translation type="unfinished"></translation>
+        <translation>dias</translation>
     </message>
 </context>
 <context>
     <name>design/ezdemo/footer</name>
     <message>
         <source>Explore</source>
-        <translation type="unfinished"></translation>
+        <translation>Udforsk</translation>
     </message>
     <message>
         <source>Powered by</source>
-        <translation type="unfinished"></translation>
+        <translation>Drevet af</translation>
     </message>
     <message>
         <source>open source content management by the Exponential Foundation and 7x.</source>
-        <translation type="unfinished"></translation>
+        <translation>open source-indholdsstyring fra Exponential Foundation og 7x.</translation>
     </message>
     <message>
         <source>Get in touch</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontakt</translation>
     </message>
 </context>
 <context>
     <name>design/ezdemo/full</name>
     <message>
         <source>Contact us</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontakt os</translation>
     </message>
     <message>
         <source>Questions?</source>
-        <translation type="unfinished"></translation>
+        <translation>Spørgsmål?</translation>
     </message>
     <message>
         <source>Talk to the team about your project.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tal med teamet om dit projekt.</translation>
     </message>
 </context>
 <context>
     <name>design/ezdemo/full/blog</name>
     <message>
         <source>All posts</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle indlæg</translation>
     </message>
 </context>
 <context>
     <name>design/ezdemo/full/folder</name>
     <message>
         <source>RSS feed</source>
-        <translation type="unfinished"></translation>
+        <translation>RSS-feed</translation>
     </message>
 </context>
 <context>
     <name>design/ezdemo/full/gallery</name>
     <message>
         <source>%count pictures</source>
-        <translation type="unfinished"></translation>
+        <translation>%count billeder</translation>
     </message>
 </context>
 <context>
     <name>design/ezdemo/full/place</name>
     <message>
         <source>View on the map</source>
-        <translation type="unfinished"></translation>
+        <translation>Vis på kortet</translation>
     </message>
 </context>
 <context>
     <name>design/ezdemo/gallery</name>
     <message>
         <source>%index of %count</source>
-        <translation type="unfinished"></translation>
+        <translation>%index af %count</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Luk</translation>
     </message>
     <message>
         <source>Gallery</source>
-        <translation type="unfinished"></translation>
+        <translation>Galleri</translation>
     </message>
     <message>
         <source>Next picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Næste billede</translation>
     </message>
     <message>
         <source>Previous picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Forrige billede</translation>
     </message>
 </context>
 <context>
     <name>design/ezdemo/share</name>
     <message>
         <source>Copy link</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiér link</translation>
     </message>
     <message>
         <source>Link copied</source>
-        <translation type="unfinished"></translation>
+        <translation>Link kopieret</translation>
     </message>
     <message>
         <source>Share</source>
-        <translation type="unfinished"></translation>
+        <translation>Del</translation>
     </message>
     <message>
         <source>Share this page</source>
-        <translation type="unfinished"></translation>
+        <translation>Del denne side</translation>
     </message>
     <message>
         <source>Share on LinkedIn</source>
-        <translation type="unfinished"></translation>
+        <translation>Del på LinkedIn</translation>
     </message>
     <message>
         <source>Share on Bluesky</source>
-        <translation type="unfinished"></translation>
+        <translation>Del på Bluesky</translation>
     </message>
     <message>
         <source>Share by email</source>
-        <translation type="unfinished"></translation>
+        <translation>Del via e-mail</translation>
     </message>
 </context>
 <context>
     <name>design/ezdemo/tagcloud</name>
     <message>
         <source>%count items tagged %tag</source>
-        <translation type="unfinished"></translation>
+        <translation>%count elementer med tagget %tag</translation>
     </message>
 </context>
 </TS>

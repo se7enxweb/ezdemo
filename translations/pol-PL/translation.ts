@@ -58,7 +58,7 @@
     </message>
     <message>
         <source>Write a comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Napisz komentarz</translation>
     </message>
 </context>
 <context>
@@ -69,7 +69,7 @@
     </message>
     <message>
         <source>Send message</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyślij wiadomość</translation>
     </message>
 </context>
 <context>
@@ -80,7 +80,7 @@
     </message>
     <message>
         <source>Get started</source>
-        <translation type="unfinished"></translation>
+        <translation>Zacznij teraz</translation>
     </message>
 </context>
 <context>
@@ -95,7 +95,7 @@
     </message>
     <message>
         <source>Add to basket</source>
-        <translation type="unfinished"></translation>
+        <translation>Dodać do koszyka</translation>
     </message>
 </context>
 <context>
@@ -1097,7 +1097,7 @@
     </message>
     <message>
         <source>Latest news</source>
-        <translation type="unfinished"></translation>
+        <translation>Najnowsze wiadomości</translation>
     </message>
 </context>
 <context>
@@ -1108,7 +1108,7 @@
     </message>
     <message>
         <source>Resources</source>
-        <translation type="unfinished"></translation>
+        <translation>Zasoby</translation>
     </message>
 </context>
 <context>
@@ -1167,11 +1167,11 @@
     </message>
     <message>
         <source>Past event</source>
-        <translation type="unfinished"></translation>
+        <translation>Wydarzenie minione</translation>
     </message>
     <message>
         <source>until</source>
-        <translation type="unfinished"></translation>
+        <translation>do</translation>
     </message>
 </context>
 <context>
@@ -1229,15 +1229,15 @@
     </message>
     <message>
         <source>Events</source>
-        <translation type="unfinished"></translation>
+        <translation>Zdarzenia</translation>
     </message>
     <message>
         <source>Program</source>
-        <translation type="unfinished"></translation>
+        <translation>Program</translation>
     </message>
     <message>
         <source>Webinars, workshops and meetups. Add one to your calendar or join us live.</source>
-        <translation type="unfinished"></translation>
+        <translation>Webinary, warsztaty i spotkania. Dodaj jedno do kalendarza lub dołącz na żywo.</translation>
     </message>
 </context>
 <context>
@@ -1395,7 +1395,7 @@
     </message>
     <message>
         <source>Pictures</source>
-        <translation type="unfinished"></translation>
+        <translation>Zdjęcia</translation>
     </message>
 </context>
 <context>
@@ -1444,15 +1444,15 @@
     </message>
     <message>
         <source>Category</source>
-        <translation type="unfinished"></translation>
+        <translation>Kategoria</translation>
     </message>
     <message>
         <source>Quantity</source>
-        <translation type="unfinished"></translation>
+        <translation>Ilość</translation>
     </message>
     <message>
         <source>incl. VAT</source>
-        <translation type="unfinished"></translation>
+        <translation>z VAT</translation>
     </message>
 </context>
 <context>
@@ -1805,47 +1805,47 @@
     </message>
     <message>
         <source>Breadcrumb</source>
-        <translation type="unfinished"></translation>
+        <translation>Ścieżka nawigacji</translation>
     </message>
     <message>
         <source>Languages</source>
-        <translation type="unfinished"></translation>
+        <translation>Języki</translation>
     </message>
     <message>
         <source>Main</source>
-        <translation type="unfinished"></translation>
+        <translation>Główny</translation>
     </message>
     <message>
         <source>Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Menu</translation>
     </message>
     <message>
         <source>More</source>
-        <translation type="unfinished"></translation>
+        <translation>Więcej</translation>
     </message>
     <message>
         <source>New: Exponential 6.0.15 is here.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nowość: Exponential 6.0.15 jest już dostępny.</translation>
     </message>
     <message>
         <source>Section menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Menu działu</translation>
     </message>
     <message>
         <source>See what is new</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobacz nowości</translation>
     </message>
     <message>
         <source>Skip to content</source>
-        <translation type="unfinished"></translation>
+        <translation>Przejdź do treści</translation>
     </message>
     <message>
         <source>Use the dark theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Użyj ciemnego motywu</translation>
     </message>
     <message>
         <source>Use the light theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Użyj jasnego motywu</translation>
     </message>
 </context>
 <context>
@@ -3494,182 +3494,182 @@
     <name>design/ezdemo/block</name>
     <message>
         <source>Discover what is new</source>
-        <translation type="unfinished"></translation>
+        <translation>Poznaj nowości</translation>
     </message>
     <message>
         <source>Explore the platform</source>
-        <translation type="unfinished"></translation>
+        <translation>Poznaj platformę</translation>
     </message>
     <message>
         <source>Learn more</source>
-        <translation type="unfinished"></translation>
+        <translation>Dowiedz się więcej</translation>
     </message>
     <message>
         <source>Next slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Następny slajd</translation>
     </message>
     <message>
         <source>Previous slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Poprzedni slajd</translation>
     </message>
     <message>
         <source>Read more</source>
-        <translation type="unfinished"></translation>
+        <translation>Czytaj dalej</translation>
     </message>
     <message>
         <source>Read the announcement</source>
-        <translation type="unfinished"></translation>
+        <translation>Przeczytaj ogłoszenie</translation>
     </message>
     <message>
         <source>Read the story</source>
-        <translation type="unfinished"></translation>
+        <translation>Przeczytaj artykuł</translation>
     </message>
     <message>
         <source>Scroll back</source>
-        <translation type="unfinished"></translation>
+        <translation>Przewiń wstecz</translation>
     </message>
     <message>
         <source>Scroll on</source>
-        <translation type="unfinished"></translation>
+        <translation>Przewiń dalej</translation>
     </message>
     <message>
         <source>See the results</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobacz wyniki</translation>
     </message>
     <message>
         <source>Show slide %number</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokaż slajd %number</translation>
     </message>
     <message>
         <source>carousel</source>
-        <translation type="unfinished"></translation>
+        <translation>karuzela</translation>
     </message>
     <message>
         <source>slide</source>
-        <translation type="unfinished"></translation>
+        <translation>slajd</translation>
     </message>
 </context>
 <context>
     <name>design/ezdemo/footer</name>
     <message>
         <source>Explore</source>
-        <translation type="unfinished"></translation>
+        <translation>Odkrywaj</translation>
     </message>
     <message>
         <source>Powered by</source>
-        <translation type="unfinished"></translation>
+        <translation>Działa na</translation>
     </message>
     <message>
         <source>open source content management by the Exponential Foundation and 7x.</source>
-        <translation type="unfinished"></translation>
+        <translation>otwartoźródłowe zarządzanie treścią od Exponential Foundation i 7x.</translation>
     </message>
     <message>
         <source>Get in touch</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontakt</translation>
     </message>
 </context>
 <context>
     <name>design/ezdemo/full</name>
     <message>
         <source>Contact us</source>
-        <translation type="unfinished"></translation>
+        <translation>Skontaktuj się z nami</translation>
     </message>
     <message>
         <source>Questions?</source>
-        <translation type="unfinished"></translation>
+        <translation>Pytania?</translation>
     </message>
     <message>
         <source>Talk to the team about your project.</source>
-        <translation type="unfinished"></translation>
+        <translation>Porozmawiaj z zespołem o swoim projekcie.</translation>
     </message>
 </context>
 <context>
     <name>design/ezdemo/full/blog</name>
     <message>
         <source>All posts</source>
-        <translation type="unfinished"></translation>
+        <translation>Wszystkie wpisy</translation>
     </message>
 </context>
 <context>
     <name>design/ezdemo/full/folder</name>
     <message>
         <source>RSS feed</source>
-        <translation type="unfinished"></translation>
+        <translation>Kanał RSS</translation>
     </message>
 </context>
 <context>
     <name>design/ezdemo/full/gallery</name>
     <message>
         <source>%count pictures</source>
-        <translation type="unfinished"></translation>
+        <translation>%count zdjęć</translation>
     </message>
 </context>
 <context>
     <name>design/ezdemo/full/place</name>
     <message>
         <source>View on the map</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokaż na mapie</translation>
     </message>
 </context>
 <context>
     <name>design/ezdemo/gallery</name>
     <message>
         <source>%index of %count</source>
-        <translation type="unfinished"></translation>
+        <translation>%index z %count</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Zamknąć</translation>
     </message>
     <message>
         <source>Gallery</source>
-        <translation type="unfinished"></translation>
+        <translation>Galeria</translation>
     </message>
     <message>
         <source>Next picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Następne zdjęcie</translation>
     </message>
     <message>
         <source>Previous picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Poprzednie zdjęcie</translation>
     </message>
 </context>
 <context>
     <name>design/ezdemo/share</name>
     <message>
         <source>Copy link</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiuj link</translation>
     </message>
     <message>
         <source>Link copied</source>
-        <translation type="unfinished"></translation>
+        <translation>Skopiowano link</translation>
     </message>
     <message>
         <source>Share</source>
-        <translation type="unfinished"></translation>
+        <translation>Udostępnij</translation>
     </message>
     <message>
         <source>Share this page</source>
-        <translation type="unfinished"></translation>
+        <translation>Udostępnij tę stronę</translation>
     </message>
     <message>
         <source>Share on LinkedIn</source>
-        <translation type="unfinished"></translation>
+        <translation>Udostępnij w LinkedIn</translation>
     </message>
     <message>
         <source>Share on Bluesky</source>
-        <translation type="unfinished"></translation>
+        <translation>Udostępnij w Bluesky</translation>
     </message>
     <message>
         <source>Share by email</source>
-        <translation type="unfinished"></translation>
+        <translation>Udostępnij e-mailem</translation>
     </message>
 </context>
 <context>
     <name>design/ezdemo/tagcloud</name>
     <message>
         <source>%count items tagged %tag</source>
-        <translation type="unfinished"></translation>
+        <translation>%count elementów z tagiem %tag</translation>
     </message>
 </context>
 </TS>

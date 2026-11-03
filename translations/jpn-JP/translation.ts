@@ -43,15 +43,15 @@
     <name>design/admin/preview/article</name>
     <message>
         <source>Comments allowed</source>
-        <translation type="unfinished"></translation>
+        <translation>コメントを許可</translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation type="unfinished"></translation>
+        <translation>はい</translation>
     </message>
     <message>
         <source>No</source>
-        <translation type="unfinished"></translation>
+        <translation>いいえ</translation>
     </message>
 </context>
 <context>
@@ -81,18 +81,18 @@
     </message>
     <message>
         <source>Write a comment</source>
-        <translation type="unfinished"></translation>
+        <translation>コメントを書く</translation>
     </message>
 </context>
 <context>
     <name>design/ezdemo/block/feedback_form</name>
     <message>
         <source>Send form</source>
-        <translation type="unfinished">フォームの送信</translation>
+        <translation>フォームの送信</translation>
     </message>
     <message>
         <source>Send message</source>
-        <translation type="unfinished"></translation>
+        <translation>メッセージを送信</translation>
     </message>
 </context>
 <context>
@@ -103,14 +103,14 @@
     </message>
     <message>
         <source>Get started</source>
-        <translation type="unfinished"></translation>
+        <translation>始める</translation>
     </message>
 </context>
 <context>
     <name>design/ezdemo/block_item/product</name>
     <message>
         <source>Amount</source>
-        <translation type="unfinished">総数</translation>
+        <translation>数量</translation>
     </message>
     <message>
         <source>Buy</source>
@@ -118,7 +118,7 @@
     </message>
     <message>
         <source>Add to basket</source>
-        <translation type="unfinished"></translation>
+        <translation>買い物かごに追加</translation>
     </message>
 </context>
 <context>
@@ -176,11 +176,11 @@
     </message>
     <message>
         <source>Tag cloud</source>
-        <translation type="unfinished"></translation>
+        <translation>タグクラウド</translation>
     </message>
     <message>
         <source>Description</source>
-        <translation type="unfinished">概要</translation>
+        <translation>説明</translation>
     </message>
 </context>
 <context>
@@ -259,11 +259,11 @@
     <name>design/ezdemo/colledtedinfomail</name>
     <message>
         <source>Collected information from %1</source>
-        <translation type="unfinished">%1から収集した情報</translation>
+        <translation>%1 から収集された情報</translation>
     </message>
     <message>
         <source>The following information was collected</source>
-        <translation type="unfinished">次の情報が収集されました</translation>
+        <translation>次の情報が収集されました</translation>
     </message>
 </context>
 <context>
@@ -274,11 +274,11 @@
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished">編集</translation>
+        <translation>編集</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>削除</translation>
     </message>
 </context>
 <context>
@@ -510,23 +510,23 @@
     </message>
     <message>
         <source>Publish the contents of the draft that is being edited. The draft will become the published version of the object.</source>
-        <translation type="unfinished"></translation>
+        <translation>編集中の下書きの内容を公開します。下書きはオブジェクトの公開済みバージョンになります。</translation>
     </message>
     <message>
         <source>Store the contents of the draft that is being edited and continue editing. Use this button to periodically save your work while editing.</source>
-        <translation type="unfinished"></translation>
+        <translation>編集中の下書きの内容を保存して、編集を続けます。編集中に作業内容を定期的に保存するには、このボタンを使用します。</translation>
     </message>
     <message>
         <source>Store draft and exit</source>
-        <translation type="unfinished"></translation>
+        <translation>下書きを保存して終了</translation>
     </message>
     <message>
         <source>Store the draft that is being edited and exit from edit mode. Use when you need to exit your work and return later to continue.</source>
-        <translation type="unfinished"></translation>
+        <translation>編集中の下書きを保存して、編集モードを終了します。作業を中断して後で再開する場合に使用します。</translation>
     </message>
     <message>
         <source>Discard the draft that is being edited. This will also remove the translations that belong to the draft (if any).</source>
-        <translation type="unfinished"></translation>
+        <translation>編集中の下書きを破棄します。下書きに属する翻訳がある場合は、それも削除されます。</translation>
     </message>
 </context>
 <context>
@@ -1135,7 +1135,7 @@
     </message>
     <message>
         <source>Latest news</source>
-        <translation type="unfinished"></translation>
+        <translation>最新ニュース</translation>
     </message>
 </context>
 <context>
@@ -1146,7 +1146,7 @@
     </message>
     <message>
         <source>Resources</source>
-        <translation type="unfinished"></translation>
+        <translation>リソース</translation>
     </message>
 </context>
 <context>
@@ -1173,7 +1173,7 @@
     </message>
     <message>
         <source>Location</source>
-        <translation type="unfinished">配置</translation>
+        <translation>配置先</translation>
     </message>
 </context>
 <context>
@@ -1205,11 +1205,11 @@
     </message>
     <message>
         <source>Past event</source>
-        <translation type="unfinished"></translation>
+        <translation>終了したイベント</translation>
     </message>
     <message>
         <source>until</source>
-        <translation type="unfinished"></translation>
+        <translation>まで</translation>
     </message>
 </context>
 <context>
@@ -1267,15 +1267,15 @@
     </message>
     <message>
         <source>Events</source>
-        <translation type="unfinished"></translation>
+        <translation>イベント</translation>
     </message>
     <message>
         <source>Program</source>
-        <translation type="unfinished"></translation>
+        <translation>プログラム</translation>
     </message>
     <message>
         <source>Webinars, workshops and meetups. Add one to your calendar or join us live.</source>
-        <translation type="unfinished"></translation>
+        <translation>ウェビナー、ワークショップ、ミートアップ。カレンダーに追加するか、ライブでご参加ください。</translation>
     </message>
 </context>
 <context>
@@ -1433,7 +1433,7 @@
     </message>
     <message>
         <source>Pictures</source>
-        <translation type="unfinished"></translation>
+        <translation>画像</translation>
     </message>
 </context>
 <context>
@@ -1478,26 +1478,26 @@
     </message>
     <message>
         <source>Amount</source>
-        <translation type="unfinished">総数</translation>
+        <translation>数量</translation>
     </message>
     <message>
         <source>Category</source>
-        <translation type="unfinished"></translation>
+        <translation>カテゴリ</translation>
     </message>
     <message>
         <source>Quantity</source>
-        <translation type="unfinished"></translation>
+        <translation>数量</translation>
     </message>
     <message>
         <source>incl. VAT</source>
-        <translation type="unfinished"></translation>
+        <translation>税込</translation>
     </message>
 </context>
 <context>
     <name>design/ezdemo/full/video</name>
     <message>
         <source>Download</source>
-        <translation type="unfinished"></translation>
+        <translation>ダウンロード</translation>
     </message>
 </context>
 <context>
@@ -1544,7 +1544,7 @@
     </message>
     <message>
         <source>Modified:</source>
-        <translation type="unfinished">修正日時:</translation>
+        <translation>更新日時:</translation>
     </message>
     <message>
         <source>Download file</source>
@@ -1599,7 +1599,7 @@
     <name>design/ezdemo/line/product</name>
     <message>
         <source>Amount</source>
-        <translation type="unfinished">総数</translation>
+        <translation>数量</translation>
     </message>
     <message>
         <source>Buy</source>
@@ -1692,7 +1692,7 @@
     </message>
     <message>
         <source>The items contain more than the maximum possible nodes for subtree removal and will not be deleted. You can remove this subtree using the ezsubtreeremove.php script.</source>
-        <translation type="unfinished"></translation>
+        <translation>これらのアイテムには、サブツリーの削除で処理できる最大ノード数を超えるノードが含まれているため、削除されません。このサブツリーは ezsubtreeremove.php スクリプトを使用して削除できます。</translation>
     </message>
 </context>
 <context>
@@ -1799,43 +1799,43 @@
     </message>
     <message>
         <source>Tag cloud</source>
-        <translation type="unfinished"></translation>
+        <translation>タグクラウド</translation>
     </message>
     <message>
         <source>Site map</source>
-        <translation type="unfinished">サイトマップ</translation>
+        <translation>サイトマップ</translation>
     </message>
     <message>
         <source>Shopping basket</source>
-        <translation type="unfinished">買い物カゴ</translation>
+        <translation>買い物かご</translation>
     </message>
     <message>
         <source>My profile</source>
-        <translation type="unfinished"></translation>
+        <translation>マイプロフィール</translation>
     </message>
     <message>
         <source>Logout</source>
-        <translation type="unfinished"></translation>
+        <translation>ログアウト</translation>
     </message>
     <message>
         <source>Register</source>
-        <translation type="unfinished">登録</translation>
+        <translation>登録</translation>
     </message>
     <message>
         <source>Login</source>
-        <translation type="unfinished">ログイン</translation>
+        <translation>ログイン</translation>
     </message>
     <message>
         <source>Username</source>
-        <translation type="unfinished">ユーザ名</translation>
+        <translation>ユーザー名</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation type="unfinished">パスワード</translation>
+        <translation>パスワード</translation>
     </message>
     <message>
         <source>Forgot your password?</source>
-        <translation type="unfinished">パスワードを忘れましたか?</translation>
+        <translation>パスワードをお忘れですか？</translation>
     </message>
     <message>
         <source>Search text</source>
@@ -1843,47 +1843,47 @@
     </message>
     <message>
         <source>Breadcrumb</source>
-        <translation type="unfinished"></translation>
+        <translation>階層リンク</translation>
     </message>
     <message>
         <source>Languages</source>
-        <translation type="unfinished"></translation>
+        <translation>言語</translation>
     </message>
     <message>
         <source>Main</source>
-        <translation type="unfinished"></translation>
+        <translation>メイン</translation>
     </message>
     <message>
         <source>Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>メニュー</translation>
     </message>
     <message>
         <source>More</source>
-        <translation type="unfinished"></translation>
+        <translation>その他</translation>
     </message>
     <message>
         <source>New: Exponential 6.0.15 is here.</source>
-        <translation type="unfinished"></translation>
+        <translation>新着: Exponential 6.0.15 が登場しました。</translation>
     </message>
     <message>
         <source>Section menu</source>
-        <translation type="unfinished"></translation>
+        <translation>セクションメニュー</translation>
     </message>
     <message>
         <source>See what is new</source>
-        <translation type="unfinished"></translation>
+        <translation>新機能を見る</translation>
     </message>
     <message>
         <source>Skip to content</source>
-        <translation type="unfinished"></translation>
+        <translation>コンテンツへ移動</translation>
     </message>
     <message>
         <source>Use the dark theme</source>
-        <translation type="unfinished"></translation>
+        <translation>ダークテーマを使う</translation>
     </message>
     <message>
         <source>Use the light theme</source>
-        <translation type="unfinished"></translation>
+        <translation>ライトテーマを使う</translation>
     </message>
 </context>
 <context>
@@ -3121,11 +3121,11 @@
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished">検索</translation>
+        <translation>検索</translation>
     </message>
     <message>
         <source>Results</source>
-        <translation type="unfinished">結果</translation>
+        <translation>結果</translation>
     </message>
     <message>
         <source>Select:</source>
@@ -3137,11 +3137,11 @@
     </message>
     <message>
         <source>Edit &lt;%object_name&gt; (%class_name)</source>
-        <translation type="unfinished">&lt;%object_name&gt; (%class_name)の編集</translation>
+        <translation>&lt;%object_name&gt; (%class_name) の編集</translation>
     </message>
     <message>
         <source>Translating content from %from_lang to %to_lang</source>
-        <translation type="unfinished">%from_lang から%to_langへコンテンツを翻訳</translation>
+        <translation>%from_lang から %to_lang へのコンテンツの翻訳</translation>
     </message>
     <message>
         <source>Content in %language</source>
@@ -3149,41 +3149,41 @@
     </message>
     <message>
         <source>Send for publishing</source>
-        <translation type="unfinished">送信して公開</translation>
+        <translation>公開に送信</translation>
     </message>
     <message>
         <source>Store draft</source>
-        <translation type="unfinished">ドラフトの保存</translation>
+        <translation>下書きの保存</translation>
     </message>
     <message>
         <source>Discard draft</source>
-        <translation type="unfinished">ドラフトの破棄</translation>
+        <translation>下書きの破棄</translation>
     </message>
 </context>
 <context>
     <name>design/ezflow/embed/poll</name>
     <message>
         <source>Vote</source>
-        <translation type="unfinished">投票</translation>
+        <translation>投票</translation>
     </message>
 </context>
 <context>
     <name>design/standard/user</name>
     <message>
         <source>Your email address has been confirmed. An administrator needs to approve your sign up request, before your login becomes valid.</source>
-        <translation type="unfinished"></translation>
+        <translation>メールアドレスが確認されました。ログインが有効になる前に、管理者が登録申請を承認する必要があります。</translation>
     </message>
     <message>
         <source>Your account is now activated.</source>
-        <translation type="unfinished">アカウントは有効になりました。</translation>
+        <translation>アカウントが有効になりました。</translation>
     </message>
     <message>
         <source>Your account is already active.</source>
-        <translation type="unfinished">あなたのアカウントは既に有効です。</translation>
+        <translation>アカウントは既に有効です。</translation>
     </message>
     <message>
         <source>Sorry, the key submitted was not a valid key. Account was not activated.</source>
-        <translation type="unfinished">パスワードが無効なためアカウントを有効に出来ません。</translation>
+        <translation>申し訳ありませんが、送信されたキーは有効なキーではありません。アカウントは有効になりませんでした。</translation>
     </message>
 </context>
 <context>
@@ -3216,7 +3216,7 @@
     </message>
     <message>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>名前:</translation>
     </message>
     <message>
         <source>Website:</source>
@@ -3260,7 +3260,7 @@
     </message>
     <message>
         <source>Remember me</source>
-        <translation type="unfinished">次回からログインを省略</translation>
+        <translation>ログイン状態を保持する</translation>
     </message>
     <message>
         <source>Add comment</source>
@@ -3275,182 +3275,182 @@
     <name>design/ezdemo/block</name>
     <message>
         <source>Discover what is new</source>
-        <translation type="unfinished"></translation>
+        <translation>新機能を見る</translation>
     </message>
     <message>
         <source>Explore the platform</source>
-        <translation type="unfinished"></translation>
+        <translation>プラットフォームを見る</translation>
     </message>
     <message>
         <source>Learn more</source>
-        <translation type="unfinished"></translation>
+        <translation>詳しく見る</translation>
     </message>
     <message>
         <source>Next slide</source>
-        <translation type="unfinished"></translation>
+        <translation>次のスライド</translation>
     </message>
     <message>
         <source>Previous slide</source>
-        <translation type="unfinished"></translation>
+        <translation>前のスライド</translation>
     </message>
     <message>
         <source>Read more</source>
-        <translation type="unfinished"></translation>
+        <translation>続きを読む</translation>
     </message>
     <message>
         <source>Read the announcement</source>
-        <translation type="unfinished"></translation>
+        <translation>お知らせを読む</translation>
     </message>
     <message>
         <source>Read the story</source>
-        <translation type="unfinished"></translation>
+        <translation>記事を読む</translation>
     </message>
     <message>
         <source>Scroll back</source>
-        <translation type="unfinished"></translation>
+        <translation>前へスクロール</translation>
     </message>
     <message>
         <source>Scroll on</source>
-        <translation type="unfinished"></translation>
+        <translation>次へスクロール</translation>
     </message>
     <message>
         <source>See the results</source>
-        <translation type="unfinished"></translation>
+        <translation>結果を見る</translation>
     </message>
     <message>
         <source>Show slide %number</source>
-        <translation type="unfinished"></translation>
+        <translation>スライド %number を表示</translation>
     </message>
     <message>
         <source>carousel</source>
-        <translation type="unfinished"></translation>
+        <translation>カルーセル</translation>
     </message>
     <message>
         <source>slide</source>
-        <translation type="unfinished"></translation>
+        <translation>スライド</translation>
     </message>
 </context>
 <context>
     <name>design/ezdemo/footer</name>
     <message>
         <source>Explore</source>
-        <translation type="unfinished"></translation>
+        <translation>探す</translation>
     </message>
     <message>
         <source>Powered by</source>
-        <translation type="unfinished"></translation>
+        <translation>Powered by</translation>
     </message>
     <message>
         <source>open source content management by the Exponential Foundation and 7x.</source>
-        <translation type="unfinished"></translation>
+        <translation>Exponential Foundation と 7x によるオープンソースのコンテンツ管理。</translation>
     </message>
     <message>
         <source>Get in touch</source>
-        <translation type="unfinished"></translation>
+        <translation>お問い合わせ</translation>
     </message>
 </context>
 <context>
     <name>design/ezdemo/full</name>
     <message>
         <source>Contact us</source>
-        <translation type="unfinished"></translation>
+        <translation>お問い合わせ</translation>
     </message>
     <message>
         <source>Questions?</source>
-        <translation type="unfinished"></translation>
+        <translation>ご質問はありますか？</translation>
     </message>
     <message>
         <source>Talk to the team about your project.</source>
-        <translation type="unfinished"></translation>
+        <translation>プロジェクトについてチームにご相談ください。</translation>
     </message>
 </context>
 <context>
     <name>design/ezdemo/full/blog</name>
     <message>
         <source>All posts</source>
-        <translation type="unfinished"></translation>
+        <translation>すべての投稿</translation>
     </message>
 </context>
 <context>
     <name>design/ezdemo/full/folder</name>
     <message>
         <source>RSS feed</source>
-        <translation type="unfinished"></translation>
+        <translation>RSS フィード</translation>
     </message>
 </context>
 <context>
     <name>design/ezdemo/full/gallery</name>
     <message>
         <source>%count pictures</source>
-        <translation type="unfinished"></translation>
+        <translation>%count 枚の画像</translation>
     </message>
 </context>
 <context>
     <name>design/ezdemo/full/place</name>
     <message>
         <source>View on the map</source>
-        <translation type="unfinished"></translation>
+        <translation>地図で見る</translation>
     </message>
 </context>
 <context>
     <name>design/ezdemo/gallery</name>
     <message>
         <source>%index of %count</source>
-        <translation type="unfinished"></translation>
+        <translation>%index / %count</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>閉じる</translation>
     </message>
     <message>
         <source>Gallery</source>
-        <translation type="unfinished"></translation>
+        <translation>ギャラリー</translation>
     </message>
     <message>
         <source>Next picture</source>
-        <translation type="unfinished"></translation>
+        <translation>次の画像</translation>
     </message>
     <message>
         <source>Previous picture</source>
-        <translation type="unfinished"></translation>
+        <translation>前の画像</translation>
     </message>
 </context>
 <context>
     <name>design/ezdemo/share</name>
     <message>
         <source>Copy link</source>
-        <translation type="unfinished"></translation>
+        <translation>リンクをコピー</translation>
     </message>
     <message>
         <source>Link copied</source>
-        <translation type="unfinished"></translation>
+        <translation>リンクをコピーしました</translation>
     </message>
     <message>
         <source>Share</source>
-        <translation type="unfinished"></translation>
+        <translation>共有</translation>
     </message>
     <message>
         <source>Share this page</source>
-        <translation type="unfinished"></translation>
+        <translation>このページを共有</translation>
     </message>
     <message>
         <source>Share on LinkedIn</source>
-        <translation type="unfinished"></translation>
+        <translation>LinkedIn で共有</translation>
     </message>
     <message>
         <source>Share on Bluesky</source>
-        <translation type="unfinished"></translation>
+        <translation>Bluesky で共有</translation>
     </message>
     <message>
         <source>Share by email</source>
-        <translation type="unfinished"></translation>
+        <translation>メールで共有</translation>
     </message>
 </context>
 <context>
     <name>design/ezdemo/tagcloud</name>
     <message>
         <source>%count items tagged %tag</source>
-        <translation type="unfinished"></translation>
+        <translation>%tag のタグが付いた %count 件</translation>
     </message>
 </context>
 </TS>

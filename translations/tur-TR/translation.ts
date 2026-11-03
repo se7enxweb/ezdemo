@@ -58,7 +58,7 @@
     </message>
     <message>
         <source>Write a comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Yorum yazın</translation>
     </message>
 </context>
 <context>
@@ -69,7 +69,7 @@
     </message>
     <message>
         <source>Send message</source>
-        <translation type="unfinished"></translation>
+        <translation>Mesaj gönder</translation>
     </message>
 </context>
 <context>
@@ -80,7 +80,7 @@
     </message>
     <message>
         <source>Get started</source>
-        <translation type="unfinished"></translation>
+        <translation>Hemen başlayın</translation>
     </message>
 </context>
 <context>
@@ -95,7 +95,7 @@
     </message>
     <message>
         <source>Add to basket</source>
-        <translation type="unfinished"></translation>
+        <translation>Sepete ekle</translation>
     </message>
 </context>
 <context>
@@ -1097,7 +1097,7 @@
     </message>
     <message>
         <source>Latest news</source>
-        <translation type="unfinished"></translation>
+        <translation>Son haberler</translation>
     </message>
 </context>
 <context>
@@ -1108,7 +1108,7 @@
     </message>
     <message>
         <source>Resources</source>
-        <translation type="unfinished"></translation>
+        <translation>Kaynaklar</translation>
     </message>
 </context>
 <context>
@@ -1167,11 +1167,11 @@
     </message>
     <message>
         <source>Past event</source>
-        <translation type="unfinished"></translation>
+        <translation>Geçmiş etkinlik</translation>
     </message>
     <message>
         <source>until</source>
-        <translation type="unfinished"></translation>
+        <translation>şu tarihe kadar:</translation>
     </message>
 </context>
 <context>
@@ -1229,15 +1229,15 @@
     </message>
     <message>
         <source>Events</source>
-        <translation type="unfinished"></translation>
+        <translation>Olaylar</translation>
     </message>
     <message>
         <source>Program</source>
-        <translation type="unfinished"></translation>
+        <translation>Program</translation>
     </message>
     <message>
         <source>Webinars, workshops and meetups. Add one to your calendar or join us live.</source>
-        <translation type="unfinished"></translation>
+        <translation>Web seminerleri, atölyeler ve buluşmalar. Takviminize ekleyin veya canlı katılın.</translation>
     </message>
 </context>
 <context>
@@ -1395,7 +1395,7 @@
     </message>
     <message>
         <source>Pictures</source>
-        <translation type="unfinished"></translation>
+        <translation>Görseller</translation>
     </message>
 </context>
 <context>
@@ -1444,15 +1444,15 @@
     </message>
     <message>
         <source>Category</source>
-        <translation type="unfinished"></translation>
+        <translation>Kategori</translation>
     </message>
     <message>
         <source>Quantity</source>
-        <translation type="unfinished"></translation>
+        <translation>Miktar</translation>
     </message>
     <message>
         <source>incl. VAT</source>
-        <translation type="unfinished"></translation>
+        <translation>KDV dahil</translation>
     </message>
 </context>
 <context>
@@ -1805,47 +1805,47 @@
     </message>
     <message>
         <source>Breadcrumb</source>
-        <translation type="unfinished"></translation>
+        <translation>İçerik haritası</translation>
     </message>
     <message>
         <source>Languages</source>
-        <translation type="unfinished"></translation>
+        <translation>Diller</translation>
     </message>
     <message>
         <source>Main</source>
-        <translation type="unfinished"></translation>
+        <translation>Ana</translation>
     </message>
     <message>
         <source>Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Menü</translation>
     </message>
     <message>
         <source>More</source>
-        <translation type="unfinished"></translation>
+        <translation>Diğer</translation>
     </message>
     <message>
         <source>New: Exponential 6.0.15 is here.</source>
-        <translation type="unfinished"></translation>
+        <translation>Yeni: Exponential 6.0.15 yayında.</translation>
     </message>
     <message>
         <source>Section menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Bölüm menüsü</translation>
     </message>
     <message>
         <source>See what is new</source>
-        <translation type="unfinished"></translation>
+        <translation>Yenilikleri görün</translation>
     </message>
     <message>
         <source>Skip to content</source>
-        <translation type="unfinished"></translation>
+        <translation>İçeriğe geç</translation>
     </message>
     <message>
         <source>Use the dark theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Koyu temayı kullan</translation>
     </message>
     <message>
         <source>Use the light theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Açık temayı kullan</translation>
     </message>
 </context>
 <context>
@@ -3494,182 +3494,182 @@
     <name>design/ezdemo/block</name>
     <message>
         <source>Discover what is new</source>
-        <translation type="unfinished"></translation>
+        <translation>Yenilikleri keşfedin</translation>
     </message>
     <message>
         <source>Explore the platform</source>
-        <translation type="unfinished"></translation>
+        <translation>Platformu keşfedin</translation>
     </message>
     <message>
         <source>Learn more</source>
-        <translation type="unfinished"></translation>
+        <translation>Daha fazla bilgi</translation>
     </message>
     <message>
         <source>Next slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Sonraki slayt</translation>
     </message>
     <message>
         <source>Previous slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Önceki slayt</translation>
     </message>
     <message>
         <source>Read more</source>
-        <translation type="unfinished"></translation>
+        <translation>Devamını okuyun</translation>
     </message>
     <message>
         <source>Read the announcement</source>
-        <translation type="unfinished"></translation>
+        <translation>Duyuruyu okuyun</translation>
     </message>
     <message>
         <source>Read the story</source>
-        <translation type="unfinished"></translation>
+        <translation>Yazıyı okuyun</translation>
     </message>
     <message>
         <source>Scroll back</source>
-        <translation type="unfinished"></translation>
+        <translation>Geri kaydır</translation>
     </message>
     <message>
         <source>Scroll on</source>
-        <translation type="unfinished"></translation>
+        <translation>İleri kaydır</translation>
     </message>
     <message>
         <source>See the results</source>
-        <translation type="unfinished"></translation>
+        <translation>Sonuçları görün</translation>
     </message>
     <message>
         <source>Show slide %number</source>
-        <translation type="unfinished"></translation>
+        <translation>%number. slaytı göster</translation>
     </message>
     <message>
         <source>carousel</source>
-        <translation type="unfinished"></translation>
+        <translation>karusel</translation>
     </message>
     <message>
         <source>slide</source>
-        <translation type="unfinished"></translation>
+        <translation>slayt</translation>
     </message>
 </context>
 <context>
     <name>design/ezdemo/footer</name>
     <message>
         <source>Explore</source>
-        <translation type="unfinished"></translation>
+        <translation>Keşfedin</translation>
     </message>
     <message>
         <source>Powered by</source>
-        <translation type="unfinished"></translation>
+        <translation>Altyapı:</translation>
     </message>
     <message>
         <source>open source content management by the Exponential Foundation and 7x.</source>
-        <translation type="unfinished"></translation>
+        <translation>Exponential Foundation ve 7x'in açık kaynak içerik yönetimi.</translation>
     </message>
     <message>
         <source>Get in touch</source>
-        <translation type="unfinished"></translation>
+        <translation>İletişim</translation>
     </message>
 </context>
 <context>
     <name>design/ezdemo/full</name>
     <message>
         <source>Contact us</source>
-        <translation type="unfinished"></translation>
+        <translation>Bize ulaşın</translation>
     </message>
     <message>
         <source>Questions?</source>
-        <translation type="unfinished"></translation>
+        <translation>Sorularınız mı var?</translation>
     </message>
     <message>
         <source>Talk to the team about your project.</source>
-        <translation type="unfinished"></translation>
+        <translation>Projeniz hakkında ekiple konuşun.</translation>
     </message>
 </context>
 <context>
     <name>design/ezdemo/full/blog</name>
     <message>
         <source>All posts</source>
-        <translation type="unfinished"></translation>
+        <translation>Tüm yazılar</translation>
     </message>
 </context>
 <context>
     <name>design/ezdemo/full/folder</name>
     <message>
         <source>RSS feed</source>
-        <translation type="unfinished"></translation>
+        <translation>RSS beslemesi</translation>
     </message>
 </context>
 <context>
     <name>design/ezdemo/full/gallery</name>
     <message>
         <source>%count pictures</source>
-        <translation type="unfinished"></translation>
+        <translation>%count görsel</translation>
     </message>
 </context>
 <context>
     <name>design/ezdemo/full/place</name>
     <message>
         <source>View on the map</source>
-        <translation type="unfinished"></translation>
+        <translation>Haritada görün</translation>
     </message>
 </context>
 <context>
     <name>design/ezdemo/gallery</name>
     <message>
         <source>%index of %count</source>
-        <translation type="unfinished"></translation>
+        <translation>%index / %count</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Kapat</translation>
     </message>
     <message>
         <source>Gallery</source>
-        <translation type="unfinished"></translation>
+        <translation>Galeri</translation>
     </message>
     <message>
         <source>Next picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Sonraki görsel</translation>
     </message>
     <message>
         <source>Previous picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Önceki görsel</translation>
     </message>
 </context>
 <context>
     <name>design/ezdemo/share</name>
     <message>
         <source>Copy link</source>
-        <translation type="unfinished"></translation>
+        <translation>Bağlantıyı kopyala</translation>
     </message>
     <message>
         <source>Link copied</source>
-        <translation type="unfinished"></translation>
+        <translation>Bağlantı kopyalandı</translation>
     </message>
     <message>
         <source>Share</source>
-        <translation type="unfinished"></translation>
+        <translation>Paylaş</translation>
     </message>
     <message>
         <source>Share this page</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu sayfayı paylaş</translation>
     </message>
     <message>
         <source>Share on LinkedIn</source>
-        <translation type="unfinished"></translation>
+        <translation>LinkedIn'de paylaş</translation>
     </message>
     <message>
         <source>Share on Bluesky</source>
-        <translation type="unfinished"></translation>
+        <translation>Bluesky'da paylaş</translation>
     </message>
     <message>
         <source>Share by email</source>
-        <translation type="unfinished"></translation>
+        <translation>E-postayla paylaş</translation>
     </message>
 </context>
 <context>
     <name>design/ezdemo/tagcloud</name>
     <message>
         <source>%count items tagged %tag</source>
-        <translation type="unfinished"></translation>
+        <translation>%tag etiketli %count öğe</translation>
     </message>
 </context>
 </TS>

@@ -28,30 +28,30 @@
     <name>design/admin/content/edit_attribute</name>
     <message>
         <source>not translatable</source>
-        <translation type="unfinished"></translation>
+        <translation>Nicht übersetzbar</translation>
     </message>
     <message>
         <source>required</source>
-        <translation type="unfinished"></translation>
+        <translation>erforderlich</translation>
     </message>
     <message>
         <source>information collector</source>
-        <translation type="unfinished"></translation>
+        <translation>Informationssammler</translation>
     </message>
 </context>
 <context>
     <name>design/admin/preview/article</name>
     <message>
         <source>Comments allowed</source>
-        <translation type="unfinished"></translation>
+        <translation>Kommentare erlaubt</translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation type="unfinished"></translation>
+        <translation>Ja</translation>
     </message>
     <message>
         <source>No</source>
-        <translation type="unfinished"></translation>
+        <translation>Nein</translation>
     </message>
 </context>
 <context>
@@ -1165,7 +1165,7 @@
     </message>
     <message>
         <source>Location</source>
-        <translation type="unfinished">Ort</translation>
+        <translation>Ort</translation>
     </message>
 </context>
 <context>
@@ -3325,11 +3325,11 @@
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Suchen</translation>
     </message>
     <message>
         <source>Results</source>
-        <translation type="unfinished">Ergebnisse</translation>
+        <translation>Ergebnisse</translation>
     </message>
     <message>
         <source>Select:</source>
@@ -3345,7 +3345,7 @@
     </message>
     <message>
         <source>Translating content from %from_lang to %to_lang</source>
-        <translation type="unfinished">Inhalt von %from_lang nach %to_lang übersetzen</translation>
+        <translation>Übersetze den Inhalte von %from_lang in %to_lang</translation>
     </message>
     <message>
         <source>Content in %language</source>
@@ -3353,41 +3353,41 @@
     </message>
     <message>
         <source>Send for publishing</source>
-        <translation type="unfinished">Zur Veröffentlichung schicken</translation>
+        <translation>Zur Veröffentlichung schicken</translation>
     </message>
     <message>
         <source>Store draft</source>
-        <translation type="unfinished">Entwurf speichern</translation>
+        <translation>Entwurf speichern</translation>
     </message>
     <message>
         <source>Discard draft</source>
-        <translation type="unfinished">Entwurf verwerfen</translation>
+        <translation>Entwurf verwerfen</translation>
     </message>
 </context>
 <context>
     <name>design/ezflow/embed/poll</name>
     <message>
         <source>Vote</source>
-        <translation type="unfinished">Abstimmen</translation>
+        <translation>abstimmen</translation>
     </message>
 </context>
 <context>
     <name>design/standard/user</name>
     <message>
         <source>Your email address has been confirmed. An administrator needs to approve your sign up request, before your login becomes valid.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ihre E-Mail-Adresse wurde bestätigt. Ein Administrator muss Ihre Registrierung noch freigeben, bevor Ihr Zugang gültig wird.</translation>
     </message>
     <message>
         <source>Your account is now activated.</source>
-        <translation type="unfinished">Ihr Konto ist nun aktiviert.</translation>
+        <translation>Ihr Benutzerkonto wurde erfolgreich erstellt.</translation>
     </message>
     <message>
         <source>Your account is already active.</source>
-        <translation type="unfinished">Ihr Konto ist bereits aktiv.</translation>
+        <translation>Ihr Konto ist bereits aktiviert.</translation>
     </message>
     <message>
         <source>Sorry, the key submitted was not a valid key. Account was not activated.</source>
-        <translation type="unfinished">Entschuldigung, der übertragene Schlüssel war nicht gültig. Ihr Konto wurde nicht aktiviert.</translation>
+        <translation>Der übertragene Schlüssel war nicht gültig. Ihr Account wurde nicht aktiviert.</translation>
     </message>
 </context>
 <context>
@@ -3420,7 +3420,7 @@
     </message>
     <message>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Name:</translation>
     </message>
     <message>
         <source>Website:</source>
@@ -3464,7 +3464,7 @@
     </message>
     <message>
         <source>Remember me</source>
-        <translation type="unfinished">Auf diesem Computer bis zur Abmeldung angemeldet bleiben</translation>
+        <translation>Angemeldet bleiben</translation>
     </message>
     <message>
         <source>Add comment</source>
