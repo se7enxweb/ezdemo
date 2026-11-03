@@ -20,7 +20,7 @@
 </div>
 
 {if $license}
-    <pre style="height: 300px; overflow:scroll;">{$license|wash}</pre>
+    <pre class="ed-license">{$license|wash}</pre>
 {else}
     <p>{'Could not load LICENSE file! You should have a LICENSE file in your eZ Publish root directory.'|i18n( 'design/admin/ezinfo/about' )}</p>
 {/if}
