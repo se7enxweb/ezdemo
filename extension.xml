@@ -14,7 +14,7 @@
         </requires>
         <extends>
             <extension name="ezflow" />
-            <extension name="ezwt" />
+            <extension name="expwt" />
             <extension name="ezodf" />
         </extends>
     </dependencies>

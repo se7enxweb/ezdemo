@@ -1,6 +1,6 @@
 <form name="editform" id="editform" enctype="multipart/form-data" method="post" action={concat( '/content/edit/', $object.id, '/', $edit_version, '/', $edit_language|not|choose( concat( $edit_language, '/' ), '/' ), $is_translating_content|not|choose( concat( $from_language, '/' ), '' ) )|ezurl}>
 
-{include uri='design:parts/website_toolbar_edit.tpl'}
+{include uri='design:parts/expwt_edit_actions.tpl'}
 
 <div class="content-edit">
 
